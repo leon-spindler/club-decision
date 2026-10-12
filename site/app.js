@@ -22,7 +22,8 @@
     ...opts,
     headers: {
       apikey: SUPABASE_ANON_KEY,
-      Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
+      // Legacy JWT anon keys also go in Authorization; new sb_publishable_ keys must not.
+      ...(SUPABASE_ANON_KEY.startsWith("eyJ") ? { Authorization: `Bearer ${SUPABASE_ANON_KEY}` } : {}),
       "Content-Type": "application/json",
       ...(opts.headers || {}),
     },
