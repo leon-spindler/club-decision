@@ -7270,5 +7270,81 @@
   "plays": 47417,
   "uploader": "Synthetic Love Records",
   "source": "search"
+ },
+ "177898": {
+  "name": "BIJI ON DECKS",
+  "ra_id": "177898",
+  "soundcloud": "https://soundcloud.com/bijiondecks",
+  "sc_id": 138019441,
+  "followers": 170
+ },
+ "166888": {
+  "name": "EZA (DE)",
+  "ra_id": "166888",
+  "soundcloud": "https://soundcloud.com/eric-knight-395045680",
+  "sc_id": 955856263,
+  "followers": 0
+ },
+ "147263": {
+  "name": "elvito",
+  "ra_id": "147263",
+  "soundcloud": "https://soundcloud.com/elvitoelvito",
+  "sc_id": 338773784,
+  "followers": 2075
+ },
+ "186522": {
+  "name": "Dugi",
+  "ra_id": "186522",
+  "soundcloud": "https://soundcloud.com/dugidugi",
+  "sc_id": 953332384,
+  "followers": 9107
+ },
+ "153266": {
+  "name": "LIIAS",
+  "ra_id": "153266",
+  "soundcloud": "https://soundcloud.com/liasmp3",
+  "sc_id": 130097667,
+  "followers": 373
+ },
+ "set:186522": {
+  "id": 2363276129,
+  "title": "Dugi @ Nerve - 17.07.2026",
+  "url": "https://soundcloud.com/dugidugi/nerve-17-07-26",
+  "minutes": 61,
+  "plays": 1695,
+  "uploader": "dugi",
+  "source": "profile"
+ },
+ "119212": {
+  "name": "Holten",
+  "ra_id": "119212",
+  "soundcloud": "https://soundcloud.com/waveddd",
+  "sc_id": 373587023,
+  "followers": 117
+ },
+ "set:119212": {
+  "id": 345301620,
+  "title": "Say What? Recordings Radio Show 054 | Van Holten",
+  "url": "https://soundcloud.com/saywhatrecords/say-what-recordings-show-054",
+  "minutes": 59,
+  "plays": 3165,
+  "uploader": "Say What? Records",
+  "source": "search"
+ },
+ "96349": {
+  "name": "Wiebe Roose",
+  "ra_id": "96349",
+  "soundcloud": "https://soundcloud.com/wieberoose",
+  "sc_id": 1560516,
+  "followers": 2967
+ },
+ "set:96349": {
+  "id": 1146774724,
+  "title": "Wiebe Roose closing Hammahalle Sisyphos 23/10/2021 Part 1 of 3",
+  "url": "https://soundcloud.com/wieberoose/wiebe-roose-closing-hammahalle-sisyphos-23102021-part-1-of-3",
+  "minutes": 115,
+  "plays": 5681,
+  "uploader": "Wiebe Roose (Dr Double U)",
+  "source": "profile"
  }
 }
