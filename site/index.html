@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Berlin Nights</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌙</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="bar">
+    <h1>Berlin Nights <span class="sub">14–17 Oct</span></h1>
+    <button id="who" class="pill" title="Change name"></button>
+  </div>
+  <nav id="days"></nav>
+  <div class="tools">
+    <input id="q" type="search" placeholder="Search event, venue, artist…">
+    <select id="sort">
+      <option value="ra">RA order</option>
+      <option value="interest">Most interested on RA</option>
+      <option value="group">Group average</option>
+      <option value="mine">My rating</option>
+    </select>
+    <label class="chk"><input id="unrated" type="checkbox"> Unrated only</label>
+    <label class="chk" id="shortWrap" hidden><input id="allEvents" type="checkbox"> Show tossed</label>
+  </div>
+  <div id="status" class="status"></div>
+</header>
+<main id="list"></main>
+
+<dialog id="nameDlg">
+  <form method="dialog">
+    <h2>Who's rating?</h2>
+    <input id="nameIn" required maxlength="24" placeholder="Your name" autocomplete="nickname">
+    <button class="pill primary">Let's go</button>
+  </form>
+</dialog>
+
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

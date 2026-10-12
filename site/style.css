@@ -1,0 +1,69 @@
+:root {
+  --bg: #0b0b10; --card: #15151d; --line: #262633; --fg: #ececf1; --dim: #8b8ba0;
+  --acc: #ff3d7f; --star: #ffc93c;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--fg);
+  font: 15px/1.4 system-ui, -apple-system, "Segoe UI", sans-serif; }
+a { color: inherit; }
+header { position: sticky; top: 0; z-index: 5; background: rgba(11,11,16,.94);
+  backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); padding: 10px 16px; }
+.bar { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+h1 { margin: 0; font-size: 20px; letter-spacing: .5px; }
+h1 .sub { color: var(--dim); font-weight: 400; font-size: 14px; }
+.pill { background: var(--card); color: var(--fg); border: 1px solid var(--line);
+  border-radius: 999px; padding: 6px 12px; font: inherit; cursor: pointer; }
+.pill.primary { background: var(--acc); border-color: var(--acc); color: #fff; }
+nav { display: flex; gap: 6px; margin: 10px 0 8px; overflow-x: auto; }
+nav button { flex: 1 0 auto; background: var(--card); border: 1px solid var(--line); color: var(--dim);
+  border-radius: 10px; padding: 6px 10px; font: inherit; cursor: pointer; text-align: left; }
+nav button b { display: block; color: var(--fg); }
+nav button small { font-size: 12px; }
+nav button.on { border-color: var(--acc); }
+nav button.on b { color: var(--acc); }
+.tools { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.tools input[type=search], .tools select { background: var(--card); color: var(--fg);
+  border: 1px solid var(--line); border-radius: 8px; padding: 6px 8px; font: inherit; }
+.tools input[type=search] { flex: 1 1 200px; min-width: 0; }
+.chk { color: var(--dim); font-size: 13px; white-space: nowrap; }
+.status { color: var(--dim); font-size: 12px; margin-top: 6px; }
+.status.warn { color: var(--star); }
+main { max-width: 860px; margin: 0 auto; padding: 12px 16px 80px; display: grid; gap: 12px; }
+.ev { background: var(--card); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
+.ev.tossed { opacity: .45; }
+.head { display: flex; gap: 12px; padding: 12px; }
+.head img { width: 72px; height: 72px; object-fit: cover; border-radius: 8px; flex: none; background: #222; }
+.head .meta { min-width: 0; flex: 1; }
+.head h3 { margin: 0 0 2px; font-size: 16px; }
+.head h3 a { text-decoration: none; }
+.head h3 a:hover { text-decoration: underline; }
+.venue { color: var(--acc); font-size: 13px; }
+.small { color: var(--dim); font-size: 12px; }
+.tags span { display: inline-block; font-size: 11px; color: var(--dim); border: 1px solid var(--line);
+  border-radius: 4px; padding: 0 5px; margin: 3px 3px 0 0; }
+.artists { border-top: 1px solid var(--line); }
+.art { padding: 8px 12px; border-bottom: 1px solid var(--line); }
+.art:last-child { border-bottom: 0; }
+.art .row { display: flex; align-items: center; gap: 10px; }
+.art .row .info { flex: 1; min-width: 0; }
+.art .name { font-weight: 600; }
+.art .set { color: var(--dim); font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.play { flex: none; width: 36px; height: 36px; border-radius: 50%; border: 0; background: #ff5500;
+  color: #fff; font-size: 14px; cursor: pointer; }
+.play:disabled { background: #333; cursor: default; }
+.art iframe { width: 100%; height: 120px; border: 0; margin-top: 8px; border-radius: 6px; }
+.more { padding: 6px 12px 10px; color: var(--dim); font-size: 12px; }
+.rate { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap;
+  padding: 10px 12px; border-top: 1px solid var(--line); background: #11111a; }
+.stars button { background: none; border: 0; font-size: 26px; line-height: 1; padding: 0 2px;
+  color: #3a3a4a; cursor: pointer; }
+.stars button.on { color: var(--star); }
+.group { font-size: 13px; color: var(--dim); text-align: right; }
+.group b { color: var(--star); }
+.empty { color: var(--dim); text-align: center; padding: 40px 0; }
+dialog { background: var(--card); color: var(--fg); border: 1px solid var(--line); border-radius: 14px; padding: 20px; }
+dialog::backdrop { background: rgba(0,0,0,.7); }
+dialog h2 { margin-top: 0; }
+dialog input { width: 100%; margin-bottom: 12px; background: var(--bg); color: var(--fg);
+  border: 1px solid var(--line); border-radius: 8px; padding: 8px; font: inherit; }
