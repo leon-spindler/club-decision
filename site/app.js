@@ -12,7 +12,11 @@
   };
 
   let events = [];
+  // Curation mode: shows a Remove button on each event. Set to false before sharing.
+  const EDIT_MODE = true;
+  const REMOVED = "__removed__"; // pseudo-user in the ratings table marking removed events
   let shortlist = null; // array of event ids to keep, or null = show all
+  let removed = new Set(); // event ids (strings) removed in curation mode
   let ratings = {};     // ratings[eventId][user] = stars
   let me = store.get("name", "");
   let day = store.get("day", DAYS[0][0]);
@@ -30,11 +34,19 @@
   }).then((r) => { if (!r.ok) throw new Error(r.status); return r; });
 
   async function loadRatings() {
-    if (!remote) { ratings = store.get("ratings", {}); return; }
+    if (!remote) {
+      ratings = store.get("ratings", {});
+      removed = new Set(store.get("removed", []));
+      return;
+    }
     const rows = await (await api("ratings?select=user_name,event_id,stars")).json();
-    const next = {};
-    for (const r of rows) (next[r.event_id] ||= {})[r.user_name] = r.stars;
+    const next = {}, gone = new Set();
+    for (const r of rows) {
+      if (r.user_name === REMOVED) gone.add(r.event_id);
+      else (next[r.event_id] ||= {})[r.user_name] = r.stars;
+    }
     ratings = next;
+    removed = gone;
   }
 
   async function saveRating(eventId, stars) {
@@ -61,6 +73,29 @@
     }
   }
 
+  async function toggleRemoved(eventId) {
+    const id = String(eventId);
+    const wasRemoved = removed.has(id);
+    wasRemoved ? removed.delete(id) : removed.add(id);
+    render();
+    if (!remote) { store.set("removed", [...removed]); return; }
+    try {
+      if (wasRemoved) {
+        await api(`ratings?user_name=eq.${REMOVED}&event_id=eq.${id}`, { method: "DELETE" });
+      } else {
+        await api("ratings?on_conflict=user_name,event_id", {
+          method: "POST",
+          headers: { Prefer: "resolution=merge-duplicates,return=minimal" },
+          body: JSON.stringify({ user_name: REMOVED, event_id: id, stars: 1 }),
+        });
+      }
+    } catch (e) {
+      wasRemoved ? removed.add(id) : removed.delete(id);
+      render();
+      status(`Couldn't save (${e.message}) — try again`, true);
+    }
+  }
+
   // ------------------------------------------------------------ helpers
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) =>
     ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -70,7 +105,8 @@
     const v = Object.values(ratings[id] || {});
     return v.length ? v.reduce((a, b) => a + b, 0) / v.length : null;
   };
-  const kept = (e) => !shortlist || shortlist.includes(e.id) || shortlist.includes(String(e.id));
+  const kept = (e) => !removed.has(String(e.id)) &&
+    (!shortlist || shortlist.includes(e.id) || shortlist.includes(String(e.id)));
 
   function status(msg, warn) {
     const el = $("#status");
@@ -132,6 +168,7 @@
       <div class="head">
         ${img ? `<img src="${esc(img)}" alt="" loading="lazy" onerror="this.remove()">` : ""}
         <div class="meta">
+          ${EDIT_MODE ? `<button class="toss" data-toss>${kept(e) ? "✕ Remove" : "↺ Restore"}</button>` : ""}
           <h3><a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a></h3>
           <div class="venue">${esc(e.venue)}</div>
           <div class="small">${time(e.start)}${e.end ? "–" + time(e.end) : ""}${e.interested ? ` · ${e.interested} interested on RA` : ""} · ${e.artistCount} artists</div>
@@ -157,6 +194,8 @@
   }
 
   function render() {
+    $("#shortWrap").hidden = !shortlist && !(EDIT_MODE && removed.size);
+    $("#shortLabel").textContent = `Show removed (${events.filter((e) => !kept(e)).length})`;
     renderDays();
     const list = visible();
     $("#list").innerHTML = list.length ? list.map(eventHTML).join("")
@@ -193,6 +232,7 @@
     render(); window.scrollTo(0, 0);
   });
   $("#list").addEventListener("click", (ev) => {
+    if (ev.target.closest("[data-toss]")) return toggleRemoved(ev.target.closest(".ev").dataset.id);
     const play = ev.target.closest(".play[data-track]");
     if (play) return openPlayer(play);
     const star = ev.target.closest("[data-stars]");
@@ -225,7 +265,6 @@
       const r = await fetch("data/shortlist.json", { cache: "no-cache" });
       if (r.ok) shortlist = await r.json();
     } catch {}
-    $("#shortWrap").hidden = !shortlist;
     try { await loadRatings(); status(); } catch (e) { status(`Couldn't load ratings (${e.message})`, true); }
     render();
     if (!me) askName();
