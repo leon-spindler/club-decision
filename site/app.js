@@ -13,7 +13,7 @@
 
   let events = [];
   // Curation mode: shows a Remove button on each event. Set to false before sharing.
-  const EDIT_MODE = true;
+  const EDIT_MODE = false;
   const REMOVED = "__removed__"; // pseudo-user in the ratings table marking removed events
   let shortlist = null; // array of event ids to keep, or null = show all
   let removed = new Set(); // event ids (strings) removed in curation mode
