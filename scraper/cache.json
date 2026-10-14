@@ -7376,5 +7376,392 @@
   "plays": 18,
   "uploader": "RUSNAM",
   "source": "profile"
+ },
+ "152374": {
+  "name": "LNZ.",
+  "ra_id": "152374",
+  "soundcloud": "https://soundcloud.com/nrhlnz",
+  "sc_id": 1008066154,
+  "followers": 370
+ },
+ "158144": {
+  "name": "Ayham",
+  "ra_id": "158144",
+  "soundcloud": "https://soundcloud.com/ayham-yousif",
+  "sc_id": 477096531,
+  "followers": 42
+ },
+ "185014": {
+  "name": "Niklas Delhey",
+  "ra_id": "185014",
+  "soundcloud": "https://soundcloud.com/niklasdelhey",
+  "sc_id": 627493854,
+  "followers": 110
+ },
+ "set:152374": {
+  "id": 2346557363,
+  "title": "Lenz. @ Lilith opening set",
+  "url": "https://soundcloud.com/nrhlnz/lenz-lilith-120526-wav-def",
+  "minutes": 117,
+  "plays": 141,
+  "uploader": "Lenz.",
+  "source": "profile"
+ },
+ "set:185014": {
+  "id": 2223432029,
+  "title": "dopamine addict techno",
+  "url": "https://soundcloud.com/niklasdelhey/dopamine-addict-techno",
+  "minutes": 57,
+  "plays": 1708,
+  "uploader": "Niklas Delhey",
+  "source": "profile"
+ },
+ "set:158144": {
+  "id": 33234178,
+  "title": "Armin van Buuren - A State Of Trance 543 (12-01-2012) By AyhaM VaN BuureN",
+  "url": "https://soundcloud.com/a-state-of-trance-543/armin-van-buuren-a-state-of",
+  "minutes": 121,
+  "plays": 96148,
+  "uploader": "A State Of Trance 543",
+  "source": "search"
+ },
+ "112308": {
+  "name": "Alex Knapp",
+  "ra_id": "112308",
+  "soundcloud": "https://soundcloud.com/alexander-knapp-1",
+  "sc_id": 25066326,
+  "followers": 611
+ },
+ "set:112308": {
+  "id": 1399014097,
+  "title": "B2B Alex Knapp |  ADV\u00c4NZD\u00c4NZ @ Sisyphos Wintergarten 03.12.22",
+  "url": "https://soundcloud.com/sambake/b2b-alex-knapp-sisyphos-wintergarten-031222",
+  "minutes": 128,
+  "plays": 3694,
+  "uploader": "Sambak\u00e9",
+  "source": "search"
+ },
+ "791": {
+  "name": "Andr\u00e9 Galluzzi",
+  "ra_id": "791",
+  "soundcloud": "https://soundcloud.com/andre-galluzzi",
+  "sc_id": 4574873,
+  "followers": 17111
+ },
+ "set:791": {
+  "id": 135996946,
+  "title": "Andr\u00e9 Galluzzi - Berghain 01 - (Ostgut Ton) 2005",
+  "url": "https://soundcloud.com/andre-galluzzi/andr-galluzzi-berghain-01",
+  "minutes": 70,
+  "plays": 81632,
+  "uploader": "Andr\u00e9 Galluzzi",
+  "source": "profile"
+ },
+ "151642": {
+  "name": "arb\u00ebr",
+  "ra_id": "151642",
+  "soundcloud": "https://soundcloud.com/arber-sacipi-236685240",
+  "sc_id": 316238918,
+  "followers": 146
+ },
+ "92242": {
+  "name": "Al Aslan",
+  "ra_id": "92242",
+  "soundcloud": "https://soundcloud.com/alaslan",
+  "sc_id": 579722772,
+  "followers": 667
+ },
+ "6398": {
+  "name": "Subterra",
+  "ra_id": "6398",
+  "soundcloud": "https://soundcloud.com/sub_terra_sonus",
+  "sc_id": 814097674,
+  "followers": 6867
+ },
+ "171928": {
+  "name": "luci.",
+  "ra_id": "171928",
+  "soundcloud": "https://soundcloud.com/luci_officialmusic",
+  "sc_id": 291861189,
+  "followers": 35702
+ },
+ "set:171928": {
+  "id": 316274685,
+  "title": "I like wubs mix",
+  "url": "https://soundcloud.com/luci_officialmusic/i-like-wubs",
+  "minutes": 40,
+  "plays": 297618,
+  "uploader": "Luci",
+  "source": "profile"
+ },
+ "set:6398": {
+  "id": 1573373329,
+  "title": "ERRAT BUS b2b Sektor -  Groovy Vinyl / Digital Hybrid Session",
+  "url": "https://soundcloud.com/sub_terra_sonus/errat-bus-b2b-sektor-groovy-vinly-digital-hybrid-session",
+  "minutes": 67,
+  "plays": 4689,
+  "uploader": "SUB TERRA",
+  "source": "profile"
+ },
+ "set:92242": {
+  "id": 1271854708,
+  "title": "Grooveklingel",
+  "url": "https://soundcloud.com/alaslan/ritte-butzke-55",
+  "minutes": 101,
+  "plays": 14333,
+  "uploader": "Al Aslan",
+  "source": "profile"
+ },
+ "40285": {
+  "name": "C.M.A.",
+  "ra_id": "40285",
+  "soundcloud": "https://soundcloud.com/cedricmarianalexander",
+  "sc_id": 5592972,
+  "followers": 7216
+ },
+ "176012": {
+  "name": "Le TIZI",
+  "ra_id": "176012",
+  "soundcloud": "https://soundcloud.com/le_tizi_a",
+  "sc_id": 1465694671,
+  "followers": 107
+ },
+ "set:40285": {
+  "id": 76305516,
+  "title": "C.M.A. - UNCHAINED",
+  "url": "https://soundcloud.com/cedricmarianalexander/c-m-a-unchained",
+  "minutes": 41,
+  "plays": 99797,
+  "uploader": "Cedric Marian",
+  "source": "profile"
+ },
+ "set:176012": {
+  "id": 2058100568,
+  "title": "le TIZI @ Phantom Bar for One Tribe NYC",
+  "url": "https://soundcloud.com/le_tizi_a/letizi-at-phantom-bar-for-one-tribe-nyc",
+  "minutes": 76,
+  "plays": 664,
+  "uploader": "Le TIZI",
+  "source": "profile"
+ },
+ "164410": {
+  "name": "Mia Kober",
+  "ra_id": "164410",
+  "soundcloud": "https://soundcloud.com/mia-kober",
+  "sc_id": 314011813,
+  "followers": 3270
+ },
+ "160269": {
+  "name": "DirdyGerdi",
+  "ra_id": "160269",
+  "soundcloud": "https://soundcloud.com/dirdygerdi",
+  "sc_id": 8764389,
+  "followers": 1325
+ },
+ "55191": {
+  "name": "MonoAbe",
+  "ra_id": "55191",
+  "soundcloud": "https://soundcloud.com/monoabe",
+  "sc_id": 46016359,
+  "followers": 873
+ },
+ "set:164410": {
+  "id": 2122243053,
+  "title": "Mia Kober | Fusion Festival 2025 | A Seeb\u00fchne Afternoon",
+  "url": "https://soundcloud.com/mia-kober/mia-kober-fusion-festival-2025-an-afternoon-at-seebuhne",
+  "minutes": 122,
+  "plays": 40867,
+  "uploader": "Mia Kober",
+  "source": "profile"
+ },
+ "set:160269": {
+  "id": 1462522081,
+  "title": "Splore 2023 | Studebaker Stage @ Lucky Star | Friday 930pm",
+  "url": "https://soundcloud.com/dirdygerdi/splore-2023-studebaker-stage-lucky-star-friday-930pm",
+  "minutes": 88,
+  "plays": 13146,
+  "uploader": "DirdyGerdi",
+  "source": "profile"
+ },
+ "set:55191": {
+  "id": 2129648496,
+  "title": "Sonnendeck Opening MonoAbe @ Fusion 2025 (3000Grad)",
+  "url": "https://soundcloud.com/monoabe/sonnendeck-opening-monoabe",
+  "minutes": 141,
+  "plays": 2876,
+  "uploader": "MonoAbe",
+  "source": "profile"
+ },
+ "150460": {
+  "name": "Nalamazon",
+  "ra_id": "150460",
+  "soundcloud": "https://soundcloud.com/bellacid",
+  "sc_id": 33470891,
+  "followers": 328
+ },
+ "set:150460": {
+  "id": 2376036896,
+  "title": "Spins for Venezuela - Nalamazon - 25 Jul 2026 [Vinyl Only]",
+  "url": "https://soundcloud.com/drehome/spins-for-venezuela",
+  "minutes": 86,
+  "plays": 10,
+  "uploader": "Drehome",
+  "source": "search"
+ },
+ "142087": {
+  "name": "AQUTIE",
+  "ra_id": "142087",
+  "soundcloud": "https://soundcloud.com/aqutieee",
+  "sc_id": 863321860,
+  "followers": 782
+ },
+ "130795": {
+  "name": "Uk\u00e3i Ndame",
+  "ra_id": "130795",
+  "soundcloud": "https://soundcloud.com/ukaindame",
+  "sc_id": 827668177,
+  "followers": 589
+ },
+ "66331": {
+  "name": "Mista Wallizz",
+  "ra_id": "66331",
+  "soundcloud": "https://soundcloud.com/mista-wallizz",
+  "sc_id": 75574174,
+  "followers": 438
+ },
+ "149333": {
+  "name": "Stimulus",
+  "ra_id": "149333",
+  "soundcloud": "https://soundcloud.com/stimulus",
+  "sc_id": 166415,
+  "followers": 3630
+ },
+ "set:149333": {
+  "id": 642434,
+  "title": "The Way I See Raphael Saadiq",
+  "url": "https://soundcloud.com/stimulus/the-way-i-see-raphael-saadiq",
+  "minutes": 39,
+  "plays": 210638,
+  "uploader": "Stimulus",
+  "source": "profile"
+ },
+ "set:142087": {
+  "id": 1169406517,
+  "title": "Live at Sucia Sundays",
+  "url": "https://soundcloud.com/aqutieee/live-mix-from-sucia-sundays",
+  "minutes": 120,
+  "plays": 4840,
+  "uploader": "AQUTIE",
+  "source": "profile"
+ },
+ "set:130795": {
+  "id": 1481333521,
+  "title": "AFRO ELECTRONIC SOUNDS | UK\u00c3I & GRIOT",
+  "url": "https://soundcloud.com/ukaindame/afro-electronic-sounds-ukai",
+  "minutes": 57,
+  "plays": 3000,
+  "uploader": "UKAI NDAME",
+  "source": "profile"
+ },
+ "130235": {
+  "name": "Unfug Abla",
+  "ra_id": "130235",
+  "soundcloud": "https://soundcloud.com/unfugabla",
+  "sc_id": 3973846,
+  "followers": 548
+ },
+ "set:130235": {
+  "id": 1403572660,
+  "title": "\u2606 GRINCH FUNCTION \u2606",
+  "url": "https://soundcloud.com/unfugabla/20-grinchmas-22",
+  "minutes": 44,
+  "plays": 1907,
+  "uploader": "UNFUG ABLA",
+  "source": "profile"
+ },
+ "943": {
+  "name": "Boys Noize",
+  "ra_id": "943",
+  "soundcloud": "https://soundcloud.com/boysnoize",
+  "sc_id": 39564,
+  "followers": 276909
+ },
+ "166302": {
+  "name": "Adame DJ",
+  "ra_id": "166302",
+  "soundcloud": "https://soundcloud.com/adamedj",
+  "sc_id": 333441796,
+  "followers": 12362
+ },
+ "107211": {
+  "name": "Meg10",
+  "ra_id": "107211",
+  "soundcloud": "https://soundcloud.com/heymeg10",
+  "sc_id": 293381262,
+  "followers": 4369
+ },
+ "133515": {
+  "name": "TINKERHELL",
+  "ra_id": "133515",
+  "soundcloud": "https://soundcloud.com/tinkerhell_cv",
+  "sc_id": 246248865,
+  "followers": 1798
+ },
+ "110653": {
+  "name": "Kontronatura",
+  "ra_id": "110653",
+  "soundcloud": "https://soundcloud.com/kontronatura",
+  "sc_id": 45719443,
+  "followers": 3413
+ },
+ "69859": {
+  "name": "TAUBE",
+  "ra_id": "69859",
+  "soundcloud": "https://soundcloud.com/taube",
+  "sc_id": 1488966,
+  "followers": 2761
+ },
+ "set:943": {
+  "id": 284309654,
+  "title": "Boys Noize - A Roul\u00e9 & Crydamoure Mix",
+  "url": "https://soundcloud.com/boysnoize/boys-noize-a-roule-crydamoure-mix",
+  "minutes": 58,
+  "plays": 226396,
+  "uploader": "Boys Noize",
+  "source": "profile"
+ },
+ "set:166302": {
+  "id": 1775690571,
+  "title": "E SE - Bruxaria do Submundo 011",
+  "url": "https://soundcloud.com/adamedj/bruxaria",
+  "minutes": 42,
+  "plays": 21291,
+  "uploader": "Adame DJ",
+  "source": "profile"
+ },
+ "set:107211": {
+  "id": 1542776986,
+  "title": "Meg10 | H\u00d6R \u2013 Jun 10, 2023",
+  "url": "https://soundcloud.com/heymeg10/meg10-hor-jun-10-2023",
+  "minutes": 56,
+  "plays": 17277,
+  "uploader": "Meg10",
+  "source": "profile"
+ },
+ "1466": {
+  "name": "Tocadisco",
+  "ra_id": "1466",
+  "soundcloud": "https://soundcloud.com/tocadisco",
+  "sc_id": 148123,
+  "followers": 44231
+ },
+ "set:1466": {
+  "id": 184556452,
+  "title": "TOCACABANA RADIO SHOW 01_2015 ( FREE DOWNLOAD )",
+  "url": "https://soundcloud.com/tocadisco/tocacabana-01-2015",
+  "minutes": 62,
+  "plays": 14277,
+  "uploader": "TOCADISCO",
+  "source": "profile"
  }
 }
