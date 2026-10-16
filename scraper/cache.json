@@ -8017,5 +8017,138 @@
   "plays": 4374,
   "uploader": "WellDone! - Music",
   "source": "search"
+ },
+ "182389": {
+  "name": "Clarisafarie",
+  "ra_id": "182389",
+  "soundcloud": "https://soundcloud.com/clarisafarie",
+  "sc_id": 51246929,
+  "followers": 316
+ },
+ "set:182389": {
+  "id": 1337565436,
+  "title": "Techno Trance Amphetapop - Wolfsruh 2022 - Halle 4",
+  "url": "https://soundcloud.com/clarisafarie/techno-rave-amphetapop-wolfsruh-2022",
+  "minutes": 93,
+  "plays": 3616,
+  "uploader": "Clarisafarie",
+  "source": "profile"
+ },
+ "173527": {
+  "name": "phlipzee",
+  "ra_id": "173527",
+  "soundcloud": "https://soundcloud.com/phlipzee",
+  "sc_id": 1318456218,
+  "followers": 46
+ },
+ "172248": {
+  "name": "Nadia Bel Air",
+  "ra_id": "172248",
+  "soundcloud": "https://soundcloud.com/user-464258322",
+  "sc_id": 1232947384,
+  "followers": 879
+ },
+ "190375": {
+  "name": "Goutte",
+  "ra_id": "190375",
+  "soundcloud": "https://soundcloud.com/user-780631837",
+  "sc_id": 1243657078,
+  "followers": 42
+ },
+ "set:190375": {
+  "id": 2231340767,
+  "title": "Podcast 002 - Groove and trance",
+  "url": "https://soundcloud.com/user-780631837/podcast-002-groove-and-trance",
+  "minutes": 60,
+  "plays": 36,
+  "uploader": "Goutte",
+  "source": "profile"
+ },
+ "138854": {
+  "name": "gem.ini",
+  "ra_id": "138854",
+  "soundcloud": "https://soundcloud.com/its_gemini",
+  "sc_id": 146881387,
+  "followers": 1386
+ },
+ "184404": {
+  "name": "System 42",
+  "ra_id": "184404",
+  "soundcloud": "https://soundcloud.com/user-175513310",
+  "sc_id": 1261948627,
+  "followers": 83
+ },
+ "170326": {
+  "name": "DJ WETPANTS",
+  "ra_id": "170326",
+  "soundcloud": "https://soundcloud.com/djwetpants",
+  "sc_id": 271914789,
+  "followers": 180
+ },
+ "176662": {
+  "name": "Full Multi",
+  "ra_id": "176662",
+  "soundcloud": "https://soundcloud.com/fullmulti",
+  "sc_id": 154497880,
+  "followers": 113
+ },
+ "set:138854": {
+  "id": 1359790693,
+  "title": "gem.ini - Sisyphos NichtGeburtstag - Dampfersch\u00f6n",
+  "url": "https://soundcloud.com/its_gemini/sisyphos-nichtgeburtstag-dampferschon",
+  "minutes": 117,
+  "plays": 6087,
+  "uploader": "gem.ini",
+  "source": "profile"
+ },
+ "set:170326": {
+  "id": 2149104855,
+  "title": "DJ WETPANTS - Feel Festival 2025 at Wagenburg (Vinyl)",
+  "url": "https://soundcloud.com/djwetpants/dj-wetpants-feel-festival-2025-at-wagenburg-vinyl",
+  "minutes": 88,
+  "plays": 595,
+  "uploader": "DJ Wetpants",
+  "source": "profile"
+ },
+ "set:176662": {
+  "id": 2325516146,
+  "title": "HOUSE EDUCATION #03 / FULL MULTI",
+  "url": "https://soundcloud.com/fullmulti/houseeducationno3",
+  "minutes": 180,
+  "plays": 378,
+  "uploader": "Full Multi",
+  "source": "profile"
+ },
+ "187376": {
+  "name": "sapskt",
+  "ra_id": "187376",
+  "soundcloud": "https://soundcloud.com/sapskt",
+  "sc_id": 66285958,
+  "followers": 41
+ },
+ "set:187376": {
+  "id": 1210455100,
+  "title": "Short Mix",
+  "url": "https://soundcloud.com/sapskt/short-mix",
+  "minutes": 31,
+  "plays": 84,
+  "uploader": "sapskt",
+  "source": "profile"
+ },
+ "130125": {
+  "name": "ELEETE",
+  "ra_id": "130125",
+  "soundcloud": "https://soundcloud.com/realeleete",
+  "sc_id": 15722138,
+  "followers": 290
+ },
+ "set:130125": {
+  "id": 2116643193,
+  "title": "ELEETE - Techno Mainfloor Action @ Piepshow - Kit Kat Club",
+  "url": "https://soundcloud.com/realeleete/eleete-140-bpm-mainfloor-action-piepshow-kit-kat-club",
+  "minutes": 120,
+  "plays": 1497,
+  "uploader": "ELEETE",
+  "source": "profile"
  }
 }
