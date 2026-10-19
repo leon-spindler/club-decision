@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T05:36:14Z",
+ "generated": "2026-10-19T05:38:26Z",
  "events": [
   {
    "id": "2552572",
@@ -793,7 +793,7 @@
    "end": "2026-10-16T06:00:00.000",
    "venue": "OST",
    "url": "https://ra.co/events/2525915",
-   "interested": 923,
+   "interested": 924,
    "genres": [
     "Techno"
    ],
@@ -865,7 +865,7 @@
    "end": "2026-10-15T23:00:00.000",
    "venue": "Ikii",
    "url": "https://ra.co/events/2544183",
-   "interested": 158,
+   "interested": 159,
    "genres": [
     "Ambient",
     "Experimental"
@@ -1384,7 +1384,7 @@
    "end": "2026-10-16T04:00:00.000",
    "venue": "PKH Warehouse",
    "url": "https://ra.co/events/2538531",
-   "interested": 40,
+   "interested": 39,
    "genres": [
     "Techno",
     "Tech House"
@@ -2581,7 +2581,7 @@
    "end": "2026-10-19T08:00:00.000",
    "venue": "ZENNER",
    "url": "https://ra.co/events/2425900",
-   "interested": 1503,
+   "interested": 1593,
    "genres": [],
    "image": "https://images.ra.co/18d9ccb828dd4ecf33a49cd16e9911be34ea063d.png",
    "artistCount": 37,
@@ -2683,7 +2683,7 @@
    "end": "2026-10-19T07:00:00.000",
    "venue": "Renate",
    "url": "https://ra.co/events/2355667",
-   "interested": 1397,
+   "interested": 1418,
    "genres": [
     "Techno",
     "House"
@@ -3138,7 +3138,7 @@
    "end": "2026-10-17T10:00:00.000",
    "venue": "KREUZWERK",
    "url": "https://ra.co/events/2531902",
-   "interested": 374,
+   "interested": 375,
    "genres": [
     "Techno"
    ],
@@ -3731,6 +3731,24 @@
    ]
   },
   {
+   "id": "2556083",
+   "day": "2026-10-16",
+   "title": "F*ck the Internet Design Market Fall 2026",
+   "start": "2026-10-16T16:00:00.000",
+   "end": "2026-10-17T20:00:00.000",
+   "venue": "Glogauair",
+   "url": "https://ra.co/events/2556083",
+   "interested": 185,
+   "genres": [
+    "Experimental",
+    "Balearic"
+   ],
+   "image": "https://images.ra.co/c3dc5e7510a0d1219855cc07ab4ab2f5f5b79405.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2542422",
    "day": "2026-10-16",
    "title": "GLXY",
@@ -4026,24 +4044,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2556083",
-   "day": "2026-10-16",
-   "title": "F*ck the Internet Design Market Fall 2026",
-   "start": "2026-10-16T16:00:00.000",
-   "end": "2026-10-17T20:00:00.000",
-   "venue": "Glogauair",
-   "url": "https://ra.co/events/2556083",
-   "interested": 185,
-   "genres": [
-    "Experimental",
-    "Balearic"
-   ],
-   "image": "https://images.ra.co/c3dc5e7510a0d1219855cc07ab4ab2f5f5b79405.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2522584",
@@ -5371,6 +5371,79 @@
    ]
   },
   {
+   "id": "2556833",
+   "day": "2026-10-16",
+   "title": "Klubnacht + Afterhour",
+   "start": "2026-10-16T23:59:00.000",
+   "end": "2026-10-17T23:59:00.000",
+   "venue": "Golden Gate",
+   "url": "https://ra.co/events/2556833",
+   "interested": 24,
+   "genres": [],
+   "image": "https://images.ra.co/9af92a573d89473eb108e7e25e8053a0ce64961c.jpg",
+   "artistCount": 8,
+   "allArtists": [
+    "Vans Hellwirth",
+    "charli/e",
+    "Edgar Peng",
+    "Delavas",
+    "RifRaf",
+    "Alessia Ceruti",
+    "MASA",
+    "Clovis"
+   ],
+   "top": [
+    {
+     "name": "Clovis",
+     "ra_id": "2525",
+     "soundcloud": "https://soundcloud.com/clovis",
+     "sc_id": 573057,
+     "followers": 9443,
+     "set": {
+      "id": 508397043,
+      "title": "Clovis - Jazz Mix Vol. 2 (Autumn 2018)",
+      "url": "https://soundcloud.com/clovis/clovis-jazz-mix-vol-2-autumn-2018",
+      "minutes": 260,
+      "plays": 33574,
+      "uploader": "Clovis",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Edgar Peng",
+     "ra_id": "17627",
+     "soundcloud": "https://soundcloud.com/edgar-peng",
+     "sc_id": 81201,
+     "followers": 3219,
+     "set": {
+      "id": 198755398,
+      "title": "Edgar Peng @ Golden Gate (Vinyl Only)",
+      "url": "https://soundcloud.com/edgar-peng/edgar-peng-tonkind-nacht-opening-set-vinyl-only",
+      "minutes": 104,
+      "plays": 19328,
+      "uploader": "Edgar Peng",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Alessia Ceruti",
+     "ra_id": "70057",
+     "soundcloud": "https://soundcloud.com/alessia-ceruti",
+     "sc_id": 50179292,
+     "followers": 1231,
+     "set": {
+      "id": 895339558,
+      "title": "Alessia Ceruti @ Club der Visionäre 05.09.2020",
+      "url": "https://soundcloud.com/alessia-ceruti/alessia-ceruti-club-der-visionare-05092020",
+      "minutes": 78,
+      "plays": 9410,
+      "uploader": "Alessia Ceruti",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2560000",
    "day": "2026-10-16",
    "title": "Le Salon Privé: Cedric Marian - Le TIZI",
@@ -5497,73 +5570,68 @@
    ]
   },
   {
-   "id": "2556833",
+   "id": "2558887",
    "day": "2026-10-16",
-   "title": "Klubnacht + Afterhour",
-   "start": "2026-10-16T23:59:00.000",
-   "end": "2026-10-17T23:59:00.000",
-   "venue": "Golden Gate",
-   "url": "https://ra.co/events/2556833",
-   "interested": 24,
+   "title": "Phantom Friday x DUBBDÄCK",
+   "start": "2026-10-16T23:00:00.000",
+   "end": "2026-10-18T06:00:00.000",
+   "venue": "Phantom Bar Berlin",
+   "url": "https://ra.co/events/2558887",
+   "interested": 20,
    "genres": [],
-   "image": "https://images.ra.co/9af92a573d89473eb108e7e25e8053a0ce64961c.jpg",
-   "artistCount": 8,
+   "image": "https://images.ra.co/22f735584e696b3da8dbe66886adef4e8da9eadc.jpg",
+   "artistCount": 3,
    "allArtists": [
-    "Vans Hellwirth",
-    "charli/e",
-    "Edgar Peng",
-    "Delavas",
-    "RifRaf",
-    "Alessia Ceruti",
-    "MASA",
-    "Clovis"
+    "Pauli Cakes",
+    "DJ Trade Trainer",
+    "HEDDA"
    ],
    "top": [
     {
-     "name": "Clovis",
-     "ra_id": "2525",
-     "soundcloud": "https://soundcloud.com/clovis",
-     "sc_id": 573057,
-     "followers": 9443,
+     "name": "Pauli Cakes",
+     "ra_id": "93293",
+     "soundcloud": "https://soundcloud.com/paulicakes",
+     "sc_id": 38794324,
+     "followers": 1614,
      "set": {
-      "id": 508397043,
-      "title": "Clovis - Jazz Mix Vol. 2 (Autumn 2018)",
-      "url": "https://soundcloud.com/clovis/clovis-jazz-mix-vol-2-autumn-2018",
-      "minutes": 260,
-      "plays": 33574,
-      "uploader": "Clovis",
+      "id": 1034863147,
+      "title": "PAULI FOR COMMUNITY BREAD MIX",
+      "url": "https://soundcloud.com/paulicakes/deck-tear-community-bread-mix",
+      "minutes": 57,
+      "plays": 11681,
+      "uploader": "Pauli Cakes ༺♡༻",
       "source": "profile"
      }
     },
     {
-     "name": "Edgar Peng",
-     "ra_id": "17627",
-     "soundcloud": "https://soundcloud.com/edgar-peng",
-     "sc_id": 81201,
-     "followers": 3219,
+     "name": "HEDDA",
+     "ra_id": "121427",
+     "soundcloud": "https://soundcloud.com/he-duh",
+     "sc_id": 93347929,
+     "followers": 1031,
      "set": {
-      "id": 198755398,
-      "title": "Edgar Peng @ Golden Gate (Vinyl Only)",
-      "url": "https://soundcloud.com/edgar-peng/edgar-peng-tonkind-nacht-opening-set-vinyl-only",
-      "minutes": 104,
-      "plays": 19328,
-      "uploader": "Edgar Peng",
+      "id": 1141311571,
+      "title": "He duh @ Bleakening: Masters of the Narrative / 24.09.21 / Anita Berber",
+      "url": "https://soundcloud.com/he-duh/he-duh-bleakening-masters-of-the-narrative",
+      "minutes": 77,
+      "plays": 3803,
+      "uploader": "HEDDA",
       "source": "profile"
      }
     },
     {
-     "name": "Alessia Ceruti",
-     "ra_id": "70057",
-     "soundcloud": "https://soundcloud.com/alessia-ceruti",
-     "sc_id": 50179292,
-     "followers": 1231,
+     "name": "DJ Trade Trainer",
+     "ra_id": "165137",
+     "soundcloud": "https://soundcloud.com/djtradetrainer",
+     "sc_id": 90611652,
+     "followers": 220,
      "set": {
-      "id": 895339558,
-      "title": "Alessia Ceruti @ Club der Visionäre 05.09.2020",
-      "url": "https://soundcloud.com/alessia-ceruti/alessia-ceruti-club-der-visionare-05092020",
-      "minutes": 78,
-      "plays": 9410,
-      "uploader": "Alessia Ceruti",
+      "id": 2096466096,
+      "title": "the door to no more tears mix (BRENN Open Decks)",
+      "url": "https://soundcloud.com/djtradetrainer/the-door-to-no-more-tears-mix-brenn-open-decks",
+      "minutes": 76,
+      "plays": 267,
+      "uploader": "DJ Trade Trainer",
       "source": "profile"
      }
     }
@@ -5636,74 +5704,6 @@
       "plays": null,
       "uploader": "NTS Latest",
       "source": "search"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2558887",
-   "day": "2026-10-16",
-   "title": "Phantom Friday x DUBBDÄCK",
-   "start": "2026-10-16T23:00:00.000",
-   "end": "2026-10-18T06:00:00.000",
-   "venue": "Phantom Bar Berlin",
-   "url": "https://ra.co/events/2558887",
-   "interested": 20,
-   "genres": [],
-   "image": "https://images.ra.co/22f735584e696b3da8dbe66886adef4e8da9eadc.jpg",
-   "artistCount": 3,
-   "allArtists": [
-    "Pauli Cakes",
-    "DJ Trade Trainer",
-    "HEDDA"
-   ],
-   "top": [
-    {
-     "name": "Pauli Cakes",
-     "ra_id": "93293",
-     "soundcloud": "https://soundcloud.com/paulicakes",
-     "sc_id": 38794324,
-     "followers": 1614,
-     "set": {
-      "id": 1034863147,
-      "title": "PAULI FOR COMMUNITY BREAD MIX",
-      "url": "https://soundcloud.com/paulicakes/deck-tear-community-bread-mix",
-      "minutes": 57,
-      "plays": 11681,
-      "uploader": "Pauli Cakes ༺♡༻",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "HEDDA",
-     "ra_id": "121427",
-     "soundcloud": "https://soundcloud.com/he-duh",
-     "sc_id": 93347929,
-     "followers": 1031,
-     "set": {
-      "id": 1141311571,
-      "title": "He duh @ Bleakening: Masters of the Narrative / 24.09.21 / Anita Berber",
-      "url": "https://soundcloud.com/he-duh/he-duh-bleakening-masters-of-the-narrative",
-      "minutes": 77,
-      "plays": 3803,
-      "uploader": "HEDDA",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "DJ Trade Trainer",
-     "ra_id": "165137",
-     "soundcloud": "https://soundcloud.com/djtradetrainer",
-     "sc_id": 90611652,
-     "followers": 220,
-     "set": {
-      "id": 2096466096,
-      "title": "the door to no more tears mix (BRENN Open Decks)",
-      "url": "https://soundcloud.com/djtradetrainer/the-door-to-no-more-tears-mix-brenn-open-decks",
-      "minutes": 76,
-      "plays": 267,
-      "uploader": "DJ Trade Trainer",
-      "source": "profile"
      }
     }
    ]
@@ -6763,6 +6763,86 @@
    ]
   },
   {
+   "id": "2524777",
+   "day": "2026-10-17",
+   "title": "XTRUDE x EUPHORIA SESSIONS w/ Chris Liebing, Truncate, Phil Berg live, Elli Acula, Angel D'lite",
+   "start": "2026-10-17T23:59:00.000",
+   "end": "2026-10-19T08:00:00.000",
+   "venue": "RSO.BERLIN",
+   "url": "https://ra.co/events/2524777",
+   "interested": 1740,
+   "genres": [
+    "Breakbeat",
+    "Techno"
+   ],
+   "image": "https://images.ra.co/193952dd007b0971394baf0500ca9ac3dcadf64f.jpg",
+   "artistCount": 12,
+   "allArtists": [
+    "Chris Liebing",
+    "Elli Acula",
+    "Gina Demarchi",
+    "Phil Berg",
+    "Andy Garvey",
+    "Clarisa Kimskii",
+    "Truncate",
+    "WINDFUHR",
+    "Alfred Czital",
+    "Angel D'lite",
+    "IAMBP",
+    "Immy"
+   ],
+   "top": [
+    {
+     "name": "Chris Liebing",
+     "ra_id": "160",
+     "soundcloud": "https://soundcloud.com/chris-liebing",
+     "sc_id": 11363,
+     "followers": 243427,
+     "set": {
+      "id": 1633658142,
+      "title": "CLR Podcast 343 I Ida Engberg b2b Chris Liebing",
+      "url": "https://soundcloud.com/chris-liebing/clr-podcast-343-i-ida-engberg-b2b-chris-liebing",
+      "minutes": 178,
+      "plays": 106807,
+      "uploader": "Chris Liebing",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Truncate",
+     "ra_id": "41638",
+     "soundcloud": "https://soundcloud.com/truncate",
+     "sc_id": 1417233,
+     "followers": 51239,
+     "set": {
+      "id": 342978092,
+      "title": "Goodbye Summer 2017 Mix",
+      "url": "https://soundcloud.com/truncate/goodbye-summer-2017-mix",
+      "minutes": 63,
+      "plays": 11580,
+      "uploader": "Truncate",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Phil Berg",
+     "ra_id": "96330",
+     "soundcloud": "https://soundcloud.com/phlbrg",
+     "sc_id": 80156556,
+     "followers": 16950,
+     "set": {
+      "id": 1250760094,
+      "title": "Phil Berg b2b Lobster | Vault Sessions, BRET | 09 APR 2022",
+      "url": "https://soundcloud.com/vault-sessions-collective/vault-bret-10-april-2022",
+      "minutes": 228,
+      "plays": 109188,
+      "uploader": "Vault Sessions | Vault Records",
+      "source": "search"
+     }
+    }
+   ]
+  },
+  {
    "id": "2425900",
    "day": "2026-10-17",
    "title": "NICE ONE WEEKENDER",
@@ -6770,7 +6850,7 @@
    "end": "2026-10-19T08:00:00.000",
    "venue": "ZENNER",
    "url": "https://ra.co/events/2425900",
-   "interested": 1503,
+   "interested": 1593,
    "genres": [],
    "image": "https://images.ra.co/18d9ccb828dd4ecf33a49cd16e9911be34ea063d.png",
    "artistCount": 37,
@@ -6945,7 +7025,7 @@
    "end": "2026-10-19T07:00:00.000",
    "venue": "Renate",
    "url": "https://ra.co/events/2355667",
-   "interested": 1397,
+   "interested": 1418,
    "genres": [
     "Techno",
     "House"
@@ -7143,81 +7223,55 @@
    ]
   },
   {
-   "id": "2524777",
+   "id": "2531244",
    "day": "2026-10-17",
-   "title": "XTRUDE x EUPHORIA SESSIONS w/ Chris Liebing, Truncate, Phil Berg live, Elli Acula, Angel D'lite",
-   "start": "2026-10-17T23:59:00.000",
-   "end": "2026-10-19T08:00:00.000",
-   "venue": "RSO.BERLIN",
-   "url": "https://ra.co/events/2524777",
-   "interested": 1609,
+   "title": "DJ SPORTSCHUH x BNZN [ALL NIGHT LONG]",
+   "start": "2026-10-17T23:00:00.000",
+   "end": "2026-10-18T07:00:00.000",
+   "venue": "Coco Boule",
+   "url": "https://ra.co/events/2531244",
+   "interested": 520,
    "genres": [
-    "Breakbeat",
-    "Techno"
+    "House",
+    "Garage"
    ],
-   "image": "https://images.ra.co/193952dd007b0971394baf0500ca9ac3dcadf64f.jpg",
-   "artistCount": 12,
+   "image": "https://images.ra.co/a47e287673b070c6d8569cf55123eb781d146f65.png",
+   "artistCount": 2,
    "allArtists": [
-    "Chris Liebing",
-    "Elli Acula",
-    "Gina Demarchi",
-    "Phil Berg",
-    "Andy Garvey",
-    "Clarisa Kimskii",
-    "Truncate",
-    "WINDFUHR",
-    "Alfred Czital",
-    "Angel D'lite",
-    "IAMBP",
-    "Immy"
+    "DJ SPORTSCHUH",
+    "BNZN"
    ],
    "top": [
     {
-     "name": "Chris Liebing",
-     "ra_id": "160",
-     "soundcloud": "https://soundcloud.com/chris-liebing",
-     "sc_id": 11363,
-     "followers": 243427,
+     "name": "BNZN",
+     "ra_id": "120553",
+     "soundcloud": "https://soundcloud.com/bnzn_music",
+     "sc_id": 649260060,
+     "followers": 18899,
      "set": {
-      "id": 1633658142,
-      "title": "CLR Podcast 343 I Ida Engberg b2b Chris Liebing",
-      "url": "https://soundcloud.com/chris-liebing/clr-podcast-343-i-ida-engberg-b2b-chris-liebing",
-      "minutes": 178,
-      "plays": 106807,
-      "uploader": "Chris Liebing",
+      "id": 1558150402,
+      "title": "Sommer, Sonne, Sachbeschädigung",
+      "url": "https://soundcloud.com/bnzn_music/sommer-sonne-sachbeschaedigung",
+      "minutes": 60,
+      "plays": 92699,
+      "uploader": "BNZN",
       "source": "profile"
      }
     },
     {
-     "name": "Truncate",
-     "ra_id": "41638",
-     "soundcloud": "https://soundcloud.com/truncate",
-     "sc_id": 1417233,
-     "followers": 51239,
+     "name": "DJ SPORTSCHUH",
+     "ra_id": "127843",
+     "soundcloud": "https://soundcloud.com/djsportschuh",
+     "sc_id": 68773124,
+     "followers": 6826,
      "set": {
-      "id": 342978092,
-      "title": "Goodbye Summer 2017 Mix",
-      "url": "https://soundcloud.com/truncate/goodbye-summer-2017-mix",
-      "minutes": 63,
-      "plays": 11580,
-      "uploader": "Truncate",
+      "id": 1498068451,
+      "title": "SPORTMIX 001 - SUNSHINE RAVER (SPEEDHOUSE)",
+      "url": "https://soundcloud.com/djsportschuh/sportmix-001-sunshine-raver-speedhouse-1",
+      "minutes": 92,
+      "plays": 369460,
+      "uploader": "DJ SPORTSCHUH",
       "source": "profile"
-     }
-    },
-    {
-     "name": "Phil Berg",
-     "ra_id": "96330",
-     "soundcloud": "https://soundcloud.com/phlbrg",
-     "sc_id": 80156556,
-     "followers": 16950,
-     "set": {
-      "id": 1250760094,
-      "title": "Phil Berg b2b Lobster | Vault Sessions, BRET | 09 APR 2022",
-      "url": "https://soundcloud.com/vault-sessions-collective/vault-bret-10-april-2022",
-      "minutes": 228,
-      "plays": 109188,
-      "uploader": "Vault Sessions | Vault Records",
-      "source": "search"
      }
     }
    ]
@@ -7230,7 +7284,7 @@
    "end": "2026-10-18T11:30:00.000",
    "venue": "Hoppetosse",
    "url": "https://ra.co/events/2527434",
-   "interested": 516,
+   "interested": 515,
    "genres": [
     "Techno",
     "Tech House"
@@ -7341,7 +7395,7 @@
    "end": "2026-10-19T06:00:00.000",
    "venue": "Berghain | Panorama Bar | Säule",
    "url": "https://ra.co/events/2524801",
-   "interested": 386,
+   "interested": 395,
    "genres": [],
    "image": "https://images.ra.co/c93bb76e78d3d3abeace9d4a64e64b085dce8395.png",
    "artistCount": 16,
@@ -7409,60 +7463,6 @@
       "minutes": 75,
       "plays": 102186,
       "uploader": "Phase Fatale",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2531244",
-   "day": "2026-10-17",
-   "title": "DJ SPORTSCHUH x BNZN [ALL NIGHT LONG]",
-   "start": "2026-10-17T23:00:00.000",
-   "end": "2026-10-18T07:00:00.000",
-   "venue": "Coco Boule",
-   "url": "https://ra.co/events/2531244",
-   "interested": 520,
-   "genres": [
-    "House",
-    "Garage"
-   ],
-   "image": "https://images.ra.co/a47e287673b070c6d8569cf55123eb781d146f65.png",
-   "artistCount": 2,
-   "allArtists": [
-    "DJ SPORTSCHUH",
-    "BNZN"
-   ],
-   "top": [
-    {
-     "name": "BNZN",
-     "ra_id": "120553",
-     "soundcloud": "https://soundcloud.com/bnzn_music",
-     "sc_id": 649260060,
-     "followers": 18899,
-     "set": {
-      "id": 1558150402,
-      "title": "Sommer, Sonne, Sachbeschädigung",
-      "url": "https://soundcloud.com/bnzn_music/sommer-sonne-sachbeschaedigung",
-      "minutes": 60,
-      "plays": 92699,
-      "uploader": "BNZN",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "DJ SPORTSCHUH",
-     "ra_id": "127843",
-     "soundcloud": "https://soundcloud.com/djsportschuh",
-     "sc_id": 68773124,
-     "followers": 6826,
-     "set": {
-      "id": 1498068451,
-      "title": "SPORTMIX 001 - SUNSHINE RAVER (SPEEDHOUSE)",
-      "url": "https://soundcloud.com/djsportschuh/sportmix-001-sunshine-raver-speedhouse-1",
-      "minutes": 92,
-      "plays": 369460,
-      "uploader": "DJ SPORTSCHUH",
       "source": "profile"
      }
     }
@@ -7539,6 +7539,162 @@
       "minutes": 61,
       "plays": 7705,
       "uploader": "Sven von Thülen (aka s:vt)",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2522577",
+   "day": "2026-10-17",
+   "title": "MixMag x Lokschuppen w BIIA, Eva Charley, PERT, Morelia, GNS + MORE",
+   "start": "2026-10-17T23:00:00.000",
+   "end": "2026-10-18T09:00:00.000",
+   "venue": "Lokschuppen Berlin",
+   "url": "https://ra.co/events/2522577",
+   "interested": 328,
+   "genres": [
+    "Trance",
+    "Techno"
+   ],
+   "image": "https://images.ra.co/2584d976329ffd292ea6874e70ccee5c6d6472e1.jpg",
+   "artistCount": 10,
+   "allArtists": [
+    "BIIA",
+    "Eva Charley",
+    "PERT",
+    "Morelia",
+    "Ozzwald",
+    "SOHOE",
+    "KLOE",
+    "BRAIS",
+    "GNS (1)",
+    "Jacky Ickx"
+   ],
+   "top": [
+    {
+     "name": "Morelia",
+     "ra_id": "64006",
+     "soundcloud": "https://soundcloud.com/morelia",
+     "sc_id": 113111980,
+     "followers": 15473,
+     "set": {
+      "id": 2276477975,
+      "title": "Morelia Live @ HÖR Berlin | 25.03.26",
+      "url": "https://soundcloud.com/morelia/morelia-live-hoer-berlin-25-03",
+      "minutes": 55,
+      "plays": 2014,
+      "uploader": "Morelia",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "BIIA",
+     "ra_id": "94778",
+     "soundcloud": "https://soundcloud.com/biiamusic",
+     "sc_id": 562063944,
+     "followers": 12308,
+     "set": {
+      "id": 1349447980,
+      "title": "BIIA - Possession x Brunch Electronik Set",
+      "url": "https://soundcloud.com/biiamusic/mix",
+      "minutes": 65,
+      "plays": 99426,
+      "uploader": "BIIA",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Ozzwald",
+     "ra_id": "141834",
+     "soundcloud": "https://soundcloud.com/ozzwaldd",
+     "sc_id": 166532036,
+     "followers": 12182,
+     "set": {
+      "id": 2251642160,
+      "title": "HÖR SET 16/12/2025",
+      "url": "https://soundcloud.com/ozzwaldd/hor-set-16122025",
+      "minutes": 56,
+      "plays": 2500,
+      "uploader": "OZZWALD",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2526998",
+   "day": "2026-10-17",
+   "title": "Katernacht with Magda, Redfreya, Tripmastaz, Alexkid + more",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T10:00:00.000",
+   "venue": "Kater",
+   "url": "https://ra.co/events/2526998",
+   "interested": 254,
+   "genres": [
+    "House",
+    "Electro"
+   ],
+   "image": "https://images.ra.co/322b894169c5b0cbcb326958a8967a4550740e29.jpg",
+   "artistCount": 10,
+   "allArtists": [
+    "Alessia Ceruti",
+    "Alexkid",
+    "Magda",
+    "Tripmastaz",
+    "Joséphine de Retour",
+    "Peter Schumann",
+    "Redfreya",
+    "DASH (SLO)",
+    "Jimmie",
+    "Stella Fiore"
+   ],
+   "top": [
+    {
+     "name": "Magda",
+     "ra_id": "571",
+     "soundcloud": "https://soundcloud.com/magda-official",
+     "sc_id": 438195,
+     "followers": 117474,
+     "set": {
+      "id": 52842257,
+      "title": "2006-09 Magda - She's A Dancing Machine (Full Mix)",
+      "url": "https://soundcloud.com/magda-official/2006-09-magda-shes-a-dancing",
+      "minutes": 78,
+      "plays": 371194,
+      "uploader": "magda",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Alexkid",
+     "ra_id": "916",
+     "soundcloud": "https://soundcloud.com/alexkid",
+     "sc_id": 347,
+     "followers": 83990,
+     "set": {
+      "id": 82120462,
+      "title": "Alexkid Display Series #1",
+      "url": "https://soundcloud.com/alexkid/alexkid-display-series-1",
+      "minutes": 58,
+      "plays": 45136,
+      "uploader": "Alexkid",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Peter Schumann",
+     "ra_id": "9579",
+     "soundcloud": "https://soundcloud.com/peter-schumann",
+     "sc_id": 57336,
+     "followers": 11691,
+     "set": {
+      "id": 157831302,
+      "title": "Peter Schumann @ Bachstelzen Floor on Fusion 2014",
+      "url": "https://soundcloud.com/peter-schumann/bachstelzen-fusion2014",
+      "minutes": 113,
+      "plays": 59946,
+      "uploader": "Peter Schumann",
       "source": "profile"
      }
     }
@@ -7635,209 +7791,72 @@
    "top": []
   },
   {
-   "id": "2522577",
+   "id": "2523471",
    "day": "2026-10-17",
-   "title": "MixMag x Lokschuppen w BIIA, Eva Charley, PERT, Morelia, GNS + MORE",
+   "title": "Tresor Klubnacht",
    "start": "2026-10-17T23:00:00.000",
-   "end": "2026-10-18T09:00:00.000",
-   "venue": "Lokschuppen Berlin",
-   "url": "https://ra.co/events/2522577",
-   "interested": 328,
-   "genres": [
-    "Trance",
-    "Techno"
-   ],
-   "image": "https://images.ra.co/2584d976329ffd292ea6874e70ccee5c6d6472e1.jpg",
-   "artistCount": 10,
+   "end": "2026-10-18T12:00:00.000",
+   "venue": "Tresor / Globus",
+   "url": "https://ra.co/events/2523471",
+   "interested": 181,
+   "genres": [],
+   "image": "https://images.ra.co/7433e457613fc2e054572943f9ccd49039eec62b.jpg",
+   "artistCount": 7,
    "allArtists": [
-    "BIIA",
-    "Eva Charley",
-    "PERT",
-    "Morelia",
-    "Ozzwald",
-    "SOHOE",
-    "KLOE",
-    "BRAIS",
-    "GNS (1)",
-    "Jacky Ickx"
+    "JSR",
+    "Nastia",
+    "Rosati",
+    "Z.I.P.P.O",
+    "Handmade",
+    "Katia Curie",
+    "Natalie Robinson"
    ],
    "top": [
     {
-     "name": "Morelia",
-     "ra_id": "64006",
-     "soundcloud": "https://soundcloud.com/morelia",
-     "sc_id": 113111980,
-     "followers": 15473,
+     "name": "Nastia",
+     "ra_id": "39861",
+     "soundcloud": "https://soundcloud.com/nastia_ua",
+     "sc_id": 543081,
+     "followers": 71142,
      "set": {
-      "id": 2276477975,
-      "title": "Morelia Live @ HÖR Berlin | 25.03.26",
-      "url": "https://soundcloud.com/morelia/morelia-live-hoer-berlin-25-03",
-      "minutes": 55,
-      "plays": 2014,
-      "uploader": "Morelia",
+      "id": 288860885,
+      "title": "Nastia @ Cocoon, Amnesia Terrace 16.08.22",
+      "url": "https://soundcloud.com/nastia_ua/nastia-cocoon-amnesia-terrace-160822",
+      "minutes": 91,
+      "plays": 109885,
+      "uploader": "Nastia UA",
       "source": "profile"
      }
     },
     {
-     "name": "BIIA",
-     "ra_id": "94778",
-     "soundcloud": "https://soundcloud.com/biiamusic",
-     "sc_id": 562063944,
-     "followers": 12308,
+     "name": "Z.I.P.P.O",
+     "ra_id": "39092",
+     "soundcloud": "https://soundcloud.com/zippo",
+     "sc_id": 226792,
+     "followers": 7628,
      "set": {
-      "id": 1349447980,
-      "title": "BIIA - Possession x Brunch Electronik Set",
-      "url": "https://soundcloud.com/biiamusic/mix",
-      "minutes": 65,
-      "plays": 99426,
-      "uploader": "BIIA",
+      "id": 264750599,
+      "title": "Z.I.P.P.O @ Tresor Club, Berlin 26.03.2016",
+      "url": "https://soundcloud.com/zippo/zippo-tresordjset",
+      "minutes": 60,
+      "plays": 32240,
+      "uploader": "Z.I.P.P.O",
       "source": "profile"
      }
     },
     {
-     "name": "Ozzwald",
-     "ra_id": "141834",
-     "soundcloud": "https://soundcloud.com/ozzwaldd",
-     "sc_id": 166532036,
-     "followers": 12182,
+     "name": "Handmade",
+     "ra_id": "5444",
+     "soundcloud": "https://soundcloud.com/handmadeberlin",
+     "sc_id": 81126,
+     "followers": 4560,
      "set": {
-      "id": 2251642160,
-      "title": "HÖR SET 16/12/2025",
-      "url": "https://soundcloud.com/ozzwaldd/hor-set-16122025",
-      "minutes": 56,
-      "plays": 2500,
-      "uploader": "OZZWALD",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2487422",
-   "day": "2026-10-17",
-   "title": "Giolì & Assia (live)",
-   "start": "2026-10-17T19:00:00.000",
-   "end": "2026-10-17T23:00:00.000",
-   "venue": "Ritter Butzke",
-   "url": "https://ra.co/events/2487422",
-   "interested": 159,
-   "genres": [
-    "Techno"
-   ],
-   "image": "https://images.ra.co/ccc1a31ab87c1c40a8facd920ae20b45283bd083.jpg",
-   "artistCount": 2,
-   "allArtists": [
-    "Giolì & Assia",
-    "AVA Irandoost"
-   ],
-   "top": [
-    {
-     "name": "Giolì & Assia",
-     "ra_id": "79489",
-     "soundcloud": "https://soundcloud.com/gioli-and-assia",
-     "sc_id": 167955343,
-     "followers": 79816,
-     "set": {
-      "id": 626982924,
-      "title": "Giolì & Assia - #DiesisLive [Episode 02 @Vulcano, Aeolian Islands]",
-      "url": "https://soundcloud.com/gioli-and-assia/gioli-assia-diesislive-vulcano-aeolian-islands",
-      "minutes": 39,
-      "plays": 1084261,
-      "uploader": "Giolì & Assia",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "AVA Irandoost",
-     "ra_id": "96931",
-     "soundcloud": "https://soundcloud.com/afagh-irandoost",
-     "sc_id": 75577700,
-     "followers": 1688,
-     "set": {
-      "id": 1863892476,
-      "title": "FUSION2024_Sonnendeck",
-      "url": "https://soundcloud.com/afagh-irandoost/fusion2024_sonnendeck",
-      "minutes": 119,
-      "plays": 12728,
-      "uploader": "AVA Irandoost",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2526998",
-   "day": "2026-10-17",
-   "title": "Katernacht with Magda, Redfreya, Tripmastaz, Alexkid + more",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T10:00:00.000",
-   "venue": "Kater",
-   "url": "https://ra.co/events/2526998",
-   "interested": 254,
-   "genres": [
-    "House",
-    "Electro"
-   ],
-   "image": "https://images.ra.co/322b894169c5b0cbcb326958a8967a4550740e29.jpg",
-   "artistCount": 10,
-   "allArtists": [
-    "Alessia Ceruti",
-    "Alexkid",
-    "Magda",
-    "Tripmastaz",
-    "Joséphine de Retour",
-    "Peter Schumann",
-    "Redfreya",
-    "DASH (SLO)",
-    "Jimmie",
-    "Stella Fiore"
-   ],
-   "top": [
-    {
-     "name": "Magda",
-     "ra_id": "571",
-     "soundcloud": "https://soundcloud.com/magda-official",
-     "sc_id": 438195,
-     "followers": 117474,
-     "set": {
-      "id": 52842257,
-      "title": "2006-09 Magda - She's A Dancing Machine (Full Mix)",
-      "url": "https://soundcloud.com/magda-official/2006-09-magda-shes-a-dancing",
-      "minutes": 78,
-      "plays": 371194,
-      "uploader": "magda",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Alexkid",
-     "ra_id": "916",
-     "soundcloud": "https://soundcloud.com/alexkid",
-     "sc_id": 347,
-     "followers": 83990,
-     "set": {
-      "id": 82120462,
-      "title": "Alexkid Display Series #1",
-      "url": "https://soundcloud.com/alexkid/alexkid-display-series-1",
-      "minutes": 58,
-      "plays": 45136,
-      "uploader": "Alexkid",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Peter Schumann",
-     "ra_id": "9579",
-     "soundcloud": "https://soundcloud.com/peter-schumann",
-     "sc_id": 57336,
-     "followers": 11691,
-     "set": {
-      "id": 157831302,
-      "title": "Peter Schumann @ Bachstelzen Floor on Fusion 2014",
-      "url": "https://soundcloud.com/peter-schumann/bachstelzen-fusion2014",
-      "minutes": 113,
-      "plays": 59946,
-      "uploader": "Peter Schumann",
+      "id": 331382473,
+      "title": "Handmade @ Same Bitches Berlin 01.07.2017",
+      "url": "https://soundcloud.com/handmadeberlin/handmade-same-bitches-ohm-berlin-01072017",
+      "minutes": 129,
+      "plays": 45067,
+      "uploader": "handmade",
       "source": "profile"
      }
     }
@@ -7920,72 +7939,53 @@
    ]
   },
   {
-   "id": "2523471",
+   "id": "2487422",
    "day": "2026-10-17",
-   "title": "Tresor Klubnacht",
-   "start": "2026-10-17T23:00:00.000",
-   "end": "2026-10-18T12:00:00.000",
-   "venue": "Tresor / Globus",
-   "url": "https://ra.co/events/2523471",
-   "interested": 180,
-   "genres": [],
-   "image": "https://images.ra.co/7433e457613fc2e054572943f9ccd49039eec62b.jpg",
-   "artistCount": 7,
+   "title": "Giolì & Assia (live)",
+   "start": "2026-10-17T19:00:00.000",
+   "end": "2026-10-17T23:00:00.000",
+   "venue": "Ritter Butzke",
+   "url": "https://ra.co/events/2487422",
+   "interested": 159,
+   "genres": [
+    "Techno"
+   ],
+   "image": "https://images.ra.co/ccc1a31ab87c1c40a8facd920ae20b45283bd083.jpg",
+   "artistCount": 2,
    "allArtists": [
-    "JSR",
-    "Nastia",
-    "Rosati",
-    "Z.I.P.P.O",
-    "Handmade",
-    "Katia Curie",
-    "Natalie Robinson"
+    "Giolì & Assia",
+    "AVA Irandoost"
    ],
    "top": [
     {
-     "name": "Nastia",
-     "ra_id": "39861",
-     "soundcloud": "https://soundcloud.com/nastia_ua",
-     "sc_id": 543081,
-     "followers": 71142,
+     "name": "Giolì & Assia",
+     "ra_id": "79489",
+     "soundcloud": "https://soundcloud.com/gioli-and-assia",
+     "sc_id": 167955343,
+     "followers": 79816,
      "set": {
-      "id": 288860885,
-      "title": "Nastia @ Cocoon, Amnesia Terrace 16.08.22",
-      "url": "https://soundcloud.com/nastia_ua/nastia-cocoon-amnesia-terrace-160822",
-      "minutes": 91,
-      "plays": 109885,
-      "uploader": "Nastia UA",
+      "id": 626982924,
+      "title": "Giolì & Assia - #DiesisLive [Episode 02 @Vulcano, Aeolian Islands]",
+      "url": "https://soundcloud.com/gioli-and-assia/gioli-assia-diesislive-vulcano-aeolian-islands",
+      "minutes": 39,
+      "plays": 1084261,
+      "uploader": "Giolì & Assia",
       "source": "profile"
      }
     },
     {
-     "name": "Z.I.P.P.O",
-     "ra_id": "39092",
-     "soundcloud": "https://soundcloud.com/zippo",
-     "sc_id": 226792,
-     "followers": 7628,
+     "name": "AVA Irandoost",
+     "ra_id": "96931",
+     "soundcloud": "https://soundcloud.com/afagh-irandoost",
+     "sc_id": 75577700,
+     "followers": 1688,
      "set": {
-      "id": 264750599,
-      "title": "Z.I.P.P.O @ Tresor Club, Berlin 26.03.2016",
-      "url": "https://soundcloud.com/zippo/zippo-tresordjset",
-      "minutes": 60,
-      "plays": 32240,
-      "uploader": "Z.I.P.P.O",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Handmade",
-     "ra_id": "5444",
-     "soundcloud": "https://soundcloud.com/handmadeberlin",
-     "sc_id": 81126,
-     "followers": 4560,
-     "set": {
-      "id": 331382473,
-      "title": "Handmade @ Same Bitches Berlin 01.07.2017",
-      "url": "https://soundcloud.com/handmadeberlin/handmade-same-bitches-ohm-berlin-01072017",
-      "minutes": 129,
-      "plays": 45067,
-      "uploader": "handmade",
+      "id": 1863892476,
+      "title": "FUSION2024_Sonnendeck",
+      "url": "https://soundcloud.com/afagh-irandoost/fusion2024_sonnendeck",
+      "minutes": 119,
+      "plays": 12728,
+      "uploader": "AVA Irandoost",
       "source": "profile"
      }
     }
@@ -8084,6 +8084,150 @@
    ]
   },
   {
+   "id": "2538819",
+   "day": "2026-10-17",
+   "title": "GiSCHT. - Welle 02",
+   "start": "2026-10-17T16:00:00.000",
+   "end": "2026-10-18T04:00:00.000",
+   "venue": "Treehouse",
+   "url": "https://ra.co/events/2538819",
+   "interested": 102,
+   "genres": [
+    "Techno",
+    "House"
+   ],
+   "image": "https://images.ra.co/584de4646d1f52a2b63c7f6aff122e75f48cad2b.png",
+   "artistCount": 6,
+   "allArtists": [
+    "Tillmornin",
+    "Jaelo",
+    "Oblique",
+    "ZAKI (3)",
+    "Karenz",
+    "REC°"
+   ],
+   "top": [
+    {
+     "name": "Karenz",
+     "ra_id": "118036",
+     "soundcloud": "https://soundcloud.com/karenzsb",
+     "sc_id": 724896547,
+     "followers": 1510,
+     "set": {
+      "id": 1735921689,
+      "title": "Tresor Closing | Out Rage Records | 06.12.2023",
+      "url": "https://soundcloud.com/karenzsb/tresor-closing-out-rage-records-20231206",
+      "minutes": 204,
+      "plays": 4495,
+      "uploader": "KARENZ",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Jaelo",
+     "ra_id": "158171",
+     "soundcloud": "https://soundcloud.com/user-547326172",
+     "sc_id": 1008290992,
+     "followers": 287,
+     "set": {
+      "id": 1897554519,
+      "title": "Speed House Set @Garbicz- Modu Village Stage 2024",
+      "url": "https://soundcloud.com/user-547326172/speed_house_jaelo",
+      "minutes": 55,
+      "plays": 1131,
+      "uploader": "Jaelo",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "REC°",
+     "ra_id": "182272",
+     "soundcloud": "https://soundcloud.com/receivertechno",
+     "sc_id": 203270887,
+     "followers": 217,
+     "set": {
+      "id": 2401893075,
+      "title": "REC° - ZAUNREITER - Silbergold | Frankfurt am Main - Closing - 05.09.26",
+      "url": "https://soundcloud.com/receivertechno/zaunreiter-silbergold",
+      "minutes": 104,
+      "plays": 423,
+      "uploader": "REC°",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2532060",
+   "day": "2026-10-17",
+   "title": "Amber Broos, DJ SEXSTASY, SEKTOR69",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T07:00:00.000",
+   "venue": "Ritter Butzke",
+   "url": "https://ra.co/events/2532060",
+   "interested": 93,
+   "genres": [
+    "Techno"
+   ],
+   "image": "https://images.ra.co/5f7244bc2e1ffb0a47fa257ebee16c9ba493c116.png",
+   "artistCount": 3,
+   "allArtists": [
+    "Amber Broos",
+    "DJ SEXSTASY",
+    "SEKTOR69"
+   ],
+   "top": [
+    {
+     "name": "Amber Broos",
+     "ra_id": "134611",
+     "soundcloud": "https://soundcloud.com/amber-broos",
+     "sc_id": 227271352,
+     "followers": 9275,
+     "set": {
+      "id": 1427092807,
+      "title": "Amber Broos - Warmste Week 2022",
+      "url": "https://soundcloud.com/amber-broos/warmste-week-2022-hasselt",
+      "minutes": 49,
+      "plays": 50364,
+      "uploader": "Amber Broos",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "DJ SEXSTASY",
+     "ra_id": "130194",
+     "soundcloud": "https://soundcloud.com/djsexstasy",
+     "sc_id": 747151330,
+     "followers": 5473,
+     "set": {
+      "id": 2262567815,
+      "title": "DJ SEXSTASY Full Set at Sexpressions | DNA Club Munich | 17.01.2026",
+      "url": "https://soundcloud.com/djsexstasy/dj-sexstasy-full-set-at",
+      "minutes": 117,
+      "plays": 27079,
+      "uploader": "DJ SEXSTASY",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "SEKTOR69",
+     "ra_id": "128459",
+     "soundcloud": "https://soundcloud.com/sektormusic-506636143",
+     "sc_id": 1201205302,
+     "followers": 225,
+     "set": {
+      "id": 2155623012,
+      "title": "FEEL FESTIVAL 2025",
+      "url": "https://soundcloud.com/sektormusic-506636143/sektor69_feelfestival2025",
+      "minutes": 90,
+      "plays": 2383,
+      "uploader": "Sektor69",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2453529",
    "day": "2026-10-17",
    "title": "ঌ CRUDE 7 Years ঌ",
@@ -8153,74 +8297,70 @@
    ]
   },
   {
-   "id": "2538819",
+   "id": "2501141",
    "day": "2026-10-17",
-   "title": "GiSCHT. - Welle 02",
-   "start": "2026-10-17T16:00:00.000",
-   "end": "2026-10-18T04:00:00.000",
-   "venue": "Treehouse",
-   "url": "https://ra.co/events/2538819",
-   "interested": 103,
+   "title": "Stoic Music presents. Overview Music (UK) with Klinical, Rizzle, Ewol, Ambion, Sub-Antics",
+   "start": "2026-10-17T23:00:00.000",
+   "end": "2026-10-18T06:00:00.000",
+   "venue": "Void Hall",
+   "url": "https://ra.co/events/2501141",
+   "interested": 75,
    "genres": [
-    "Techno",
-    "House"
+    "Drum & Bass"
    ],
-   "image": "https://images.ra.co/584de4646d1f52a2b63c7f6aff122e75f48cad2b.png",
-   "artistCount": 6,
+   "image": "https://images.ra.co/6163d0a887c1b8fdc82d33b76eee94a202702768.jpg",
+   "artistCount": 3,
    "allArtists": [
-    "Tillmornin",
-    "Jaelo",
-    "Oblique",
-    "ZAKI (3)",
-    "Karenz",
-    "REC°"
+    "Rizzle",
+    "Initia",
+    "Azur"
    ],
    "top": [
     {
-     "name": "Karenz",
-     "ra_id": "118036",
-     "soundcloud": "https://soundcloud.com/karenzsb",
-     "sc_id": 724896547,
-     "followers": 1510,
+     "name": "Rizzle",
+     "ra_id": "152959",
+     "soundcloud": "https://soundcloud.com/rizzleuk",
+     "sc_id": 2329182,
+     "followers": 8462,
      "set": {
-      "id": 1735921689,
-      "title": "Tresor Closing | Out Rage Records | 06.12.2023",
-      "url": "https://soundcloud.com/karenzsb/tresor-closing-out-rage-records-20231206",
-      "minutes": 204,
-      "plays": 4495,
-      "uploader": "KARENZ",
+      "id": 938665516,
+      "title": "Operate & Rizzle @ Durdle Door - Overview x Goat Shed",
+      "url": "https://soundcloud.com/overviewuk/operate-rizzle-durdle-door-overview-x-goat-shed",
+      "minutes": 69,
+      "plays": 22069,
+      "uploader": "Overview Music",
+      "source": "search"
+     }
+    },
+    {
+     "name": "Azur",
+     "ra_id": "139399",
+     "soundcloud": "https://soundcloud.com/azur01",
+     "sc_id": 7923437,
+     "followers": 4165,
+     "set": {
+      "id": 257624539,
+      "title": "#4",
+      "url": "https://soundcloud.com/azur01/4a-1",
+      "minutes": 57,
+      "plays": 16866,
+      "uploader": "AZUR",
       "source": "profile"
      }
     },
     {
-     "name": "Jaelo",
-     "ra_id": "158171",
-     "soundcloud": "https://soundcloud.com/user-547326172",
-     "sc_id": 1008290992,
-     "followers": 287,
+     "name": "Initia",
+     "ra_id": "165205",
+     "soundcloud": "https://soundcloud.com/initia_dnb",
+     "sc_id": 146610092,
+     "followers": 369,
      "set": {
-      "id": 1897554519,
-      "title": "Speed House Set @Garbicz- Modu Village Stage 2024",
-      "url": "https://soundcloud.com/user-547326172/speed_house_jaelo",
-      "minutes": 55,
-      "plays": 1131,
-      "uploader": "Jaelo",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "REC°",
-     "ra_id": "182272",
-     "soundcloud": "https://soundcloud.com/receivertechno",
-     "sc_id": 203270887,
-     "followers": 217,
-     "set": {
-      "id": 2401893075,
-      "title": "REC° - ZAUNREITER - Silbergold | Frankfurt am Main - Closing - 05.09.26",
-      "url": "https://soundcloud.com/receivertechno/zaunreiter-silbergold",
-      "minutes": 104,
-      "plays": 423,
-      "uploader": "REC°",
+      "id": 2210714918,
+      "title": "Initia @ UMZ UMZ Nightshift 002",
+      "url": "https://soundcloud.com/initia_dnb/initia-umz-umz-nightshift-002",
+      "minutes": 62,
+      "plays": 1174,
+      "uploader": "Initia",
       "source": "profile"
      }
     }
@@ -8372,181 +8512,147 @@
    ]
   },
   {
-   "id": "2532060",
+   "id": "2547596",
    "day": "2026-10-17",
-   "title": "Amber Broos, DJ SEXSTASY, SEKTOR69",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T07:00:00.000",
-   "venue": "Ritter Butzke",
-   "url": "https://ra.co/events/2532060",
-   "interested": 93,
+   "title": "Mijk van Dijk`s Birthday Bash / r:nøcturn",
+   "start": "2026-10-17T23:00:00.000",
+   "end": "2026-10-18T11:00:00.000",
+   "venue": "Der Weiße Hase",
+   "url": "https://ra.co/events/2547596",
+   "interested": 64,
    "genres": [
-    "Techno"
+    "Techno",
+    "Tech House"
    ],
-   "image": "https://images.ra.co/5f7244bc2e1ffb0a47fa257ebee16c9ba493c116.png",
-   "artistCount": 3,
+   "image": "https://images.ra.co/ac996fe3e00c4074f5a722752725f22b1b9b09c1.jpg",
+   "artistCount": 6,
    "allArtists": [
-    "Amber Broos",
-    "DJ SEXSTASY",
-    "SEKTOR69"
+    "Mijk van Dijk",
+    "Nat SuPrise",
+    "DJ Jauche",
+    "OK Jones",
+    "DJ Doorkeeper",
+    "Christian Grade"
    ],
    "top": [
     {
-     "name": "Amber Broos",
-     "ra_id": "134611",
-     "soundcloud": "https://soundcloud.com/amber-broos",
-     "sc_id": 227271352,
-     "followers": 9275,
+     "name": "DJ Jauche",
+     "ra_id": "77987",
+     "soundcloud": "https://soundcloud.com/dj-jauche",
+     "sc_id": 65051,
+     "followers": 6435,
      "set": {
-      "id": 1427092807,
-      "title": "Amber Broos - Warmste Week 2022",
-      "url": "https://soundcloud.com/amber-broos/warmste-week-2022-hasselt",
-      "minutes": 49,
-      "plays": 50364,
-      "uploader": "Amber Broos",
+      "id": 243095912,
+      "title": "Dj Jauche - 3000gradwanderzirkus - Januar - 2016",
+      "url": "https://soundcloud.com/dj-jauche/dj-jauche-3000gradwanderzirkus-januar-2016",
+      "minutes": 111,
+      "plays": 49514,
+      "uploader": "DJ Jauche",
       "source": "profile"
      }
     },
     {
-     "name": "DJ SEXSTASY",
-     "ra_id": "130194",
-     "soundcloud": "https://soundcloud.com/djsexstasy",
-     "sc_id": 747151330,
-     "followers": 5473,
+     "name": "Mijk van Dijk",
+     "ra_id": "17239",
+     "soundcloud": "https://soundcloud.com/mijk",
+     "sc_id": 4216,
+     "followers": 3668,
      "set": {
-      "id": 2262567815,
-      "title": "DJ SEXSTASY Full Set at Sexpressions | DNA Club Munich | 17.01.2026",
-      "url": "https://soundcloud.com/djsexstasy/dj-sexstasy-full-set-at",
-      "minutes": 117,
-      "plays": 27079,
-      "uploader": "DJ SEXSTASY",
+      "id": 2271498641,
+      "title": "2026-02-21, Leipzig, Sky-Club, Rave Generation 1995",
+      "url": "https://soundcloud.com/mijk/dj-set-mijk-van-dijk-at-sky",
+      "minutes": 87,
+      "plays": 3355,
+      "uploader": "Mijk van Dijk",
       "source": "profile"
      }
     },
     {
-     "name": "SEKTOR69",
-     "ra_id": "128459",
-     "soundcloud": "https://soundcloud.com/sektormusic-506636143",
-     "sc_id": 1201205302,
-     "followers": 225,
+     "name": "Nat SuPrise",
+     "ra_id": "116782",
+     "soundcloud": "https://soundcloud.com/natsuprise",
+     "sc_id": 454956573,
+     "followers": 1191,
      "set": {
-      "id": 2155623012,
-      "title": "FEEL FESTIVAL 2025",
-      "url": "https://soundcloud.com/sektormusic-506636143/sektor69_feelfestival2025",
-      "minutes": 90,
-      "plays": 2383,
-      "uploader": "Sektor69",
+      "id": 1063322110,
+      "title": "LIFELIVE Soundity 2021 Techno",
+      "url": "https://soundcloud.com/natsuprise/lifelive-soundity",
+      "minutes": 62,
+      "plays": 163390,
+      "uploader": "Nat SuPrise",
       "source": "profile"
      }
     }
    ]
   },
   {
-   "id": "2501141",
+   "id": "2545311",
    "day": "2026-10-17",
-   "title": "Stoic Music presents. Overview Music (UK) with Klinical, Rizzle, Ewol, Ambion, Sub-Antics",
+   "title": "Freakquency with Red Sun X Festival of Lights Club Night ",
    "start": "2026-10-17T23:00:00.000",
-   "end": "2026-10-18T06:00:00.000",
-   "venue": "Void Hall",
-   "url": "https://ra.co/events/2501141",
-   "interested": 75,
+   "end": "2026-10-18T07:30:00.000",
+   "venue": "M-BIA",
+   "url": "https://ra.co/events/2545311",
+   "interested": 58,
    "genres": [
-    "Drum & Bass"
+    "Techno",
+    "Psytrance"
    ],
-   "image": "https://images.ra.co/6163d0a887c1b8fdc82d33b76eee94a202702768.jpg",
-   "artistCount": 3,
+   "image": "https://images.ra.co/c05ab96321de8ba740b2b69c1a8f0f1ee6564ce7.png",
+   "artistCount": 2,
    "allArtists": [
-    "Rizzle",
-    "Initia",
-    "Azur"
+    "K3VKO",
+    "Daora"
    ],
    "top": [
     {
-     "name": "Rizzle",
-     "ra_id": "152959",
-     "soundcloud": "https://soundcloud.com/rizzleuk",
-     "sc_id": 2329182,
-     "followers": 8462,
+     "name": "Daora",
+     "ra_id": "137754",
+     "soundcloud": "https://soundcloud.com/daoraofficial",
+     "sc_id": 46674599,
+     "followers": 2098,
      "set": {
-      "id": 938665516,
-      "title": "Operate & Rizzle @ Durdle Door - Overview x Goat Shed",
-      "url": "https://soundcloud.com/overviewuk/operate-rizzle-durdle-door-overview-x-goat-shed",
-      "minutes": 69,
-      "plays": 22069,
-      "uploader": "Overview Music",
+      "id": 1472793868,
+      "title": "Daora @ Ratarums - MbiaClub 18.3.23(ProggSet).mp3",
+      "url": "https://soundcloud.com/daoraofficial/daora-ratarums-18323proggsetmp3",
+      "minutes": 118,
+      "plays": 14748,
+      "uploader": "Daora",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "K3VKO",
+     "ra_id": "171160",
+     "soundcloud": "https://soundcloud.com/k3vko",
+     "sc_id": 455830497,
+     "followers": 20,
+     "set": {
+      "id": 1237927300,
+      "title": "PSYCHEDELIC VIBE M-BIA K3VKO SET (19.03.2022)",
+      "url": "https://soundcloud.com/k3vko-music/psychedelic-vibe-m-bia-k3vko-set-19032022",
+      "minutes": 121,
+      "plays": 4409,
+      "uploader": "K3VKO MUSiC",
       "source": "search"
      }
-    },
-    {
-     "name": "Azur",
-     "ra_id": "139399",
-     "soundcloud": "https://soundcloud.com/azur01",
-     "sc_id": 7923437,
-     "followers": 4165,
-     "set": {
-      "id": 257624539,
-      "title": "#4",
-      "url": "https://soundcloud.com/azur01/4a-1",
-      "minutes": 57,
-      "plays": 16866,
-      "uploader": "AZUR",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Initia",
-     "ra_id": "165205",
-     "soundcloud": "https://soundcloud.com/initia_dnb",
-     "sc_id": 146610092,
-     "followers": 369,
-     "set": {
-      "id": 2210714918,
-      "title": "Initia @ UMZ UMZ Nightshift 002",
-      "url": "https://soundcloud.com/initia_dnb/initia-umz-umz-nightshift-002",
-      "minutes": 62,
-      "plays": 1174,
-      "uploader": "Initia",
-      "source": "profile"
-     }
     }
    ]
   },
   {
-   "id": "2551048",
+   "id": "2557739",
    "day": "2026-10-17",
-   "title": "HVMN - Floating Session",
-   "start": "2026-10-17T16:00:00.000",
-   "end": "2026-10-18T02:00:00.000",
-   "venue": "Ipse",
-   "url": "https://ra.co/events/2551048",
-   "interested": 52,
-   "genres": [
-    "Breakbeat",
-    "House"
-   ],
-   "image": "https://images.ra.co/d3e22939e9a0ce977a97040e83a84a8619d1d666.jpg",
-   "artistCount": 1,
-   "allArtists": [
-    "Ser Silvestre"
-   ],
-   "top": [
-    {
-     "name": "Ser Silvestre",
-     "ra_id": "145773",
-     "soundcloud": "https://soundcloud.com/user-953221875",
-     "sc_id": 218810413,
-     "followers": 346,
-     "set": {
-      "id": 691372912,
-      "title": "GRISGEO - vinyl mix",
-      "url": "https://soundcloud.com/user-953221875/grisgeo-vinyl-mix",
-      "minutes": 53,
-      "plays": 400,
-      "uploader": "Ser Silvestre",
-      "source": "profile"
-     }
-    }
-   ]
+   "title": "Synkope - „ A'reshe عريشة' - album release concert",
+   "start": "2026-10-17T20:00:00.000",
+   "end": "2026-10-17T22:00:00.000",
+   "venue": "Morphine Raum",
+   "url": "https://ra.co/events/2557739",
+   "interested": 56,
+   "genres": [],
+   "image": "https://images.ra.co/03586b3988e7a5ec67ccbb363cbebd837c6255e3.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2547039",
@@ -8621,197 +8727,38 @@
    ]
   },
   {
-   "id": "2550375",
+   "id": "2551048",
    "day": "2026-10-17",
-   "title": "You Know Where You Are // Cursed invites Wobbla",
-   "start": "2026-10-17T23:00:00.000",
-   "end": "2026-10-18T05:30:00.000",
-   "venue": "TBA",
-   "url": "https://ra.co/events/2550375",
-   "interested": 43,
+   "title": "HVMN - Floating Session",
+   "start": "2026-10-17T16:00:00.000",
+   "end": "2026-10-18T02:00:00.000",
+   "venue": "Ipse",
+   "url": "https://ra.co/events/2551048",
+   "interested": 52,
    "genres": [
-    "Dubstep",
-    "Experimental"
+    "Breakbeat",
+    "House"
    ],
-   "image": "https://images.ra.co/4b0a8102e5074f0e4d027e319cd37e69633bd515.jpg",
-   "artistCount": 5,
+   "image": "https://images.ra.co/d3e22939e9a0ce977a97040e83a84a8619d1d666.jpg",
+   "artistCount": 1,
    "allArtists": [
-    "icanseesounds",
-    "Plugin Ears",
-    "Kenzura",
-    "BrokenGear",
-    "Hovercat"
+    "Ser Silvestre"
    ],
    "top": [
     {
-     "name": "Kenzura",
-     "ra_id": "158477",
-     "soundcloud": "https://soundcloud.com/kenzuradubs",
-     "sc_id": 133913892,
-     "followers": 305,
+     "name": "Ser Silvestre",
+     "ra_id": "145773",
+     "soundcloud": "https://soundcloud.com/user-953221875",
+     "sc_id": 218810413,
+     "followers": 346,
      "set": {
-      "id": 2110766340,
-      "title": "Kenzura @ Trickster | Dubstep Set | 23.05.25",
-      "url": "https://soundcloud.com/kenzuradubs/kenzura-trickster-dubstep-set-230525",
-      "minutes": 58,
-      "plays": 381,
-      "uploader": "Kenzura",
+      "id": 691372912,
+      "title": "GRISGEO - vinyl mix",
+      "url": "https://soundcloud.com/user-953221875/grisgeo-vinyl-mix",
+      "minutes": 53,
+      "plays": 400,
+      "uploader": "Ser Silvestre",
       "source": "profile"
-     }
-    },
-    {
-     "name": "Hovercat",
-     "ra_id": "156487",
-     "soundcloud": "https://soundcloud.com/hovercat",
-     "sc_id": 1616956,
-     "followers": 180,
-     "set": {
-      "id": 1821288888,
-      "title": "Hovercat Flakturm set 10.05.24",
-      "url": "https://soundcloud.com/hovercat/flakturm100524",
-      "minutes": 59,
-      "plays": 381,
-      "uploader": "Hovercat",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Plugin Ears",
-     "ra_id": "156890",
-     "soundcloud": "https://soundcloud.com/pluginears",
-     "sc_id": 9876634,
-     "followers": 114,
-     "set": {
-      "id": 1939619534,
-      "title": "D@W x BBS at Kirche von Unten 14.09.24",
-      "url": "https://soundcloud.com/pluginears/dw-x-bbs-at-kirche-von-unten-140924",
-      "minutes": 61,
-      "plays": 153,
-      "uploader": "Plugin Ears",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2518021",
-   "day": "2026-10-17",
-   "title": "Beate Invites /// Jackfruit & Friends",
-   "start": "2026-10-17T20:00:00.000",
-   "end": "2026-10-18T08:00:00.000",
-   "venue": "Beate Uwe",
-   "url": "https://ra.co/events/2518021",
-   "interested": 39,
-   "genres": [
-    "House",
-    "Disco"
-   ],
-   "image": "https://images.ra.co/c0dd2e57b152649df628b1308474e3031a94befc.png",
-   "artistCount": 2,
-   "allArtists": [
-    "Juleklub",
-    "Rabella"
-   ],
-   "top": [
-    {
-     "name": "Juleklub",
-     "ra_id": "27386",
-     "soundcloud": "https://soundcloud.com/juleklub",
-     "sc_id": 190515,
-     "followers": 829,
-     "set": {
-      "id": 59986420,
-      "title": "JuleKlub @M.I.K.Z (19.09.2012 - Come to Daddy w/ Marc Romboy)",
-      "url": "https://soundcloud.com/juleklub/juleklub-m-i-k-z",
-      "minutes": 113,
-      "plays": 1635,
-      "uploader": "JULEKLUB * SuperJulz",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Rabella",
-     "ra_id": "90798",
-     "soundcloud": "https://soundcloud.com/rabelladj",
-     "sc_id": 18301322,
-     "followers": 463,
-     "set": {
-      "id": 1453251559,
-      "title": "Rabella @ KaterBlau AcidBogen",
-      "url": "https://soundcloud.com/rabelladj/live-katerblau-acidbogen",
-      "minutes": 235,
-      "plays": 3222,
-      "uploader": "Rabella",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2533385",
-   "day": "2026-10-17",
-   "title": "FELUKAH · BINT ISHTAR · MOSAÏC BAND - SAWTUHUNNA - صوتهنّ - Berlin",
-   "start": "2026-10-17T19:00:00.000",
-   "end": "2026-10-18T01:00:00.000",
-   "venue": "Säälchen",
-   "url": "https://ra.co/events/2533385",
-   "interested": 43,
-   "genres": [],
-   "image": "https://images.ra.co/064cec5dfd2c9653bb0254227ec1b46beb782316.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2545311",
-   "day": "2026-10-17",
-   "title": "Freakquency with Red Sun X Festival of Lights Club Night ",
-   "start": "2026-10-17T23:00:00.000",
-   "end": "2026-10-18T07:30:00.000",
-   "venue": "M-BIA",
-   "url": "https://ra.co/events/2545311",
-   "interested": 58,
-   "genres": [
-    "Techno",
-    "Psytrance"
-   ],
-   "image": "https://images.ra.co/c05ab96321de8ba740b2b69c1a8f0f1ee6564ce7.png",
-   "artistCount": 2,
-   "allArtists": [
-    "K3VKO",
-    "Daora"
-   ],
-   "top": [
-    {
-     "name": "Daora",
-     "ra_id": "137754",
-     "soundcloud": "https://soundcloud.com/daoraofficial",
-     "sc_id": 46674599,
-     "followers": 2098,
-     "set": {
-      "id": 1472793868,
-      "title": "Daora @ Ratarums - MbiaClub 18.3.23(ProggSet).mp3",
-      "url": "https://soundcloud.com/daoraofficial/daora-ratarums-18323proggsetmp3",
-      "minutes": 118,
-      "plays": 14748,
-      "uploader": "Daora",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "K3VKO",
-     "ra_id": "171160",
-     "soundcloud": "https://soundcloud.com/k3vko",
-     "sc_id": 455830497,
-     "followers": 20,
-     "set": {
-      "id": 1237927300,
-      "title": "PSYCHEDELIC VIBE M-BIA K3VKO SET (19.03.2022)",
-      "url": "https://soundcloud.com/k3vko-music/psychedelic-vibe-m-bia-k3vko-set-19032022",
-      "minutes": 121,
-      "plays": 4409,
-      "uploader": "K3VKO MUSiC",
-      "source": "search"
      }
     }
    ]
@@ -8824,7 +8771,7 @@
    "end": "2026-10-18T06:00:00.000",
    "venue": "Sameheads",
    "url": "https://ra.co/events/2548444",
-   "interested": 48,
+   "interested": 49,
    "genres": [],
    "image": "https://images.ra.co/467d774a61e79dc6b48ec8099122dd29072cf0b2.png",
    "artistCount": 2,
@@ -8862,147 +8809,6 @@
       "minutes": 183,
       "plays": 2297,
       "uploader": "Ellie Stokes",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2537991",
-   "day": "2026-10-17",
-   "title": "Paloma Invites",
-   "start": "2026-10-17T23:30:00.000",
-   "end": "2026-10-18T08:00:00.000",
-   "venue": "Paloma",
-   "url": "https://ra.co/events/2537991",
-   "interested": 38,
-   "genres": [],
-   "image": "https://images.ra.co/e0ff9f739244804db1fc0e5bef09ae5429716956.png",
-   "artistCount": 1,
-   "allArtists": [
-    "Ikonika"
-   ],
-   "top": [
-    {
-     "name": "Ikonika",
-     "ra_id": "10034",
-     "soundcloud": "https://soundcloud.com/ikonika",
-     "sc_id": 1089647,
-     "followers": 20841,
-     "set": {
-      "id": 376978466,
-      "title": "IKONIKA on Radar Radio - 29th December 2017",
-      "url": "https://soundcloud.com/ikonika/ikonika-on-radar-radio-29th-december-2017",
-      "minutes": 118,
-      "plays": 9038,
-      "uploader": "Ikonika",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2557739",
-   "day": "2026-10-17",
-   "title": "Synkope - „ A'reshe عريشة' - album release concert",
-   "start": "2026-10-17T20:00:00.000",
-   "end": "2026-10-17T22:00:00.000",
-   "venue": "Morphine Raum",
-   "url": "https://ra.co/events/2557739",
-   "interested": 55,
-   "genres": [],
-   "image": "https://images.ra.co/03586b3988e7a5ec67ccbb363cbebd837c6255e3.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2543211",
-   "day": "2026-10-17",
-   "title": "dance with friends",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T06:00:00.000",
-   "venue": "Badehaus Berlin",
-   "url": "https://ra.co/events/2543211",
-   "interested": 40,
-   "genres": [
-    "Disco",
-    "Club"
-   ],
-   "image": "https://images.ra.co/603285bc6a9c0a18b9d091b3afc69cf4d87aa9f4.png",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2547596",
-   "day": "2026-10-17",
-   "title": "Mijk van Dijk`s Birthday Bash / r:nøcturn",
-   "start": "2026-10-17T23:00:00.000",
-   "end": "2026-10-18T11:00:00.000",
-   "venue": "Der Weiße Hase",
-   "url": "https://ra.co/events/2547596",
-   "interested": 65,
-   "genres": [
-    "Techno",
-    "Tech House"
-   ],
-   "image": "https://images.ra.co/ac996fe3e00c4074f5a722752725f22b1b9b09c1.jpg",
-   "artistCount": 6,
-   "allArtists": [
-    "Mijk van Dijk",
-    "Nat SuPrise",
-    "DJ Jauche",
-    "OK Jones",
-    "DJ Doorkeeper",
-    "Christian Grade"
-   ],
-   "top": [
-    {
-     "name": "DJ Jauche",
-     "ra_id": "77987",
-     "soundcloud": "https://soundcloud.com/dj-jauche",
-     "sc_id": 65051,
-     "followers": 6435,
-     "set": {
-      "id": 243095912,
-      "title": "Dj Jauche - 3000gradwanderzirkus - Januar - 2016",
-      "url": "https://soundcloud.com/dj-jauche/dj-jauche-3000gradwanderzirkus-januar-2016",
-      "minutes": 111,
-      "plays": 49514,
-      "uploader": "DJ Jauche",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Mijk van Dijk",
-     "ra_id": "17239",
-     "soundcloud": "https://soundcloud.com/mijk",
-     "sc_id": 4216,
-     "followers": 3668,
-     "set": {
-      "id": 2271498641,
-      "title": "2026-02-21, Leipzig, Sky-Club, Rave Generation 1995",
-      "url": "https://soundcloud.com/mijk/dj-set-mijk-van-dijk-at-sky",
-      "minutes": 87,
-      "plays": 3355,
-      "uploader": "Mijk van Dijk",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Nat SuPrise",
-     "ra_id": "116782",
-     "soundcloud": "https://soundcloud.com/natsuprise",
-     "sc_id": 454956573,
-     "followers": 1191,
-     "set": {
-      "id": 1063322110,
-      "title": "LIFELIVE Soundity 2021 Techno",
-      "url": "https://soundcloud.com/natsuprise/lifelive-soundity",
-      "minutes": 62,
-      "plays": 163390,
-      "uploader": "Nat SuPrise",
       "source": "profile"
      }
     }
@@ -9081,91 +8887,337 @@
    ]
   },
   {
-   "id": "2552838",
+   "id": "2533385",
    "day": "2026-10-17",
-   "title": "Tausend House: Shir Khan",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T03:00:00.000",
-   "venue": "Tausend",
-   "url": "https://ra.co/events/2552838",
-   "interested": 31,
+   "title": "FELUKAH · BINT ISHTAR · MOSAÏC BAND - SAWTUHUNNA - صوتهنّ - Berlin",
+   "start": "2026-10-17T19:00:00.000",
+   "end": "2026-10-18T01:00:00.000",
+   "venue": "Säälchen",
+   "url": "https://ra.co/events/2533385",
+   "interested": 43,
+   "genres": [],
+   "image": "https://images.ra.co/064cec5dfd2c9653bb0254227ec1b46beb782316.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
+   "id": "2550375",
+   "day": "2026-10-17",
+   "title": "You Know Where You Are // Cursed invites Wobbla",
+   "start": "2026-10-17T23:00:00.000",
+   "end": "2026-10-18T05:30:00.000",
+   "venue": "TBA",
+   "url": "https://ra.co/events/2550375",
+   "interested": 43,
    "genres": [
-    "House",
-    "Electro"
+    "Dubstep",
+    "Experimental"
    ],
-   "image": "https://images.ra.co/98d4f3e0c06aa0a68433654b50383c65b4c133f4.jpg",
-   "artistCount": 1,
+   "image": "https://images.ra.co/4b0a8102e5074f0e4d027e319cd37e69633bd515.jpg",
+   "artistCount": 5,
    "allArtists": [
-    "Shir Khan"
+    "icanseesounds",
+    "Plugin Ears",
+    "Kenzura",
+    "BrokenGear",
+    "Hovercat"
    ],
    "top": [
     {
-     "name": "Shir Khan",
-     "ra_id": "1026",
-     "soundcloud": "https://soundcloud.com/shirkhan",
-     "sc_id": 334,
-     "followers": 21207,
+     "name": "Kenzura",
+     "ra_id": "158477",
+     "soundcloud": "https://soundcloud.com/kenzuradubs",
+     "sc_id": 133913892,
+     "followers": 305,
      "set": {
-      "id": 132233074,
-      "title": "SHIR KHAN @ WATERGATE, BERLIN (24/01/2014)",
-      "url": "https://soundcloud.com/shirkhan/shir-khan-watergate-berlin-24",
-      "minutes": 179,
-      "plays": 18783,
-      "uploader": "SHIR KHAN",
+      "id": 2110766340,
+      "title": "Kenzura @ Trickster | Dubstep Set | 23.05.25",
+      "url": "https://soundcloud.com/kenzuradubs/kenzura-trickster-dubstep-set-230525",
+      "minutes": 58,
+      "plays": 381,
+      "uploader": "Kenzura",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Hovercat",
+     "ra_id": "156487",
+     "soundcloud": "https://soundcloud.com/hovercat",
+     "sc_id": 1616956,
+     "followers": 180,
+     "set": {
+      "id": 1821288888,
+      "title": "Hovercat Flakturm set 10.05.24",
+      "url": "https://soundcloud.com/hovercat/flakturm100524",
+      "minutes": 59,
+      "plays": 381,
+      "uploader": "Hovercat",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Plugin Ears",
+     "ra_id": "156890",
+     "soundcloud": "https://soundcloud.com/pluginears",
+     "sc_id": 9876634,
+     "followers": 114,
+     "set": {
+      "id": 1939619534,
+      "title": "D@W x BBS at Kirche von Unten 14.09.24",
+      "url": "https://soundcloud.com/pluginears/dw-x-bbs-at-kirche-von-unten-140924",
+      "minutes": 61,
+      "plays": 153,
+      "uploader": "Plugin Ears",
       "source": "profile"
      }
     }
    ]
   },
   {
-   "id": "2530899",
+   "id": "2543211",
    "day": "2026-10-17",
-   "title": "Andriy K. & Tharim Cornelisse + mu tate pres. life of mu",
-   "start": "2026-10-17T20:00:00.000",
-   "end": "2026-10-17T22:00:00.000",
-   "venue": "Silent Green",
-   "url": "https://ra.co/events/2530899",
-   "interested": 32,
+   "title": "dance with friends",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T06:00:00.000",
+   "venue": "Badehaus Berlin",
+   "url": "https://ra.co/events/2543211",
+   "interested": 40,
    "genres": [
-    "Ambient",
-    "Experimental"
+    "Disco",
+    "Club"
    ],
-   "image": "https://images.ra.co/9ed4f4e40f7c2b84cf67657c32efb4f18fae6dce.jpg",
+   "image": "https://images.ra.co/603285bc6a9c0a18b9d091b3afc69cf4d87aa9f4.png",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
+   "id": "2518021",
+   "day": "2026-10-17",
+   "title": "Beate Invites /// Jackfruit & Friends",
+   "start": "2026-10-17T20:00:00.000",
+   "end": "2026-10-18T08:00:00.000",
+   "venue": "Beate Uwe",
+   "url": "https://ra.co/events/2518021",
+   "interested": 39,
+   "genres": [
+    "House",
+    "Disco"
+   ],
+   "image": "https://images.ra.co/c0dd2e57b152649df628b1308474e3031a94befc.png",
    "artistCount": 2,
    "allArtists": [
-    "Andriy K.",
-    "mu tate"
+    "Juleklub",
+    "Rabella"
    ],
    "top": [
     {
-     "name": "mu tate",
-     "ra_id": "105231",
-     "soundcloud": "https://soundcloud.com/mu_tate",
-     "sc_id": 7294025,
-     "followers": 4028,
+     "name": "Juleklub",
+     "ra_id": "27386",
+     "soundcloud": "https://soundcloud.com/juleklub",
+     "sc_id": 190515,
+     "followers": 829,
      "set": {
-      "id": 940208770,
-      "title": "some things last a long time",
-      "url": "https://soundcloud.com/mu_tate/some-things-last-a-long-time",
-      "minutes": 98,
-      "plays": 5038,
-      "uploader": "mu tate",
+      "id": 59986420,
+      "title": "JuleKlub @M.I.K.Z (19.09.2012 - Come to Daddy w/ Marc Romboy)",
+      "url": "https://soundcloud.com/juleklub/juleklub-m-i-k-z",
+      "minutes": 113,
+      "plays": 1635,
+      "uploader": "JULEKLUB * SuperJulz",
       "source": "profile"
      }
     },
     {
-     "name": "Andriy K.",
-     "ra_id": "131504",
-     "soundcloud": "https://soundcloud.com/andriy_k",
-     "sc_id": 312774695,
-     "followers": 1896,
+     "name": "Rabella",
+     "ra_id": "90798",
+     "soundcloud": "https://soundcloud.com/rabelladj",
+     "sc_id": 18301322,
+     "followers": 463,
      "set": {
-      "id": 2106645057,
-      "title": "Andriy K. live rec. Silent Green (22.5.2025)",
-      "url": "https://soundcloud.com/andriy_k/andriy-k-live-rec-silent-green",
-      "minutes": 44,
-      "plays": 1563,
-      "uploader": "Andriy K. // cusoon dj",
+      "id": 1453251559,
+      "title": "Rabella @ KaterBlau AcidBogen",
+      "url": "https://soundcloud.com/rabelladj/live-katerblau-acidbogen",
+      "minutes": 235,
+      "plays": 3222,
+      "uploader": "Rabella",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2537991",
+   "day": "2026-10-17",
+   "title": "Paloma Invites",
+   "start": "2026-10-17T23:30:00.000",
+   "end": "2026-10-18T08:00:00.000",
+   "venue": "Paloma",
+   "url": "https://ra.co/events/2537991",
+   "interested": 38,
+   "genres": [],
+   "image": "https://images.ra.co/e0ff9f739244804db1fc0e5bef09ae5429716956.png",
+   "artistCount": 1,
+   "allArtists": [
+    "Ikonika"
+   ],
+   "top": [
+    {
+     "name": "Ikonika",
+     "ra_id": "10034",
+     "soundcloud": "https://soundcloud.com/ikonika",
+     "sc_id": 1089647,
+     "followers": 20841,
+     "set": {
+      "id": 376978466,
+      "title": "IKONIKA on Radar Radio - 29th December 2017",
+      "url": "https://soundcloud.com/ikonika/ikonika-on-radar-radio-29th-december-2017",
+      "minutes": 118,
+      "plays": 9038,
+      "uploader": "Ikonika",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2544303",
+   "day": "2026-10-17",
+   "title": "Expedicion 30 with Roots., Krakau, Mavidius, Flow TNTS, Xitual, Baraquz, Dark Anomaly",
+   "start": "2026-10-17T23:00:00.000",
+   "end": "2026-10-18T07:00:00.000",
+   "venue": "Void Club",
+   "url": "https://ra.co/events/2544303",
+   "interested": 36,
+   "genres": [
+    "Techno",
+    "Psytrance"
+   ],
+   "image": "https://images.ra.co/6c8ed10f3d8ca4783a5c869f601b5d6699d98fcc.png",
+   "artistCount": 4,
+   "allArtists": [
+    "Roots.",
+    "Mavidius",
+    "Flow TNTS",
+    "Dark Anomaly (2)"
+   ],
+   "top": [
+    {
+     "name": "Roots.",
+     "ra_id": "154696",
+     "soundcloud": "https://soundcloud.com/roots_with_a_dot",
+     "sc_id": 244591885,
+     "followers": 142,
+     "set": {
+      "id": 2225928713,
+      "title": "Flugmodus @ Sisyphos | Kaschemme 06.12.2025",
+      "url": "https://soundcloud.com/roots_with_a_dot/flugmodus-sisyphos-kaschemme-06122025",
+      "minutes": 116,
+      "plays": 520,
+      "uploader": "Roots.",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Flow TNTS",
+     "ra_id": "127236",
+     "soundcloud": "https://soundcloud.com/flow-tnts",
+     "sc_id": 414470985,
+     "followers": 132,
+     "set": {
+      "id": 469649091,
+      "title": "Flow TNTS \"SETISFACTION ENTER THE VOID\" @ VOID Club Berlin",
+      "url": "https://soundcloud.com/flow-tnts/flow-setisfaction-enter-the-void-void-club-berlin",
+      "minutes": 117,
+      "plays": 2399,
+      "uploader": "Flow TNTS",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Mavidius",
+     "ra_id": "184303",
+     "soundcloud": "https://soundcloud.com/relamt",
+     "sc_id": 546191754,
+     "followers": 31,
+     "set": {
+      "id": 2215342694,
+      "title": "With Love To Kyiv",
+      "url": "https://soundcloud.com/relamt/with-love-to-kyiv",
+      "minutes": 55,
+      "plays": 339,
+      "uploader": "Mavidius",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2559966",
+   "day": "2026-10-17",
+   "title": "Boys Noize presents 7llvsion",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T05:00:00.000",
+   "venue": "Studio1111",
+   "url": "https://ra.co/events/2559966",
+   "interested": 35,
+   "genres": [],
+   "image": "https://images.ra.co/4865f9a38cd10122b776b1cee6024feefb1b69f7.jpg",
+   "artistCount": 6,
+   "allArtists": [
+    "Boys Noize",
+    "Adame DJ",
+    "Meg10",
+    "TINKERHELL",
+    "Kontronatura",
+    "TAUBE"
+   ],
+   "top": [
+    {
+     "name": "Boys Noize",
+     "ra_id": "943",
+     "soundcloud": "https://soundcloud.com/boysnoize",
+     "sc_id": 39564,
+     "followers": 276909,
+     "set": {
+      "id": 284309654,
+      "title": "Boys Noize - A Roulé & Crydamoure Mix",
+      "url": "https://soundcloud.com/boysnoize/boys-noize-a-roule-crydamoure-mix",
+      "minutes": 58,
+      "plays": 226396,
+      "uploader": "Boys Noize",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Adame DJ",
+     "ra_id": "166302",
+     "soundcloud": "https://soundcloud.com/adamedj",
+     "sc_id": 333441796,
+     "followers": 12362,
+     "set": {
+      "id": 1775690571,
+      "title": "E SE - Bruxaria do Submundo 011",
+      "url": "https://soundcloud.com/adamedj/bruxaria",
+      "minutes": 42,
+      "plays": 21291,
+      "uploader": "Adame DJ",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Meg10",
+     "ra_id": "107211",
+     "soundcloud": "https://soundcloud.com/heymeg10",
+     "sc_id": 293381262,
+     "followers": 4369,
+     "set": {
+      "id": 1542776986,
+      "title": "Meg10 | HÖR – Jun 10, 2023",
+      "url": "https://soundcloud.com/heymeg10/meg10-hor-jun-10-2023",
+      "minutes": 56,
+      "plays": 17277,
+      "uploader": "Meg10",
       "source": "profile"
      }
     }
@@ -9237,6 +9289,60 @@
       "minutes": 118,
       "plays": 4218,
       "uploader": "futurristic",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2530899",
+   "day": "2026-10-17",
+   "title": "Andriy K. & Tharim Cornelisse + mu tate pres. life of mu",
+   "start": "2026-10-17T20:00:00.000",
+   "end": "2026-10-17T22:00:00.000",
+   "venue": "Silent Green",
+   "url": "https://ra.co/events/2530899",
+   "interested": 32,
+   "genres": [
+    "Ambient",
+    "Experimental"
+   ],
+   "image": "https://images.ra.co/9ed4f4e40f7c2b84cf67657c32efb4f18fae6dce.jpg",
+   "artistCount": 2,
+   "allArtists": [
+    "Andriy K.",
+    "mu tate"
+   ],
+   "top": [
+    {
+     "name": "mu tate",
+     "ra_id": "105231",
+     "soundcloud": "https://soundcloud.com/mu_tate",
+     "sc_id": 7294025,
+     "followers": 4028,
+     "set": {
+      "id": 940208770,
+      "title": "some things last a long time",
+      "url": "https://soundcloud.com/mu_tate/some-things-last-a-long-time",
+      "minutes": 98,
+      "plays": 5038,
+      "uploader": "mu tate",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Andriy K.",
+     "ra_id": "131504",
+     "soundcloud": "https://soundcloud.com/andriy_k",
+     "sc_id": 312774695,
+     "followers": 1896,
+     "set": {
+      "id": 2106645057,
+      "title": "Andriy K. live rec. Silent Green (22.5.2025)",
+      "url": "https://soundcloud.com/andriy_k/andriy-k-live-rec-silent-green",
+      "minutes": 44,
+      "plays": 1563,
+      "uploader": "Andriy K. // cusoon dj",
       "source": "profile"
      }
     }
@@ -9333,147 +9439,6 @@
    ]
   },
   {
-   "id": "2544303",
-   "day": "2026-10-17",
-   "title": "Expedicion 30 with Roots., Krakau, Mavidius, Flow TNTS, Xitual, Baraquz, Dark Anomaly",
-   "start": "2026-10-17T23:00:00.000",
-   "end": "2026-10-18T07:00:00.000",
-   "venue": "Void Club",
-   "url": "https://ra.co/events/2544303",
-   "interested": 36,
-   "genres": [
-    "Techno",
-    "Psytrance"
-   ],
-   "image": "https://images.ra.co/6c8ed10f3d8ca4783a5c869f601b5d6699d98fcc.png",
-   "artistCount": 4,
-   "allArtists": [
-    "Roots.",
-    "Mavidius",
-    "Flow TNTS",
-    "Dark Anomaly (2)"
-   ],
-   "top": [
-    {
-     "name": "Roots.",
-     "ra_id": "154696",
-     "soundcloud": "https://soundcloud.com/roots_with_a_dot",
-     "sc_id": 244591885,
-     "followers": 142,
-     "set": {
-      "id": 2225928713,
-      "title": "Flugmodus @ Sisyphos | Kaschemme 06.12.2025",
-      "url": "https://soundcloud.com/roots_with_a_dot/flugmodus-sisyphos-kaschemme-06122025",
-      "minutes": 116,
-      "plays": 520,
-      "uploader": "Roots.",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Flow TNTS",
-     "ra_id": "127236",
-     "soundcloud": "https://soundcloud.com/flow-tnts",
-     "sc_id": 414470985,
-     "followers": 132,
-     "set": {
-      "id": 469649091,
-      "title": "Flow TNTS \"SETISFACTION ENTER THE VOID\" @ VOID Club Berlin",
-      "url": "https://soundcloud.com/flow-tnts/flow-setisfaction-enter-the-void-void-club-berlin",
-      "minutes": 117,
-      "plays": 2399,
-      "uploader": "Flow TNTS",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Mavidius",
-     "ra_id": "184303",
-     "soundcloud": "https://soundcloud.com/relamt",
-     "sc_id": 546191754,
-     "followers": 31,
-     "set": {
-      "id": 2215342694,
-      "title": "With Love To Kyiv",
-      "url": "https://soundcloud.com/relamt/with-love-to-kyiv",
-      "minutes": 55,
-      "plays": 339,
-      "uploader": "Mavidius",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2540580",
-   "day": "2026-10-17",
-   "title": "FEMQUENCY FLINTA* DJ-Workshop + Showcase",
-   "start": "2026-10-17T11:30:00.000",
-   "end": "2026-10-18T03:00:00.000",
-   "venue": "Klunkerkranich",
-   "url": "https://ra.co/events/2540580",
-   "interested": 26,
-   "genres": [],
-   "image": "https://images.ra.co/21116fd10c1c795b7dac4fe1b874085a8595ce93.png",
-   "artistCount": 4,
-   "allArtists": [
-    "Ligal Tamir",
-    "Lea Chuga",
-    "Yola Rennt",
-    "Moni von Pisani"
-   ],
-   "top": [
-    {
-     "name": "Ligal Tamir",
-     "ra_id": "113461",
-     "soundcloud": "https://soundcloud.com/ligal-tamir",
-     "sc_id": 307480410,
-     "followers": 1894,
-     "set": {
-      "id": 1861906029,
-      "title": "Ligal Tamir @ Fusion Festival 2024 | Seebühne",
-      "url": "https://soundcloud.com/ligal-tamir/ligal-tamir-fusion-festival-2024-seebuhne",
-      "minutes": 116,
-      "plays": 11666,
-      "uploader": "Ligal Tamir",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Lea Chuga",
-     "ra_id": "179033",
-     "soundcloud": "https://soundcloud.com/lea-chuga",
-     "sc_id": 1181957518,
-     "followers": 440,
-     "set": {
-      "id": 1888379016,
-      "title": "Disco Rikscha @ MIT DIR Festival 2024",
-      "url": "https://soundcloud.com/lea-chuga/lea-chuga-auf-der-disco-rikscha-mit-dir-festival-2024",
-      "minutes": 145,
-      "plays": 2188,
-      "uploader": "Lea Chuga",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Yola Rennt",
-     "ra_id": "157625",
-     "soundcloud": "https://soundcloud.com/yola-rennt",
-     "sc_id": 21565036,
-     "followers": 294,
-     "set": {
-      "id": 2158932495,
-      "title": "Yola Rennt @Wilde Möhre Festival 2025. Warm tanzen aufm Wildschreck!",
-      "url": "https://soundcloud.com/yola-rennt/yola-rennt-wilde-mohre-2025-warm-tanzen-aufm-wildschreck",
-      "minutes": 116,
-      "plays": 1812,
-      "uploader": "Yola Rennt",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2551016",
    "day": "2026-10-17",
    "title": "VANTA",
@@ -9544,6 +9509,43 @@
       "minutes": 38,
       "plays": 4711,
       "uploader": "Gray Contrast",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2552838",
+   "day": "2026-10-17",
+   "title": "Tausend House: Shir Khan",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T03:00:00.000",
+   "venue": "Tausend",
+   "url": "https://ra.co/events/2552838",
+   "interested": 31,
+   "genres": [
+    "House",
+    "Electro"
+   ],
+   "image": "https://images.ra.co/98d4f3e0c06aa0a68433654b50383c65b4c133f4.jpg",
+   "artistCount": 1,
+   "allArtists": [
+    "Shir Khan"
+   ],
+   "top": [
+    {
+     "name": "Shir Khan",
+     "ra_id": "1026",
+     "soundcloud": "https://soundcloud.com/shirkhan",
+     "sc_id": 334,
+     "followers": 21207,
+     "set": {
+      "id": 132233074,
+      "title": "SHIR KHAN @ WATERGATE, BERLIN (24/01/2014)",
+      "url": "https://soundcloud.com/shirkhan/shir-khan-watergate-berlin-24",
+      "minutes": 179,
+      "plays": 18783,
+      "uploader": "SHIR KHAN",
       "source": "profile"
      }
     }
@@ -9622,6 +9624,246 @@
    ]
   },
   {
+   "id": "2540580",
+   "day": "2026-10-17",
+   "title": "FEMQUENCY FLINTA* DJ-Workshop + Showcase",
+   "start": "2026-10-17T11:30:00.000",
+   "end": "2026-10-18T03:00:00.000",
+   "venue": "Klunkerkranich",
+   "url": "https://ra.co/events/2540580",
+   "interested": 26,
+   "genres": [],
+   "image": "https://images.ra.co/21116fd10c1c795b7dac4fe1b874085a8595ce93.png",
+   "artistCount": 4,
+   "allArtists": [
+    "Ligal Tamir",
+    "Lea Chuga",
+    "Yola Rennt",
+    "Moni von Pisani"
+   ],
+   "top": [
+    {
+     "name": "Ligal Tamir",
+     "ra_id": "113461",
+     "soundcloud": "https://soundcloud.com/ligal-tamir",
+     "sc_id": 307480410,
+     "followers": 1894,
+     "set": {
+      "id": 1861906029,
+      "title": "Ligal Tamir @ Fusion Festival 2024 | Seebühne",
+      "url": "https://soundcloud.com/ligal-tamir/ligal-tamir-fusion-festival-2024-seebuhne",
+      "minutes": 116,
+      "plays": 11666,
+      "uploader": "Ligal Tamir",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Lea Chuga",
+     "ra_id": "179033",
+     "soundcloud": "https://soundcloud.com/lea-chuga",
+     "sc_id": 1181957518,
+     "followers": 440,
+     "set": {
+      "id": 1888379016,
+      "title": "Disco Rikscha @ MIT DIR Festival 2024",
+      "url": "https://soundcloud.com/lea-chuga/lea-chuga-auf-der-disco-rikscha-mit-dir-festival-2024",
+      "minutes": 145,
+      "plays": 2188,
+      "uploader": "Lea Chuga",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Yola Rennt",
+     "ra_id": "157625",
+     "soundcloud": "https://soundcloud.com/yola-rennt",
+     "sc_id": 21565036,
+     "followers": 294,
+     "set": {
+      "id": 2158932495,
+      "title": "Yola Rennt @Wilde Möhre Festival 2025. Warm tanzen aufm Wildschreck!",
+      "url": "https://soundcloud.com/yola-rennt/yola-rennt-wilde-mohre-2025-warm-tanzen-aufm-wildschreck",
+      "minutes": 116,
+      "plays": 1812,
+      "uploader": "Yola Rennt",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2550631",
+   "day": "2026-10-17",
+   "title": "Klappnacht x Small Great Things",
+   "start": "2026-10-17T23:00:00.000",
+   "end": "2026-10-18T07:00:00.000",
+   "venue": "Zur Klappe",
+   "url": "https://ra.co/events/2550631",
+   "interested": 26,
+   "genres": [],
+   "image": "https://images.ra.co/192e74997f61524126db963759c830df1beb65b5.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
+   "id": "2540515",
+   "day": "2026-10-17",
+   "title": "Hip Hop culture day/Hip hop Kulturtag",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T06:00:00.000",
+   "venue": "Humboldthain Club",
+   "url": "https://ra.co/events/2540515",
+   "interested": 24,
+   "genres": [
+    "Hip-Hop",
+    "Afro House"
+   ],
+   "image": "https://images.ra.co/05154f91fbf58b278923364210e0fea51323c31d.png",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
+   "id": "2548488",
+   "day": "2026-10-17",
+   "title": "NOXYS Späti Tour VOL. 1 with Späti 4 You - FREE RAVE",
+   "start": "2026-10-17T16:00:00.000",
+   "end": "2026-10-17T21:30:00.000",
+   "venue": "TBA - Späti 4 You - Kurfürstenstraße 28, Berlin",
+   "url": "https://ra.co/events/2548488",
+   "interested": 24,
+   "genres": [
+    "Trance",
+    "Techno"
+   ],
+   "image": "https://images.ra.co/6d379f3f75bdad49632f24ad617e56238198f6ea.png",
+   "artistCount": 7,
+   "allArtists": [
+    "Armaville",
+    "F O R E S I G H T",
+    "FAballert",
+    "Dr.Waumiau",
+    "MIMI404",
+    "DJ Sweedee",
+    "OnlyWithYou"
+   ],
+   "top": [
+    {
+     "name": "OnlyWithYou",
+     "ra_id": "128444",
+     "soundcloud": "https://soundcloud.com/djonlywithyou",
+     "sc_id": 186045931,
+     "followers": 20843,
+     "set": {
+      "id": 1705831629,
+      "title": "OnlyWithYou @ Beyond The Valley",
+      "url": "https://soundcloud.com/djonlywithyou/onlywithyou-beyond-the-valley-2024",
+      "minutes": 61,
+      "plays": 57788,
+      "uploader": "OnlyWithYou",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "MIMI404",
+     "ra_id": "165389",
+     "soundcloud": "https://soundcloud.com/mimi404dj",
+     "sc_id": 1202826289,
+     "followers": 2421,
+     "set": {
+      "id": 2041659976,
+      "title": "(hard) trance, dance & bounce (recorded in melbourne)",
+      "url": "https://soundcloud.com/mimi404dj/trance-trash-bounce",
+      "minutes": 99,
+      "plays": 2960,
+      "uploader": "☆MIMI404☆",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Armaville",
+     "ra_id": "145567",
+     "soundcloud": "https://soundcloud.com/armaville",
+     "sc_id": 77528092,
+     "followers": 539,
+     "set": null
+    }
+   ]
+  },
+  {
+   "id": "2556252",
+   "day": "2026-10-17",
+   "title": "FRACTAL — First Gathering",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T03:00:00.000",
+   "venue": "ciao ciao Bar",
+   "url": "https://ra.co/events/2556252",
+   "interested": 24,
+   "genres": [
+    "Broken Beat",
+    "Electronica"
+   ],
+   "image": "https://images.ra.co/18ad1df1ad1b10eb39cb8db3d529d5d1552d0f21.png",
+   "artistCount": 3,
+   "allArtists": [
+    "IDA",
+    "FoxMind",
+    "Esterne Moog"
+   ],
+   "top": [
+    {
+     "name": "FoxMind",
+     "ra_id": "124163",
+     "soundcloud": "https://soundcloud.com/foxmind",
+     "sc_id": 13657793,
+     "followers": 1623,
+     "set": {
+      "id": 335214103,
+      "title": "FoxMind on Radar Radio II",
+      "url": "https://soundcloud.com/foxmind/foxmind-on-radar-radio-ii",
+      "minutes": 61,
+      "plays": 1720,
+      "uploader": "FoxMind",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "IDA",
+     "ra_id": "66523",
+     "soundcloud": "https://soundcloud.com/idasavy",
+     "sc_id": 69170532,
+     "followers": 1141,
+     "set": {
+      "id": 438236190,
+      "title": "NTS Radio x Ectotherm 11.04.2018 - IDA",
+      "url": "https://soundcloud.com/idasavy/nts-radio-x-ectotherm-11042018-ida",
+      "minutes": 59,
+      "plays": 4453,
+      "uploader": "IDA",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Esterne Moog",
+     "ra_id": "116802",
+     "soundcloud": "https://soundcloud.com/esternemoog",
+     "sc_id": 111080248,
+     "followers": 114,
+     "set": {
+      "id": 1696029729,
+      "title": "INSANE FACES | 15 • 09 • 2023 | Esterne Moog [Vinyl Set] Sala Muv • Madrid, Spain",
+      "url": "https://soundcloud.com/esternemoog/insane-faces-15-o-09-o-2023",
+      "minutes": 88,
+      "plays": 414,
+      "uploader": "Esterne Moog",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2556833",
    "day": "2026-10-17",
    "title": "Klubnacht + Afterhour",
@@ -9695,144 +9937,6 @@
    ]
   },
   {
-   "id": "2559966",
-   "day": "2026-10-17",
-   "title": "Boys Noize presents 7llvsion",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T05:00:00.000",
-   "venue": "Studio1111",
-   "url": "https://ra.co/events/2559966",
-   "interested": 35,
-   "genres": [],
-   "image": "https://images.ra.co/4865f9a38cd10122b776b1cee6024feefb1b69f7.jpg",
-   "artistCount": 6,
-   "allArtists": [
-    "Boys Noize",
-    "Adame DJ",
-    "Meg10",
-    "TINKERHELL",
-    "Kontronatura",
-    "TAUBE"
-   ],
-   "top": [
-    {
-     "name": "Boys Noize",
-     "ra_id": "943",
-     "soundcloud": "https://soundcloud.com/boysnoize",
-     "sc_id": 39564,
-     "followers": 276909,
-     "set": {
-      "id": 284309654,
-      "title": "Boys Noize - A Roulé & Crydamoure Mix",
-      "url": "https://soundcloud.com/boysnoize/boys-noize-a-roule-crydamoure-mix",
-      "minutes": 58,
-      "plays": 226396,
-      "uploader": "Boys Noize",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Adame DJ",
-     "ra_id": "166302",
-     "soundcloud": "https://soundcloud.com/adamedj",
-     "sc_id": 333441796,
-     "followers": 12362,
-     "set": {
-      "id": 1775690571,
-      "title": "E SE - Bruxaria do Submundo 011",
-      "url": "https://soundcloud.com/adamedj/bruxaria",
-      "minutes": 42,
-      "plays": 21291,
-      "uploader": "Adame DJ",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Meg10",
-     "ra_id": "107211",
-     "soundcloud": "https://soundcloud.com/heymeg10",
-     "sc_id": 293381262,
-     "followers": 4369,
-     "set": {
-      "id": 1542776986,
-      "title": "Meg10 | HÖR – Jun 10, 2023",
-      "url": "https://soundcloud.com/heymeg10/meg10-hor-jun-10-2023",
-      "minutes": 56,
-      "plays": 17277,
-      "uploader": "Meg10",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2548488",
-   "day": "2026-10-17",
-   "title": "NOXYS Späti Tour VOL. 1 with Späti 4 You - FREE RAVE",
-   "start": "2026-10-17T16:00:00.000",
-   "end": "2026-10-17T21:30:00.000",
-   "venue": "TBA - Späti 4 You - Kurfürstenstraße 28, Berlin",
-   "url": "https://ra.co/events/2548488",
-   "interested": 24,
-   "genres": [
-    "Trance",
-    "Techno"
-   ],
-   "image": "https://images.ra.co/6d379f3f75bdad49632f24ad617e56238198f6ea.png",
-   "artistCount": 7,
-   "allArtists": [
-    "Armaville",
-    "F O R E S I G H T",
-    "FAballert",
-    "Dr.Waumiau",
-    "MIMI404",
-    "DJ Sweedee",
-    "OnlyWithYou"
-   ],
-   "top": [
-    {
-     "name": "OnlyWithYou",
-     "ra_id": "128444",
-     "soundcloud": "https://soundcloud.com/djonlywithyou",
-     "sc_id": 186045931,
-     "followers": 20843,
-     "set": {
-      "id": 1705831629,
-      "title": "OnlyWithYou @ Beyond The Valley",
-      "url": "https://soundcloud.com/djonlywithyou/onlywithyou-beyond-the-valley-2024",
-      "minutes": 61,
-      "plays": 57788,
-      "uploader": "OnlyWithYou",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "MIMI404",
-     "ra_id": "165389",
-     "soundcloud": "https://soundcloud.com/mimi404dj",
-     "sc_id": 1202826289,
-     "followers": 2421,
-     "set": {
-      "id": 2041659976,
-      "title": "(hard) trance, dance & bounce (recorded in melbourne)",
-      "url": "https://soundcloud.com/mimi404dj/trance-trash-bounce",
-      "minutes": 99,
-      "plays": 2960,
-      "uploader": "☆MIMI404☆",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Armaville",
-     "ra_id": "145567",
-     "soundcloud": "https://soundcloud.com/armaville",
-     "sc_id": 77528092,
-     "followers": 539,
-     "set": null
-    }
-   ]
-  },
-  {
    "id": "2534034",
    "day": "2026-10-17",
    "title": "Black Lab x Crack Bellmer",
@@ -9840,7 +9944,7 @@
    "end": "2026-10-18T06:00:00.000",
    "venue": "Crack Bellmer",
    "url": "https://ra.co/events/2534034",
-   "interested": 22,
+   "interested": 21,
    "genres": [
     "Techno",
     "Dub Techno"
@@ -9882,6 +9986,128 @@
       "plays": 2365,
       "uploader": "Monochrome",
       "source": "search"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2550392",
+   "day": "2026-10-17",
+   "title": "[NAKED] foam Party",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T05:00:00.000",
+   "venue": "Club Sauna",
+   "url": "https://ra.co/events/2550392",
+   "interested": 22,
+   "genres": [
+    "Techno"
+   ],
+   "image": "https://images.ra.co/8707a98b4fbe1190ea0a1bb85143eb4fc35e5766.png",
+   "artistCount": 1,
+   "allArtists": [
+    "Wiebe Roose"
+   ],
+   "top": [
+    {
+     "name": "Wiebe Roose",
+     "ra_id": "96349",
+     "soundcloud": "https://soundcloud.com/wieberoose",
+     "sc_id": 1560516,
+     "followers": 2967,
+     "set": {
+      "id": 1146774724,
+      "title": "Wiebe Roose closing Hammahalle Sisyphos 23/10/2021 Part 1 of 3",
+      "url": "https://soundcloud.com/wieberoose/wiebe-roose-closing-hammahalle-sisyphos-23102021-part-1-of-3",
+      "minutes": 115,
+      "plays": 5681,
+      "uploader": "Wiebe Roose (Dr Double U)",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2556080",
+   "day": "2026-10-17",
+   "title": "The Point of NO RETURN",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T07:00:00.000",
+   "venue": "Sonnenraum",
+   "url": "https://ra.co/events/2556080",
+   "interested": 20,
+   "genres": [
+    "Hip-Hop",
+    "Electro"
+   ],
+   "image": "https://images.ra.co/ec0eb039468f7aef2d9b37129ff7224baf1a93a9.png",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
+   "id": "2558887",
+   "day": "2026-10-17",
+   "title": "Phantom Friday x DUBBDÄCK",
+   "start": "2026-10-16T23:00:00.000",
+   "end": "2026-10-18T06:00:00.000",
+   "venue": "Phantom Bar Berlin",
+   "url": "https://ra.co/events/2558887",
+   "interested": 20,
+   "genres": [],
+   "image": "https://images.ra.co/22f735584e696b3da8dbe66886adef4e8da9eadc.jpg",
+   "artistCount": 3,
+   "allArtists": [
+    "Pauli Cakes",
+    "DJ Trade Trainer",
+    "HEDDA"
+   ],
+   "top": [
+    {
+     "name": "Pauli Cakes",
+     "ra_id": "93293",
+     "soundcloud": "https://soundcloud.com/paulicakes",
+     "sc_id": 38794324,
+     "followers": 1614,
+     "set": {
+      "id": 1034863147,
+      "title": "PAULI FOR COMMUNITY BREAD MIX",
+      "url": "https://soundcloud.com/paulicakes/deck-tear-community-bread-mix",
+      "minutes": 57,
+      "plays": 11681,
+      "uploader": "Pauli Cakes ༺♡༻",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "HEDDA",
+     "ra_id": "121427",
+     "soundcloud": "https://soundcloud.com/he-duh",
+     "sc_id": 93347929,
+     "followers": 1031,
+     "set": {
+      "id": 1141311571,
+      "title": "He duh @ Bleakening: Masters of the Narrative / 24.09.21 / Anita Berber",
+      "url": "https://soundcloud.com/he-duh/he-duh-bleakening-masters-of-the-narrative",
+      "minutes": 77,
+      "plays": 3803,
+      "uploader": "HEDDA",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "DJ Trade Trainer",
+     "ra_id": "165137",
+     "soundcloud": "https://soundcloud.com/djtradetrainer",
+     "sc_id": 90611652,
+     "followers": 220,
+     "set": {
+      "id": 2096466096,
+      "title": "the door to no more tears mix (BRENN Open Decks)",
+      "url": "https://soundcloud.com/djtradetrainer/the-door-to-no-more-tears-mix-brenn-open-decks",
+      "minutes": 76,
+      "plays": 267,
+      "uploader": "DJ Trade Trainer",
+      "source": "profile"
      }
     }
    ]
@@ -9958,199 +10184,6 @@
    ]
   },
   {
-   "id": "2540515",
-   "day": "2026-10-17",
-   "title": "Hip Hop culture day/Hip hop Kulturtag",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T06:00:00.000",
-   "venue": "Humboldthain Club",
-   "url": "https://ra.co/events/2540515",
-   "interested": 24,
-   "genres": [
-    "Hip-Hop",
-    "Afro House"
-   ],
-   "image": "https://images.ra.co/05154f91fbf58b278923364210e0fea51323c31d.png",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2550392",
-   "day": "2026-10-17",
-   "title": "[NAKED] foam Party",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T05:00:00.000",
-   "venue": "Club Sauna",
-   "url": "https://ra.co/events/2550392",
-   "interested": 22,
-   "genres": [
-    "Techno"
-   ],
-   "image": "https://images.ra.co/8707a98b4fbe1190ea0a1bb85143eb4fc35e5766.png",
-   "artistCount": 1,
-   "allArtists": [
-    "Wiebe Roose"
-   ],
-   "top": [
-    {
-     "name": "Wiebe Roose",
-     "ra_id": "96349",
-     "soundcloud": "https://soundcloud.com/wieberoose",
-     "sc_id": 1560516,
-     "followers": 2967,
-     "set": {
-      "id": 1146774724,
-      "title": "Wiebe Roose closing Hammahalle Sisyphos 23/10/2021 Part 1 of 3",
-      "url": "https://soundcloud.com/wieberoose/wiebe-roose-closing-hammahalle-sisyphos-23102021-part-1-of-3",
-      "minutes": 115,
-      "plays": 5681,
-      "uploader": "Wiebe Roose (Dr Double U)",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2556252",
-   "day": "2026-10-17",
-   "title": "FRACTAL — First Gathering",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T03:00:00.000",
-   "venue": "ciao ciao Bar",
-   "url": "https://ra.co/events/2556252",
-   "interested": 24,
-   "genres": [
-    "Broken Beat",
-    "Electronica"
-   ],
-   "image": "https://images.ra.co/18ad1df1ad1b10eb39cb8db3d529d5d1552d0f21.png",
-   "artistCount": 3,
-   "allArtists": [
-    "IDA",
-    "FoxMind",
-    "Esterne Moog"
-   ],
-   "top": [
-    {
-     "name": "FoxMind",
-     "ra_id": "124163",
-     "soundcloud": "https://soundcloud.com/foxmind",
-     "sc_id": 13657793,
-     "followers": 1623,
-     "set": {
-      "id": 335214103,
-      "title": "FoxMind on Radar Radio II",
-      "url": "https://soundcloud.com/foxmind/foxmind-on-radar-radio-ii",
-      "minutes": 61,
-      "plays": 1720,
-      "uploader": "FoxMind",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "IDA",
-     "ra_id": "66523",
-     "soundcloud": "https://soundcloud.com/idasavy",
-     "sc_id": 69170532,
-     "followers": 1141,
-     "set": {
-      "id": 438236190,
-      "title": "NTS Radio x Ectotherm 11.04.2018 - IDA",
-      "url": "https://soundcloud.com/idasavy/nts-radio-x-ectotherm-11042018-ida",
-      "minutes": 59,
-      "plays": 4453,
-      "uploader": "IDA",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Esterne Moog",
-     "ra_id": "116802",
-     "soundcloud": "https://soundcloud.com/esternemoog",
-     "sc_id": 111080248,
-     "followers": 114,
-     "set": {
-      "id": 1696029729,
-      "title": "INSANE FACES | 15 • 09 • 2023 | Esterne Moog [Vinyl Set] Sala Muv • Madrid, Spain",
-      "url": "https://soundcloud.com/esternemoog/insane-faces-15-o-09-o-2023",
-      "minutes": 88,
-      "plays": 414,
-      "uploader": "Esterne Moog",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2558887",
-   "day": "2026-10-17",
-   "title": "Phantom Friday x DUBBDÄCK",
-   "start": "2026-10-16T23:00:00.000",
-   "end": "2026-10-18T06:00:00.000",
-   "venue": "Phantom Bar Berlin",
-   "url": "https://ra.co/events/2558887",
-   "interested": 20,
-   "genres": [],
-   "image": "https://images.ra.co/22f735584e696b3da8dbe66886adef4e8da9eadc.jpg",
-   "artistCount": 3,
-   "allArtists": [
-    "Pauli Cakes",
-    "DJ Trade Trainer",
-    "HEDDA"
-   ],
-   "top": [
-    {
-     "name": "Pauli Cakes",
-     "ra_id": "93293",
-     "soundcloud": "https://soundcloud.com/paulicakes",
-     "sc_id": 38794324,
-     "followers": 1614,
-     "set": {
-      "id": 1034863147,
-      "title": "PAULI FOR COMMUNITY BREAD MIX",
-      "url": "https://soundcloud.com/paulicakes/deck-tear-community-bread-mix",
-      "minutes": 57,
-      "plays": 11681,
-      "uploader": "Pauli Cakes ༺♡༻",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "HEDDA",
-     "ra_id": "121427",
-     "soundcloud": "https://soundcloud.com/he-duh",
-     "sc_id": 93347929,
-     "followers": 1031,
-     "set": {
-      "id": 1141311571,
-      "title": "He duh @ Bleakening: Masters of the Narrative / 24.09.21 / Anita Berber",
-      "url": "https://soundcloud.com/he-duh/he-duh-bleakening-masters-of-the-narrative",
-      "minutes": 77,
-      "plays": 3803,
-      "uploader": "HEDDA",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "DJ Trade Trainer",
-     "ra_id": "165137",
-     "soundcloud": "https://soundcloud.com/djtradetrainer",
-     "sc_id": 90611652,
-     "followers": 220,
-     "set": {
-      "id": 2096466096,
-      "title": "the door to no more tears mix (BRENN Open Decks)",
-      "url": "https://soundcloud.com/djtradetrainer/the-door-to-no-more-tears-mix-brenn-open-decks",
-      "minutes": 76,
-      "plays": 267,
-      "uploader": "DJ Trade Trainer",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2541256",
    "day": "2026-10-17",
    "title": "Upstairs Basement 5 Year Anniversary",
@@ -10205,21 +10238,6 @@
    ]
   },
   {
-   "id": "2550631",
-   "day": "2026-10-17",
-   "title": "Klappnacht x Small Great Things",
-   "start": "2026-10-17T23:00:00.000",
-   "end": "2026-10-18T07:00:00.000",
-   "venue": "Zur Klappe",
-   "url": "https://ra.co/events/2550631",
-   "interested": 26,
-   "genres": [],
-   "image": "https://images.ra.co/192e74997f61524126db963759c830df1beb65b5.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2554199",
    "day": "2026-10-17",
    "title": "MA BAKER PARTY ✪ Disco RnB House ✪ €5 Off After Midnight ✪",
@@ -10253,19 +10271,19 @@
    "top": []
   },
   {
-   "id": "2556080",
+   "id": "2548478",
    "day": "2026-10-17",
-   "title": "The Point of NO RETURN",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T07:00:00.000",
-   "venue": "Sonnenraum",
-   "url": "https://ra.co/events/2556080",
-   "interested": 20,
+   "title": "BRASIL BAILEFUNK - BERLIN BAILECRIA",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T04:00:00.000",
+   "venue": "TBA - DJA ARTCLUB - ADALBERTSTR 98 KOTTI",
+   "url": "https://ra.co/events/2548478",
+   "interested": 11,
    "genres": [
-    "Hip-Hop",
-    "Electro"
+    "Baile Funk",
+    "Afro Tech"
    ],
-   "image": "https://images.ra.co/ec0eb039468f7aef2d9b37129ff7224baf1a93a9.png",
+   "image": "https://images.ra.co/4a3b11d1010669bf28aa31e2ff1f316d5b102111.jpg",
    "artistCount": 0,
    "allArtists": [],
    "top": []
@@ -10339,24 +10357,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2548478",
-   "day": "2026-10-17",
-   "title": "BRASIL BAILEFUNK - BERLIN BAILECRIA",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T04:00:00.000",
-   "venue": "TBA - DJA ARTCLUB - ADALBERTSTR 98 KOTTI",
-   "url": "https://ra.co/events/2548478",
-   "interested": 11,
-   "genres": [
-    "Baile Funk",
-    "Afro Tech"
-   ],
-   "image": "https://images.ra.co/4a3b11d1010669bf28aa31e2ff1f316d5b102111.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2552617",
@@ -10571,55 +10571,71 @@
    ]
   },
   {
-   "id": "2546533",
+   "id": "2558922",
    "day": "2026-10-17",
-   "title": "Nice Tries & Friends Vol. 6",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T04:00:00.000",
-   "venue": "Orangerie Neukölln",
-   "url": "https://ra.co/events/2546533",
-   "interested": 5,
-   "genres": [
-    "House",
-    "Deep House"
-   ],
-   "image": "https://images.ra.co/0a93b568c0440dc41683b1bd78896ef7ec2bd816.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2550697",
-   "day": "2026-10-17",
-   "title": "Hallo, Hallo",
-   "start": "2026-10-17T13:00:00.000",
-   "end": "2026-10-17T18:30:00.000",
-   "venue": "TBA - LAP Coffee, Bergmannstraße 9, 10961 Berlin",
-   "url": "https://ra.co/events/2550697",
-   "interested": 5,
-   "genres": [
-    "House",
-    "Disco"
-   ],
-   "image": "https://images.ra.co/027a4e09e06ec77ebb4d85e7d7ac047565db1849.jpg",
+   "title": "Coffee & Dubz",
+   "start": "2026-10-17T14:00:00.000",
+   "end": "2026-10-17T18:00:00.000",
+   "venue": "Passenger Coffee Reuterstr.",
+   "url": "https://ra.co/events/2558922",
+   "interested": 8,
+   "genres": [],
+   "image": "https://images.ra.co/525fd53784fde63aba16dfa040de3631dbe5f3d4.jpg",
    "artistCount": 1,
    "allArtists": [
-    "KLUBMATI"
+    "MXC"
    ],
    "top": [
     {
-     "name": "KLUBMATI",
-     "ra_id": "149030",
-     "soundcloud": "https://soundcloud.com/klubmati",
-     "sc_id": 1241732626,
-     "followers": 63,
+     "name": "MXC",
+     "ra_id": "126810",
+     "soundcloud": "https://soundcloud.com/mxc_mxc",
+     "sc_id": 41117222,
+     "followers": 336,
      "set": {
-      "id": 1916778248,
-      "title": "House of Jacking Acid (Vinyl-Only DJ Set)",
-      "url": "https://soundcloud.com/klubmati/house-of-jacking-acid",
-      "minutes": 62,
-      "plays": 152,
-      "uploader": "KLUBMATI",
+      "id": 1798305649,
+      "title": "MXC @ Jubeljahre Festival",
+      "url": "https://soundcloud.com/mxc_mxc/mxc-jubeljahre-festival",
+      "minutes": 120,
+      "plays": 49,
+      "uploader": "MXC",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2562154",
+   "day": "2026-10-17",
+   "title": "Irrenhouse: Festival Of Lights Clubnight",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T06:00:00.000",
+   "venue": "PKH Warehouse",
+   "url": "https://ra.co/events/2562154",
+   "interested": 8,
+   "genres": [
+    "Trance",
+    "Pop"
+   ],
+   "image": "https://images.ra.co/df45e8729706eaf21d5c9a742a0794a5e1f81649.jpg",
+   "artistCount": 1,
+   "allArtists": [
+    "ELEETE"
+   ],
+   "top": [
+    {
+     "name": "ELEETE",
+     "ra_id": "130125",
+     "soundcloud": "https://soundcloud.com/realeleete",
+     "sc_id": 15722138,
+     "followers": 290,
+     "set": {
+      "id": 2116643193,
+      "title": "ELEETE - Techno Mainfloor Action @ Piepshow - Kit Kat Club",
+      "url": "https://soundcloud.com/realeleete/eleete-140-bpm-mainfloor-action-piepshow-kit-kat-club",
+      "minutes": 120,
+      "plays": 1497,
+      "uploader": "ELEETE",
       "source": "profile"
      }
     }
@@ -10674,40 +10690,6 @@
       "minutes": 55,
       "plays": 1880,
       "uploader": "Franziska Frizzante",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2558922",
-   "day": "2026-10-17",
-   "title": "Coffee & Dubz",
-   "start": "2026-10-17T14:00:00.000",
-   "end": "2026-10-17T18:00:00.000",
-   "venue": "Passenger Coffee Reuterstr.",
-   "url": "https://ra.co/events/2558922",
-   "interested": 8,
-   "genres": [],
-   "image": "https://images.ra.co/525fd53784fde63aba16dfa040de3631dbe5f3d4.jpg",
-   "artistCount": 1,
-   "allArtists": [
-    "MXC"
-   ],
-   "top": [
-    {
-     "name": "MXC",
-     "ra_id": "126810",
-     "soundcloud": "https://soundcloud.com/mxc_mxc",
-     "sc_id": 41117222,
-     "followers": 336,
-     "set": {
-      "id": 1798305649,
-      "title": "MXC @ Jubeljahre Festival",
-      "url": "https://soundcloud.com/mxc_mxc/mxc-jubeljahre-festival",
-      "minutes": 120,
-      "plays": 49,
-      "uploader": "MXC",
       "source": "profile"
      }
     }
@@ -10786,37 +10768,59 @@
    ]
   },
   {
-   "id": "2546770",
+   "id": "2546533",
    "day": "2026-10-17",
-   "title": "'Dia de la rauxa', a gathering with live music in catalan",
-   "start": "2026-10-17T15:00:00.000",
-   "end": "2026-10-18T00:30:00.000",
-   "venue": "B.L.O-Ateliers",
-   "url": "https://ra.co/events/2546770",
-   "interested": 3,
-   "genres": [],
-   "image": "https://images.ra.co/f5ca2050d42eeb7354e1df982b45ed7e39c49219.png",
+   "title": "Nice Tries & Friends Vol. 6",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T04:00:00.000",
+   "venue": "Orangerie Neukölln",
+   "url": "https://ra.co/events/2546533",
+   "interested": 5,
+   "genres": [
+    "House",
+    "Deep House"
+   ],
+   "image": "https://images.ra.co/0a93b568c0440dc41683b1bd78896ef7ec2bd816.jpg",
    "artistCount": 0,
    "allArtists": [],
    "top": []
   },
   {
-   "id": "2547260",
+   "id": "2550697",
    "day": "2026-10-17",
-   "title": "Techno Classics Party",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T05:00:00.000",
-   "venue": "Silver Event Location",
-   "url": "https://ra.co/events/2547260",
-   "interested": 4,
+   "title": "Hallo, Hallo",
+   "start": "2026-10-17T13:00:00.000",
+   "end": "2026-10-17T18:30:00.000",
+   "venue": "TBA - LAP Coffee, Bergmannstraße 9, 10961 Berlin",
+   "url": "https://ra.co/events/2550697",
+   "interested": 5,
    "genres": [
-    "Techno",
-    "Electro"
+    "House",
+    "Disco"
    ],
-   "image": "https://images.ra.co/46f72072b43db3708eb980e1673800fdd56dd9a6.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
+   "image": "https://images.ra.co/027a4e09e06ec77ebb4d85e7d7ac047565db1849.jpg",
+   "artistCount": 1,
+   "allArtists": [
+    "KLUBMATI"
+   ],
+   "top": [
+    {
+     "name": "KLUBMATI",
+     "ra_id": "149030",
+     "soundcloud": "https://soundcloud.com/klubmati",
+     "sc_id": 1241732626,
+     "followers": 63,
+     "set": {
+      "id": 1916778248,
+      "title": "House of Jacking Acid (Vinyl-Only DJ Set)",
+      "url": "https://soundcloud.com/klubmati/house-of-jacking-acid",
+      "minutes": 62,
+      "plays": 152,
+      "uploader": "KLUBMATI",
+      "source": "profile"
+     }
+    }
+   ]
   },
   {
    "id": "2561757",
@@ -10862,7 +10866,7 @@
    "end": "2026-10-18T06:30:00.000",
    "venue": "Süss War Gestern",
    "url": "https://ra.co/events/2561921",
-   "interested": 5,
+   "interested": 4,
    "genres": [
     "House",
     "Tech House"
@@ -10927,86 +10931,34 @@
    ]
   },
   {
-   "id": "2562154",
+   "id": "2547260",
    "day": "2026-10-17",
-   "title": "Irrenhouse: Festival Of Lights Clubnight",
+   "title": "Techno Classics Party",
    "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T06:00:00.000",
-   "venue": "PKH Warehouse",
-   "url": "https://ra.co/events/2562154",
-   "interested": 8,
-   "genres": [
-    "Trance",
-    "Pop"
-   ],
-   "image": "https://images.ra.co/df45e8729706eaf21d5c9a742a0794a5e1f81649.jpg",
-   "artistCount": 1,
-   "allArtists": [
-    "ELEETE"
-   ],
-   "top": [
-    {
-     "name": "ELEETE",
-     "ra_id": "130125",
-     "soundcloud": "https://soundcloud.com/realeleete",
-     "sc_id": 15722138,
-     "followers": 290,
-     "set": {
-      "id": 2116643193,
-      "title": "ELEETE - Techno Mainfloor Action @ Piepshow - Kit Kat Club",
-      "url": "https://soundcloud.com/realeleete/eleete-140-bpm-mainfloor-action-piepshow-kit-kat-club",
-      "minutes": 120,
-      "plays": 1497,
-      "uploader": "ELEETE",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2492868",
-   "day": "2026-10-17",
-   "title": "Käptens Club Party - Disco pur",
-   "start": "2026-10-17T21:00:00.000",
    "end": "2026-10-18T05:00:00.000",
-   "venue": "Hafenbar Berlin",
-   "url": "https://ra.co/events/2492868",
-   "interested": 2,
-   "genres": [],
-   "image": "https://images.ra.co/5c9cab34f62339c5605aecbd7313012a02b48ad6.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2531846",
-   "day": "2026-10-17",
-   "title": "Electro & Techno Sounds Saturday",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T06:00:00.000",
-   "venue": "Soda Club",
-   "url": "https://ra.co/events/2531846",
-   "interested": 2,
+   "venue": "Silver Event Location",
+   "url": "https://ra.co/events/2547260",
+   "interested": 4,
    "genres": [
     "Techno",
     "Electro"
    ],
-   "image": "https://images.ra.co/af9bd3a5805476e1b685acec20af27e0269b8ae1.jpg",
+   "image": "https://images.ra.co/46f72072b43db3708eb980e1673800fdd56dd9a6.jpg",
    "artistCount": 0,
    "allArtists": [],
    "top": []
   },
   {
-   "id": "2547258",
+   "id": "2546770",
    "day": "2026-10-17",
-   "title": "Zeus plays at migas",
-   "start": "2026-10-17T20:00:00.000",
-   "end": "2026-10-17T23:00:00.000",
-   "venue": "migas, a listening bar",
-   "url": "https://ra.co/events/2547258",
-   "interested": 1,
+   "title": "'Dia de la rauxa', a gathering with live music in catalan",
+   "start": "2026-10-17T15:00:00.000",
+   "end": "2026-10-18T00:30:00.000",
+   "venue": "B.L.O-Ateliers",
+   "url": "https://ra.co/events/2546770",
+   "interested": 3,
    "genres": [],
-   "image": null,
+   "image": "https://images.ra.co/f5ca2050d42eeb7354e1df982b45ed7e39c49219.png",
    "artistCount": 0,
    "allArtists": [],
    "top": []
@@ -11073,6 +11025,39 @@
    ]
   },
   {
+   "id": "2492868",
+   "day": "2026-10-17",
+   "title": "Käptens Club Party - Disco pur",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T05:00:00.000",
+   "venue": "Hafenbar Berlin",
+   "url": "https://ra.co/events/2492868",
+   "interested": 2,
+   "genres": [],
+   "image": "https://images.ra.co/5c9cab34f62339c5605aecbd7313012a02b48ad6.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
+   "id": "2531846",
+   "day": "2026-10-17",
+   "title": "Electro & Techno Sounds Saturday",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T06:00:00.000",
+   "venue": "Soda Club",
+   "url": "https://ra.co/events/2531846",
+   "interested": 2,
+   "genres": [
+    "Techno",
+    "Electro"
+   ],
+   "image": "https://images.ra.co/af9bd3a5805476e1b685acec20af27e0269b8ae1.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2553307",
    "day": "2026-10-17",
    "title": "Saturday Session: Avec Plaisir (residency finale)",
@@ -11122,6 +11107,53 @@
      }
     }
    ]
+  },
+  {
+   "id": "2547258",
+   "day": "2026-10-17",
+   "title": "Zeus plays at migas",
+   "start": "2026-10-17T20:00:00.000",
+   "end": "2026-10-17T23:00:00.000",
+   "venue": "migas, a listening bar",
+   "url": "https://ra.co/events/2547258",
+   "interested": 1,
+   "genres": [],
+   "image": null,
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
+   "id": "2551410",
+   "day": "2026-10-17",
+   "title": "INDEPENDENT TANZMUSIK by DJ Spy",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T04:30:00.000",
+   "venue": "Dunckerclub",
+   "url": "https://ra.co/events/2551410",
+   "interested": 1,
+   "genres": [],
+   "image": "https://images.ra.co/82c159f555d2f89e1369535d424a61dee543e1b0.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
+   "id": "2556599",
+   "day": "2026-10-17",
+   "title": "Funk You Label Night with PLASTIK FUNK",
+   "start": "2026-10-17T23:00:00.000",
+   "end": "2026-10-18T06:00:00.000",
+   "venue": "The Door Club",
+   "url": "https://ra.co/events/2556599",
+   "interested": 1,
+   "genres": [
+    "Tech House"
+   ],
+   "image": "https://images.ra.co/74917339cceccd177ef7105a84954e84d6df5e45.png",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2558155",
@@ -11176,56 +11208,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2545065",
-   "day": "2026-10-17",
-   "title": "Flowers Of Romance",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T06:00:00.000",
-   "venue": "Supamolly",
-   "url": "https://ra.co/events/2545065",
-   "interested": 0,
-   "genres": [
-    "Electro",
-    "New Wave"
-   ],
-   "image": null,
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2551410",
-   "day": "2026-10-17",
-   "title": "INDEPENDENT TANZMUSIK by DJ Spy",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T04:30:00.000",
-   "venue": "Dunckerclub",
-   "url": "https://ra.co/events/2551410",
-   "interested": 1,
-   "genres": [],
-   "image": "https://images.ra.co/82c159f555d2f89e1369535d424a61dee543e1b0.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2556599",
-   "day": "2026-10-17",
-   "title": "Funk You Label Night with PLASTIK FUNK",
-   "start": "2026-10-17T23:00:00.000",
-   "end": "2026-10-18T06:00:00.000",
-   "venue": "The Door Club",
-   "url": "https://ra.co/events/2556599",
-   "interested": 1,
-   "genres": [
-    "Tech House"
-   ],
-   "image": "https://images.ra.co/74917339cceccd177ef7105a84954e84d6df5e45.png",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2559551",
@@ -11299,6 +11281,24 @@
      }
     }
    ]
+  },
+  {
+   "id": "2545065",
+   "day": "2026-10-17",
+   "title": "Flowers Of Romance",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T06:00:00.000",
+   "venue": "Supamolly",
+   "url": "https://ra.co/events/2545065",
+   "interested": 0,
+   "genres": [
+    "Electro",
+    "New Wave"
+   ],
+   "image": null,
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2560578",
