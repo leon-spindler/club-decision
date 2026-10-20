@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T05:38:26Z",
+ "generated": "2026-10-20T05:39:14Z",
  "events": [
   {
    "id": "2552572",
@@ -475,7 +475,7 @@
    "end": "2026-10-14T23:59:00.000",
    "venue": "Giri",
    "url": "https://ra.co/events/2484113",
-   "interested": 11,
+   "interested": 12,
    "genres": [
     "Experimental",
     "Jazz"
@@ -565,7 +565,7 @@
    "end": "2026-10-15T02:00:00.000",
    "venue": "Insomnia",
    "url": "https://ra.co/events/2537971",
-   "interested": 6,
+   "interested": 7,
    "genres": [],
    "image": "https://images.ra.co/739b212b3d75c91def56b638c11a4a3452fc28b4.jpg",
    "artistCount": 0,
@@ -1640,8 +1640,8 @@
    "url": "https://ra.co/events/2552693",
    "interested": 20,
    "genres": [
-    "Afrobeat",
-    "Dub"
+    "Dub",
+    "Afrobeat"
    ],
    "image": "https://images.ra.co/0e835783eeb29ab59ff6abdca7b5e6b2945a45ec.jpg",
    "artistCount": 0,
@@ -1923,8 +1923,8 @@
    "url": "https://ra.co/events/2555628",
    "interested": 6,
    "genres": [
-    "Afrobeat",
-    "Jazz"
+    "Jazz",
+    "Afrobeat"
    ],
    "image": "https://images.ra.co/4276f5cf7f064db947de82bff9269efba46e82f8.png",
    "artistCount": 0,
@@ -2497,83 +2497,6 @@
    "top": []
   },
   {
-   "id": "2356093",
-   "day": "2026-10-16",
-   "title": "Devoted w. A.N.I., Kø:lab, SaltySis, KLING&KLANG",
-   "start": "2026-10-16T23:00:00.000",
-   "end": "2026-10-17T09:00:00.000",
-   "venue": "OST",
-   "url": "https://ra.co/events/2356093",
-   "interested": 1512,
-   "genres": [
-    "Trance",
-    "Techno"
-   ],
-   "image": "https://images.ra.co/cbf992b9ff450c0dc227465fbf304cbadfd7da06.png",
-   "artistCount": 9,
-   "allArtists": [
-    "A.N.I.",
-    "BLACK(JP)",
-    "Billy Currie",
-    "KLING&KLANG",
-    "Kø:lab",
-    "Nettta",
-    "SaltySis",
-    "SEKTOR69",
-    "SWAGGER"
-   ],
-   "top": [
-    {
-     "name": "A.N.I.",
-     "ra_id": "113122",
-     "soundcloud": "https://soundcloud.com/a_n_i_dj",
-     "sc_id": 273210665,
-     "followers": 40491,
-     "set": {
-      "id": 2047249976,
-      "title": "A.N.I. | DNA FESTIVAL | MUNICH | 😤 POWER CLOSING🤯🤯",
-      "url": "https://soundcloud.com/a_n_i_dj/ani-dna-festival-munich-3k-people",
-      "minutes": 94,
-      "plays": 263959,
-      "uploader": "A.N.I.",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Kø:lab",
-     "ra_id": "102552",
-     "soundcloud": "https://soundcloud.com/kolabberlin",
-     "sc_id": 968794648,
-     "followers": 22475,
-     "set": {
-      "id": 1412407780,
-      "title": "Kø:lab Mix 01 || End Of The Year Mix",
-      "url": "https://soundcloud.com/kolabberlin/kolab-mix-01-end-of-the-year-mix",
-      "minutes": 55,
-      "plays": 104125,
-      "uploader": "Kø:lab",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "KLING&KLANG",
-     "ra_id": "104121",
-     "soundcloud": "https://soundcloud.com/kling_und_klang",
-     "sc_id": 847534747,
-     "followers": 9821,
-     "set": {
-      "id": 1609749411,
-      "title": "KLING&KLANG - HIVE SET 2023",
-      "url": "https://soundcloud.com/kling_und_klang/hive-set",
-      "minutes": 67,
-      "plays": 92949,
-      "uploader": "KLING&KLANG",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2425900",
    "day": "2026-10-16",
    "title": "NICE ONE WEEKENDER",
@@ -2581,7 +2504,7 @@
    "end": "2026-10-19T08:00:00.000",
    "venue": "ZENNER",
    "url": "https://ra.co/events/2425900",
-   "interested": 1593,
+   "interested": 1594,
    "genres": [],
    "image": "https://images.ra.co/18d9ccb828dd4ecf33a49cd16e9911be34ea063d.png",
    "artistCount": 37,
@@ -2670,6 +2593,83 @@
       "minutes": 51,
       "plays": 19123,
       "uploader": "Ciel",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2356093",
+   "day": "2026-10-16",
+   "title": "Devoted w. A.N.I., Kø:lab, SaltySis, KLING&KLANG",
+   "start": "2026-10-16T23:00:00.000",
+   "end": "2026-10-17T09:00:00.000",
+   "venue": "OST",
+   "url": "https://ra.co/events/2356093",
+   "interested": 1512,
+   "genres": [
+    "Trance",
+    "Techno"
+   ],
+   "image": "https://images.ra.co/cbf992b9ff450c0dc227465fbf304cbadfd7da06.png",
+   "artistCount": 9,
+   "allArtists": [
+    "A.N.I.",
+    "BLACK(JP)",
+    "Billy Currie",
+    "KLING&KLANG",
+    "Kø:lab",
+    "Nettta",
+    "SaltySis",
+    "SEKTOR69",
+    "SWAGGER"
+   ],
+   "top": [
+    {
+     "name": "A.N.I.",
+     "ra_id": "113122",
+     "soundcloud": "https://soundcloud.com/a_n_i_dj",
+     "sc_id": 273210665,
+     "followers": 40491,
+     "set": {
+      "id": 2047249976,
+      "title": "A.N.I. | DNA FESTIVAL | MUNICH | 😤 POWER CLOSING🤯🤯",
+      "url": "https://soundcloud.com/a_n_i_dj/ani-dna-festival-munich-3k-people",
+      "minutes": 94,
+      "plays": 263959,
+      "uploader": "A.N.I.",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Kø:lab",
+     "ra_id": "102552",
+     "soundcloud": "https://soundcloud.com/kolabberlin",
+     "sc_id": 968794648,
+     "followers": 22475,
+     "set": {
+      "id": 1412407780,
+      "title": "Kø:lab Mix 01 || End Of The Year Mix",
+      "url": "https://soundcloud.com/kolabberlin/kolab-mix-01-end-of-the-year-mix",
+      "minutes": 55,
+      "plays": 104125,
+      "uploader": "Kø:lab",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "KLING&KLANG",
+     "ra_id": "104121",
+     "soundcloud": "https://soundcloud.com/kling_und_klang",
+     "sc_id": 847534747,
+     "followers": 9821,
+     "set": {
+      "id": 1609749411,
+      "title": "KLING&KLANG - HIVE SET 2023",
+      "url": "https://soundcloud.com/kling_und_klang/hive-set",
+      "minutes": 67,
+      "plays": 92949,
+      "uploader": "KLING&KLANG",
       "source": "profile"
      }
     }
@@ -5873,7 +5873,7 @@
    "end": "2026-10-17T02:00:00.000",
    "venue": "Bredouille",
    "url": "https://ra.co/events/2561807",
-   "interested": 9,
+   "interested": 10,
    "genres": [
     "House",
     "Tech House"
@@ -6850,7 +6850,7 @@
    "end": "2026-10-19T08:00:00.000",
    "venue": "ZENNER",
    "url": "https://ra.co/events/2425900",
-   "interested": 1593,
+   "interested": 1594,
    "genres": [],
    "image": "https://images.ra.co/18d9ccb828dd4ecf33a49cd16e9911be34ea063d.png",
    "artistCount": 37,
@@ -9349,6 +9349,82 @@
    ]
   },
   {
+   "id": "2551016",
+   "day": "2026-10-17",
+   "title": "VANTA",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T07:00:00.000",
+   "venue": "TBA - Telegramm: @MauerparkLoveKommando",
+   "url": "https://ra.co/events/2551016",
+   "interested": 31,
+   "genres": [
+    "Techno"
+   ],
+   "image": "https://images.ra.co/495f2f30e735ba3f9f6c4c525a32f04cb500b291.jpg",
+   "artistCount": 9,
+   "allArtists": [
+    "Balkhausen",
+    "Dshanna",
+    "Gray Contrast",
+    "Gretchen B",
+    "Hendrik Nitsche",
+    "Jan Ritter",
+    "Julez (live)",
+    "Kaltgepresst",
+    "TØMMSEN"
+   ],
+   "top": [
+    {
+     "name": "Gretchen B",
+     "ra_id": "93170",
+     "soundcloud": "https://soundcloud.com/djgretchenb",
+     "sc_id": 284639687,
+     "followers": 1924,
+     "set": {
+      "id": 1305769720,
+      "title": "@TRIEBWERKE, FUSION FESTIVAL 2022 [EXCERPT]",
+      "url": "https://soundcloud.com/djgretchenb/live-at-triebwerke-stage-fusion-festival-2022",
+      "minutes": 30,
+      "plays": 5323,
+      "uploader": "Gretchen B (formerly Gretchen Bazooka)",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Jan Ritter",
+     "ra_id": "72290",
+     "soundcloud": "https://soundcloud.com/janritterofficial",
+     "sc_id": 281818556,
+     "followers": 1819,
+     "set": {
+      "id": 352391723,
+      "title": "Jan Ritter - 13 Jahre MLK-Area",
+      "url": "https://soundcloud.com/janritterofficial/jan-ritter-13-jahre-mlk-area",
+      "minutes": 89,
+      "plays": 29815,
+      "uploader": "Jan Ritter",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Gray Contrast",
+     "ra_id": "184497",
+     "soundcloud": "https://soundcloud.com/gray-contrast",
+     "sc_id": 499498797,
+     "followers": 1566,
+     "set": {
+      "id": 1201870621,
+      "title": "Max-Koch-Passage \"Tunnel\" Liveset 19.11.21 - Gray Contrast",
+      "url": "https://soundcloud.com/gray-contrast/max-koch-passage-tunnel-liveset",
+      "minutes": 38,
+      "plays": 4711,
+      "uploader": "Gray Contrast",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2536780",
    "day": "2026-10-17",
    "title": "DEEPER",
@@ -9433,82 +9509,6 @@
       "minutes": 146,
       "plays": 186996,
       "uploader": "Anja Schneider",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2551016",
-   "day": "2026-10-17",
-   "title": "VANTA",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T07:00:00.000",
-   "venue": "TBA - Telegramm: @MauerparkLoveKommando",
-   "url": "https://ra.co/events/2551016",
-   "interested": 31,
-   "genres": [
-    "Techno"
-   ],
-   "image": "https://images.ra.co/495f2f30e735ba3f9f6c4c525a32f04cb500b291.jpg",
-   "artistCount": 9,
-   "allArtists": [
-    "Balkhausen",
-    "Dshanna",
-    "Gray Contrast",
-    "Gretchen B",
-    "Hendrik Nitsche",
-    "Jan Ritter",
-    "Julez (live)",
-    "Kaltgepresst",
-    "TØMMSEN"
-   ],
-   "top": [
-    {
-     "name": "Gretchen B",
-     "ra_id": "93170",
-     "soundcloud": "https://soundcloud.com/djgretchenb",
-     "sc_id": 284639687,
-     "followers": 1924,
-     "set": {
-      "id": 1305769720,
-      "title": "@TRIEBWERKE, FUSION FESTIVAL 2022 [EXCERPT]",
-      "url": "https://soundcloud.com/djgretchenb/live-at-triebwerke-stage-fusion-festival-2022",
-      "minutes": 30,
-      "plays": 5323,
-      "uploader": "Gretchen B (formerly Gretchen Bazooka)",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Jan Ritter",
-     "ra_id": "72290",
-     "soundcloud": "https://soundcloud.com/janritterofficial",
-     "sc_id": 281818556,
-     "followers": 1819,
-     "set": {
-      "id": 352391723,
-      "title": "Jan Ritter - 13 Jahre MLK-Area",
-      "url": "https://soundcloud.com/janritterofficial/jan-ritter-13-jahre-mlk-area",
-      "minutes": 89,
-      "plays": 29815,
-      "uploader": "Jan Ritter",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Gray Contrast",
-     "ra_id": "184497",
-     "soundcloud": "https://soundcloud.com/gray-contrast",
-     "sc_id": 499498797,
-     "followers": 1566,
-     "set": {
-      "id": 1201870621,
-      "title": "Max-Koch-Passage \"Tunnel\" Liveset 19.11.21 - Gray Contrast",
-      "url": "https://soundcloud.com/gray-contrast/max-koch-passage-tunnel-liveset",
-      "minutes": 38,
-      "plays": 4711,
-      "uploader": "Gray Contrast",
       "source": "profile"
      }
     }
@@ -9937,6 +9937,42 @@
    ]
   },
   {
+   "id": "2550392",
+   "day": "2026-10-17",
+   "title": "[NAKED] foam Party",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T05:00:00.000",
+   "venue": "Club Sauna",
+   "url": "https://ra.co/events/2550392",
+   "interested": 22,
+   "genres": [
+    "Techno"
+   ],
+   "image": "https://images.ra.co/8707a98b4fbe1190ea0a1bb85143eb4fc35e5766.png",
+   "artistCount": 1,
+   "allArtists": [
+    "Wiebe Roose"
+   ],
+   "top": [
+    {
+     "name": "Wiebe Roose",
+     "ra_id": "96349",
+     "soundcloud": "https://soundcloud.com/wieberoose",
+     "sc_id": 1560516,
+     "followers": 2967,
+     "set": {
+      "id": 1146774724,
+      "title": "Wiebe Roose closing Hammahalle Sisyphos 23/10/2021 Part 1 of 3",
+      "url": "https://soundcloud.com/wieberoose/wiebe-roose-closing-hammahalle-sisyphos-23102021-part-1-of-3",
+      "minutes": 115,
+      "plays": 5681,
+      "uploader": "Wiebe Roose (Dr Double U)",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2534034",
    "day": "2026-10-17",
    "title": "Black Lab x Crack Bellmer",
@@ -9986,42 +10022,6 @@
       "plays": 2365,
       "uploader": "Monochrome",
       "source": "search"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2550392",
-   "day": "2026-10-17",
-   "title": "[NAKED] foam Party",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T05:00:00.000",
-   "venue": "Club Sauna",
-   "url": "https://ra.co/events/2550392",
-   "interested": 22,
-   "genres": [
-    "Techno"
-   ],
-   "image": "https://images.ra.co/8707a98b4fbe1190ea0a1bb85143eb4fc35e5766.png",
-   "artistCount": 1,
-   "allArtists": [
-    "Wiebe Roose"
-   ],
-   "top": [
-    {
-     "name": "Wiebe Roose",
-     "ra_id": "96349",
-     "soundcloud": "https://soundcloud.com/wieberoose",
-     "sc_id": 1560516,
-     "followers": 2967,
-     "set": {
-      "id": 1146774724,
-      "title": "Wiebe Roose closing Hammahalle Sisyphos 23/10/2021 Part 1 of 3",
-      "url": "https://soundcloud.com/wieberoose/wiebe-roose-closing-hammahalle-sisyphos-23102021-part-1-of-3",
-      "minutes": 115,
-      "plays": 5681,
-      "uploader": "Wiebe Roose (Dr Double U)",
-      "source": "profile"
      }
     }
    ]
@@ -10571,6 +10571,74 @@
    ]
   },
   {
+   "id": "2563552",
+   "day": "2026-10-17",
+   "title": "BBTD Special Event Round 4: Warschauer Brücke Takeover",
+   "start": "2026-10-17T17:30:00.000",
+   "end": "2026-10-18T01:30:00.000",
+   "venue": "TBA - Warschauer Brücke",
+   "url": "https://ra.co/events/2563552",
+   "interested": 9,
+   "genres": [],
+   "image": "https://images.ra.co/4ff7ffdb587b85cff1a3c5369b9681dd07818668.jpg",
+   "artistCount": 3,
+   "allArtists": [
+    "VEGANICECREAM",
+    "NOS-talgia",
+    "Karolanne"
+   ],
+   "top": [
+    {
+     "name": "NOS-talgia",
+     "ra_id": "171340",
+     "soundcloud": "https://soundcloud.com/stillnostalgic",
+     "sc_id": 125134436,
+     "followers": 713,
+     "set": {
+      "id": 1093692772,
+      "title": "Dark Karma",
+      "url": "https://soundcloud.com/stillnostalgic/dark-karma",
+      "minutes": 84,
+      "plays": 4678,
+      "uploader": "NOS-talgia",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "VEGANICECREAM",
+     "ra_id": "118322",
+     "soundcloud": "https://soundcloud.com/veganicecream",
+     "sc_id": 150285273,
+     "followers": 90,
+     "set": {
+      "id": 2408772243,
+      "title": "GROUNDED IN SPACE @ BBTD Special Event | 27.09.26",
+      "url": "https://soundcloud.com/veganicecream/grounded-in-space-bbtd-special",
+      "minutes": 62,
+      "plays": 52,
+      "uploader": "VEGANICECREAM",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Karolanne",
+     "ra_id": "185652",
+     "soundcloud": "https://soundcloud.com/karolanne-774766008",
+     "sc_id": 1548273009,
+     "followers": 57,
+     "set": {
+      "id": 2289173786,
+      "title": "SINE RATIONE",
+      "url": "https://soundcloud.com/karolanne-774766008/unknown",
+      "minutes": 65,
+      "plays": 277,
+      "uploader": "Karolanne",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2558922",
    "day": "2026-10-17",
    "title": "Coffee & Dubz",
@@ -10859,6 +10927,24 @@
    ]
   },
   {
+   "id": "2547260",
+   "day": "2026-10-17",
+   "title": "Techno Classics Party",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T05:00:00.000",
+   "venue": "Silver Event Location",
+   "url": "https://ra.co/events/2547260",
+   "interested": 4,
+   "genres": [
+    "Techno",
+    "Electro"
+   ],
+   "image": "https://images.ra.co/46f72072b43db3708eb980e1673800fdd56dd9a6.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2561921",
    "day": "2026-10-17",
    "title": "Süss am Samstag - FREE ENTRY UNTIL 10 PM",
@@ -10929,24 +11015,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2547260",
-   "day": "2026-10-17",
-   "title": "Techno Classics Party",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T05:00:00.000",
-   "venue": "Silver Event Location",
-   "url": "https://ra.co/events/2547260",
-   "interested": 4,
-   "genres": [
-    "Techno",
-    "Electro"
-   ],
-   "image": "https://images.ra.co/46f72072b43db3708eb980e1673800fdd56dd9a6.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2546770",
@@ -11281,6 +11349,24 @@
      }
     }
    ]
+  },
+  {
+   "id": "2563681",
+   "day": "2026-10-17",
+   "title": "Sug's Vibes Vol. 01",
+   "start": "2026-10-17T20:00:00.000",
+   "end": "2026-10-18T02:00:00.000",
+   "venue": "Drinkhall Venue",
+   "url": "https://ra.co/events/2563681",
+   "interested": 0,
+   "genres": [
+    "Hip-Hop",
+    "Funk / Soul"
+   ],
+   "image": "https://images.ra.co/d28d78ef92ea1b8d1e36d2244faf4846fc557e0f.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2545065",
