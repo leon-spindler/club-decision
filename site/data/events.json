@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T05:39:14Z",
+ "generated": "2026-10-21T05:39:02Z",
  "events": [
   {
    "id": "2552572",
@@ -468,58 +468,19 @@
    ]
   },
   {
-   "id": "2484113",
+   "id": "2537971",
    "day": "2026-10-14",
-   "title": "Pastards",
-   "start": "2026-10-14T18:00:00.000",
-   "end": "2026-10-14T23:59:00.000",
-   "venue": "Giri",
-   "url": "https://ra.co/events/2484113",
-   "interested": 12,
-   "genres": [
-    "Experimental",
-    "Jazz"
-   ],
-   "image": "https://images.ra.co/8e55f459dabb0b90c30647ec4f74e56c8370322e.png",
-   "artistCount": 2,
-   "allArtists": [
-    "Bass",
-    "DJ Jones"
-   ],
-   "top": [
-    {
-     "name": "Bass",
-     "ra_id": "97957",
-     "soundcloud": "https://soundcloud.com/bassem-helmi",
-     "sc_id": 164478447,
-     "followers": 4064,
-     "set": {
-      "id": 1078972564,
-      "title": "In The Middle Of NoWhere Ep.10",
-      "url": "https://soundcloud.com/bassem-helmi/in-the-middle-of-nowhere-ep10",
-      "minutes": 57,
-      "plays": 59655,
-      "uploader": "Bass Music",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "DJ Jones",
-     "ra_id": "75654",
-     "soundcloud": "https://soundcloud.com/jones-man",
-     "sc_id": 1916666,
-     "followers": 281,
-     "set": {
-      "id": 921947692,
-      "title": "Kiosk Radio DJ Breakfast & DJ Jones",
-      "url": "https://soundcloud.com/jones-man/kiosk-radio-dj-breakfast-dj-jones",
-      "minutes": 57,
-      "plays": 284,
-      "uploader": "Dj Jones",
-      "source": "profile"
-     }
-    }
-   ]
+   "title": "Hello Insomnia",
+   "start": "2026-10-14T19:00:00.000",
+   "end": "2026-10-15T02:00:00.000",
+   "venue": "Insomnia",
+   "url": "https://ra.co/events/2537971",
+   "interested": 7,
+   "genres": [],
+   "image": "https://images.ra.co/739b212b3d75c91def56b638c11a4a3452fc28b4.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2507099",
@@ -556,21 +517,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2537971",
-   "day": "2026-10-14",
-   "title": "Hello Insomnia",
-   "start": "2026-10-14T19:00:00.000",
-   "end": "2026-10-15T02:00:00.000",
-   "venue": "Insomnia",
-   "url": "https://ra.co/events/2537971",
-   "interested": 7,
-   "genres": [],
-   "image": "https://images.ra.co/739b212b3d75c91def56b638c11a4a3452fc28b4.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2538524",
@@ -1108,60 +1054,6 @@
    ]
   },
   {
-   "id": "2540741",
-   "day": "2026-10-15",
-   "title": "Giri x HALAL CLUB: LISTENING SESSION, VOL. 2",
-   "start": "2026-10-15T18:00:00.000",
-   "end": "2026-10-15T23:59:00.000",
-   "venue": "Giri",
-   "url": "https://ra.co/events/2540741",
-   "interested": 87,
-   "genres": [
-    "Ambient",
-    "Experimental"
-   ],
-   "image": "https://images.ra.co/b9fa0d98a09f172225f76f12c235ca5c8d64d5b3.png",
-   "artistCount": 2,
-   "allArtists": [
-    "X Tin",
-    "Labrighli"
-   ],
-   "top": [
-    {
-     "name": "X Tin",
-     "ra_id": "80486",
-     "soundcloud": "https://soundcloud.com/x_ti_n",
-     "sc_id": 4837779,
-     "followers": 1343,
-     "set": {
-      "id": 336029654,
-      "title": "UY SUMMER 17",
-      "url": "https://soundcloud.com/x_ti_n/uy-summer-17",
-      "minutes": 111,
-      "plays": 4777,
-      "uploader": "X TiN",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Labrighli",
-     "ra_id": "93177",
-     "soundcloud": "https://soundcloud.com/labrighli",
-     "sc_id": 140735984,
-     "followers": 204,
-     "set": {
-      "id": 1474872394,
-      "title": "Warm up set for klangkuenstler at Vürts",
-      "url": "https://soundcloud.com/labrighli/hard-groove-set",
-      "minutes": 65,
-      "plays": 3457,
-      "uploader": "LA:BRIGHLI",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2539760",
    "day": "2026-10-15",
    "title": "Renate LIVE: The Butchershop Quartet with Overnap + Pleasure the bouffon",
@@ -1640,8 +1532,8 @@
    "url": "https://ra.co/events/2552693",
    "interested": 20,
    "genres": [
-    "Dub",
-    "Afrobeat"
+    "Afrobeat",
+    "Dub"
    ],
    "image": "https://images.ra.co/0e835783eeb29ab59ff6abdca7b5e6b2945a45ec.jpg",
    "artistCount": 0,
@@ -1923,8 +1815,8 @@
    "url": "https://ra.co/events/2555628",
    "interested": 6,
    "genres": [
-    "Jazz",
-    "Afrobeat"
+    "Afrobeat",
+    "Jazz"
    ],
    "image": "https://images.ra.co/4276f5cf7f064db947de82bff9269efba46e82f8.png",
    "artistCount": 0,
@@ -3756,7 +3648,7 @@
    "end": "2026-10-17T08:00:00.000",
    "venue": "PKH Warehouse",
    "url": "https://ra.co/events/2542422",
-   "interested": 178,
+   "interested": 177,
    "genres": [
     "Trance",
     "Techno"
@@ -6770,7 +6662,7 @@
    "end": "2026-10-19T08:00:00.000",
    "venue": "RSO.BERLIN",
    "url": "https://ra.co/events/2524777",
-   "interested": 1740,
+   "interested": 1741,
    "genres": [
     "Breakbeat",
     "Techno"
@@ -9349,82 +9241,6 @@
    ]
   },
   {
-   "id": "2551016",
-   "day": "2026-10-17",
-   "title": "VANTA",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T07:00:00.000",
-   "venue": "TBA - Telegramm: @MauerparkLoveKommando",
-   "url": "https://ra.co/events/2551016",
-   "interested": 31,
-   "genres": [
-    "Techno"
-   ],
-   "image": "https://images.ra.co/495f2f30e735ba3f9f6c4c525a32f04cb500b291.jpg",
-   "artistCount": 9,
-   "allArtists": [
-    "Balkhausen",
-    "Dshanna",
-    "Gray Contrast",
-    "Gretchen B",
-    "Hendrik Nitsche",
-    "Jan Ritter",
-    "Julez (live)",
-    "Kaltgepresst",
-    "TØMMSEN"
-   ],
-   "top": [
-    {
-     "name": "Gretchen B",
-     "ra_id": "93170",
-     "soundcloud": "https://soundcloud.com/djgretchenb",
-     "sc_id": 284639687,
-     "followers": 1924,
-     "set": {
-      "id": 1305769720,
-      "title": "@TRIEBWERKE, FUSION FESTIVAL 2022 [EXCERPT]",
-      "url": "https://soundcloud.com/djgretchenb/live-at-triebwerke-stage-fusion-festival-2022",
-      "minutes": 30,
-      "plays": 5323,
-      "uploader": "Gretchen B (formerly Gretchen Bazooka)",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Jan Ritter",
-     "ra_id": "72290",
-     "soundcloud": "https://soundcloud.com/janritterofficial",
-     "sc_id": 281818556,
-     "followers": 1819,
-     "set": {
-      "id": 352391723,
-      "title": "Jan Ritter - 13 Jahre MLK-Area",
-      "url": "https://soundcloud.com/janritterofficial/jan-ritter-13-jahre-mlk-area",
-      "minutes": 89,
-      "plays": 29815,
-      "uploader": "Jan Ritter",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Gray Contrast",
-     "ra_id": "184497",
-     "soundcloud": "https://soundcloud.com/gray-contrast",
-     "sc_id": 499498797,
-     "followers": 1566,
-     "set": {
-      "id": 1201870621,
-      "title": "Max-Koch-Passage \"Tunnel\" Liveset 19.11.21 - Gray Contrast",
-      "url": "https://soundcloud.com/gray-contrast/max-koch-passage-tunnel-liveset",
-      "minutes": 38,
-      "plays": 4711,
-      "uploader": "Gray Contrast",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2536780",
    "day": "2026-10-17",
    "title": "DEEPER",
@@ -9509,6 +9325,82 @@
       "minutes": 146,
       "plays": 186996,
       "uploader": "Anja Schneider",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2551016",
+   "day": "2026-10-17",
+   "title": "VANTA",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T07:00:00.000",
+   "venue": "TBA - Telegramm: @MauerparkLoveKommando",
+   "url": "https://ra.co/events/2551016",
+   "interested": 31,
+   "genres": [
+    "Techno"
+   ],
+   "image": "https://images.ra.co/495f2f30e735ba3f9f6c4c525a32f04cb500b291.jpg",
+   "artistCount": 9,
+   "allArtists": [
+    "Balkhausen",
+    "Dshanna",
+    "Gray Contrast",
+    "Gretchen B",
+    "Hendrik Nitsche",
+    "Jan Ritter",
+    "Julez (live)",
+    "Kaltgepresst",
+    "TØMMSEN"
+   ],
+   "top": [
+    {
+     "name": "Gretchen B",
+     "ra_id": "93170",
+     "soundcloud": "https://soundcloud.com/djgretchenb",
+     "sc_id": 284639687,
+     "followers": 1924,
+     "set": {
+      "id": 1305769720,
+      "title": "@TRIEBWERKE, FUSION FESTIVAL 2022 [EXCERPT]",
+      "url": "https://soundcloud.com/djgretchenb/live-at-triebwerke-stage-fusion-festival-2022",
+      "minutes": 30,
+      "plays": 5323,
+      "uploader": "Gretchen B (formerly Gretchen Bazooka)",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Jan Ritter",
+     "ra_id": "72290",
+     "soundcloud": "https://soundcloud.com/janritterofficial",
+     "sc_id": 281818556,
+     "followers": 1819,
+     "set": {
+      "id": 352391723,
+      "title": "Jan Ritter - 13 Jahre MLK-Area",
+      "url": "https://soundcloud.com/janritterofficial/jan-ritter-13-jahre-mlk-area",
+      "minutes": 89,
+      "plays": 29815,
+      "uploader": "Jan Ritter",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Gray Contrast",
+     "ra_id": "184497",
+     "soundcloud": "https://soundcloud.com/gray-contrast",
+     "sc_id": 499498797,
+     "followers": 1566,
+     "set": {
+      "id": 1201870621,
+      "title": "Max-Koch-Passage \"Tunnel\" Liveset 19.11.21 - Gray Contrast",
+      "url": "https://soundcloud.com/gray-contrast/max-koch-passage-tunnel-liveset",
+      "minutes": 38,
+      "plays": 4711,
+      "uploader": "Gray Contrast",
       "source": "profile"
      }
     }
@@ -11108,24 +11000,6 @@
    "top": []
   },
   {
-   "id": "2531846",
-   "day": "2026-10-17",
-   "title": "Electro & Techno Sounds Saturday",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T06:00:00.000",
-   "venue": "Soda Club",
-   "url": "https://ra.co/events/2531846",
-   "interested": 2,
-   "genres": [
-    "Techno",
-    "Electro"
-   ],
-   "image": "https://images.ra.co/af9bd3a5805476e1b685acec20af27e0269b8ae1.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2553307",
    "day": "2026-10-17",
    "title": "Saturday Session: Avec Plaisir (residency finale)",
@@ -11175,6 +11049,24 @@
      }
     }
    ]
+  },
+  {
+   "id": "2531846",
+   "day": "2026-10-17",
+   "title": "Electro & Techno Sounds Saturday",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T06:00:00.000",
+   "venue": "Soda Club",
+   "url": "https://ra.co/events/2531846",
+   "interested": 2,
+   "genres": [
+    "Techno",
+    "Electro"
+   ],
+   "image": "https://images.ra.co/af9bd3a5805476e1b685acec20af27e0269b8ae1.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2547258",
@@ -11351,24 +11243,6 @@
    ]
   },
   {
-   "id": "2563681",
-   "day": "2026-10-17",
-   "title": "Sug's Vibes Vol. 01",
-   "start": "2026-10-17T20:00:00.000",
-   "end": "2026-10-18T02:00:00.000",
-   "venue": "Drinkhall Venue",
-   "url": "https://ra.co/events/2563681",
-   "interested": 0,
-   "genres": [
-    "Hip-Hop",
-    "Funk / Soul"
-   ],
-   "image": "https://images.ra.co/d28d78ef92ea1b8d1e36d2244faf4846fc557e0f.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2545065",
    "day": "2026-10-17",
    "title": "Flowers Of Romance",
@@ -11418,6 +11292,24 @@
     "Pop"
    ],
    "image": "https://images.ra.co/d15e06c3cdfa1825f52de92cbbefe4b46c2ac014.png",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
+   "id": "2563681",
+   "day": "2026-10-17",
+   "title": "Sug's Vibes Vol. 01",
+   "start": "2026-10-17T20:00:00.000",
+   "end": "2026-10-18T02:00:00.000",
+   "venue": "Drinkhall Venue",
+   "url": "https://ra.co/events/2563681",
+   "interested": 0,
+   "genres": [
+    "Hip-Hop",
+    "Funk / Soul"
+   ],
+   "image": "https://images.ra.co/d28d78ef92ea1b8d1e36d2244faf4846fc557e0f.jpg",
    "artistCount": 0,
    "allArtists": [],
    "top": []
