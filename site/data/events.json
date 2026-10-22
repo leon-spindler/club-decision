@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T05:39:02Z",
+ "generated": "2026-10-22T05:37:48Z",
  "events": [
   {
    "id": "2552572",
@@ -739,7 +739,7 @@
    "end": "2026-10-16T06:00:00.000",
    "venue": "OST",
    "url": "https://ra.co/events/2525915",
-   "interested": 924,
+   "interested": 925,
    "genres": [
     "Techno"
    ],
@@ -1349,7 +1349,7 @@
    "end": "2026-10-16T03:00:00.000",
    "venue": "Wilder als Erwartet",
    "url": "https://ra.co/events/2561585",
-   "interested": 37,
+   "interested": 38,
    "genres": [
     "House",
     "Deep House"
@@ -1753,6 +1753,66 @@
    ]
   },
   {
+   "id": "2556828",
+   "day": "2026-10-15",
+   "title": "Donnerdogge",
+   "start": "2026-10-15T23:59:00.000",
+   "end": "2026-10-16T12:00:00.000",
+   "venue": "Golden Gate",
+   "url": "https://ra.co/events/2556828",
+   "interested": 6,
+   "genres": [],
+   "image": "https://images.ra.co/fee0928d0cbf9b63a1040ea24a13f5cc52fa7d5a.jpg",
+   "artistCount": 3,
+   "allArtists": [
+    "Jakob Seidensticker",
+    "MELINA (3)",
+    "A.B.U."
+   ],
+   "top": [
+    {
+     "name": "Jakob Seidensticker",
+     "ra_id": "4007",
+     "soundcloud": "https://soundcloud.com/jakobseidenstickermusic",
+     "sc_id": 395665110,
+     "followers": 763,
+     "set": {
+      "id": 399613296,
+      "title": "Jakob Seidensticker & Boronas playin' b2b vinyl only at Kater Kiosk, Feb 2018",
+      "url": "https://soundcloud.com/jakobseidenstickermusic/jakob-seidensticker-boronas-playin-b2b-vinyl-only-at-kater-kiosk-feb-2018",
+      "minutes": 105,
+      "plays": 6766,
+      "uploader": "Jakob Seidensticker",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "A.B.U.",
+     "ra_id": "163112",
+     "soundcloud": "https://soundcloud.com/aburesonanz",
+     "sc_id": 34911106,
+     "followers": 725,
+     "set": {
+      "id": 2401146603,
+      "title": "A.B.U. @Südpol  12.09.2026  ㋡",
+      "url": "https://soundcloud.com/aburesonanz/a-b-u-s-dpol-12-09-2026",
+      "minutes": 157,
+      "plays": 183,
+      "uploader": "A.B.U",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "MELINA (3)",
+     "ra_id": "135087",
+     "soundcloud": "https://soundcloud.com/melina-fleischmann-1",
+     "sc_id": 122418905,
+     "followers": 20,
+     "set": null
+    }
+   ]
+  },
+  {
    "id": "2541972",
    "day": "2026-10-15",
    "title": "Sssmile Afterhour",
@@ -1824,66 +1884,6 @@
    "top": []
   },
   {
-   "id": "2556828",
-   "day": "2026-10-15",
-   "title": "Donnerdogge",
-   "start": "2026-10-15T23:59:00.000",
-   "end": "2026-10-16T12:00:00.000",
-   "venue": "Golden Gate",
-   "url": "https://ra.co/events/2556828",
-   "interested": 6,
-   "genres": [],
-   "image": "https://images.ra.co/fee0928d0cbf9b63a1040ea24a13f5cc52fa7d5a.jpg",
-   "artistCount": 3,
-   "allArtists": [
-    "Jakob Seidensticker",
-    "MELINA (3)",
-    "A.B.U."
-   ],
-   "top": [
-    {
-     "name": "Jakob Seidensticker",
-     "ra_id": "4007",
-     "soundcloud": "https://soundcloud.com/jakobseidenstickermusic",
-     "sc_id": 395665110,
-     "followers": 763,
-     "set": {
-      "id": 399613296,
-      "title": "Jakob Seidensticker & Boronas playin' b2b vinyl only at Kater Kiosk, Feb 2018",
-      "url": "https://soundcloud.com/jakobseidenstickermusic/jakob-seidensticker-boronas-playin-b2b-vinyl-only-at-kater-kiosk-feb-2018",
-      "minutes": 105,
-      "plays": 6766,
-      "uploader": "Jakob Seidensticker",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "A.B.U.",
-     "ra_id": "163112",
-     "soundcloud": "https://soundcloud.com/aburesonanz",
-     "sc_id": 34911106,
-     "followers": 725,
-     "set": {
-      "id": 2401146603,
-      "title": "A.B.U. @Südpol  12.09.2026  ㋡",
-      "url": "https://soundcloud.com/aburesonanz/a-b-u-s-dpol-12-09-2026",
-      "minutes": 157,
-      "plays": 183,
-      "uploader": "A.B.U",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "MELINA (3)",
-     "ra_id": "135087",
-     "soundcloud": "https://soundcloud.com/melina-fleischmann-1",
-     "sc_id": 122418905,
-     "followers": 20,
-     "set": null
-    }
-   ]
-  },
-  {
    "id": "2561068",
    "day": "2026-10-15",
    "title": "❖ Cosmic Thursdays meets Mellowflex ❖",
@@ -1949,6 +1949,42 @@
       "minutes": 51,
       "plays": 761,
       "uploader": "ANTYA",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2557353",
+   "day": "2026-10-15",
+   "title": "HOUSE EDUCATION #08",
+   "start": "2026-10-15T18:00:00.000",
+   "end": "2026-10-15T23:59:00.000",
+   "venue": "Fitzroy",
+   "url": "https://ra.co/events/2557353",
+   "interested": 5,
+   "genres": [
+    "House"
+   ],
+   "image": "https://images.ra.co/1fe59ede89afec8f6663e1fc77b73509423bdde9.png",
+   "artistCount": 1,
+   "allArtists": [
+    "Chris Rey"
+   ],
+   "top": [
+    {
+     "name": "Chris Rey",
+     "ra_id": "180940",
+     "soundcloud": "https://soundcloud.com/chriselrey1999",
+     "sc_id": 522957249,
+     "followers": 178,
+     "set": {
+      "id": 2240782301,
+      "title": "Studio Fifty-More Sessions Vol. 1 (1 Hr. of Nu-Disco, Italo Disco, & Disco-House)",
+      "url": "https://soundcloud.com/chriselrey1999/studio-fifty-more-sessions-vol-1",
+      "minutes": 63,
+      "plays": 184,
+      "uploader": "Chris Rey",
       "source": "profile"
      }
     }
@@ -2042,42 +2078,6 @@
    "artistCount": 0,
    "allArtists": [],
    "top": []
-  },
-  {
-   "id": "2557353",
-   "day": "2026-10-15",
-   "title": "HOUSE EDUCATION #08",
-   "start": "2026-10-15T18:00:00.000",
-   "end": "2026-10-15T23:59:00.000",
-   "venue": "Fitzroy",
-   "url": "https://ra.co/events/2557353",
-   "interested": 5,
-   "genres": [
-    "House"
-   ],
-   "image": "https://images.ra.co/1fe59ede89afec8f6663e1fc77b73509423bdde9.png",
-   "artistCount": 1,
-   "allArtists": [
-    "Chris Rey"
-   ],
-   "top": [
-    {
-     "name": "Chris Rey",
-     "ra_id": "180940",
-     "soundcloud": "https://soundcloud.com/chriselrey1999",
-     "sc_id": 522957249,
-     "followers": 178,
-     "set": {
-      "id": 2240782301,
-      "title": "Studio Fifty-More Sessions Vol. 1 (1 Hr. of Nu-Disco, Italo Disco, & Disco-House)",
-      "url": "https://soundcloud.com/chriselrey1999/studio-fifty-more-sessions-vol-1",
-      "minutes": 63,
-      "plays": 184,
-      "uploader": "Chris Rey",
-      "source": "profile"
-     }
-    }
-   ]
   },
   {
    "id": "2554540",
@@ -2186,6 +2186,23 @@
    "top": []
   },
   {
+   "id": "2558650",
+   "day": "2026-10-15",
+   "title": "LAB NIGHTS – SESSION 010: DISKOHEXE",
+   "start": "2026-10-15T22:00:00.000",
+   "end": "2026-10-16T02:00:00.000",
+   "venue": "Zu Mir Oder Zu Dir",
+   "url": "https://ra.co/events/2558650",
+   "interested": 2,
+   "genres": [
+    "House"
+   ],
+   "image": "https://images.ra.co/51332a37ed0d395680bd3db4a7bdaeed5adf0608.png",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2548503",
    "day": "2026-10-15",
    "title": "Himmel unter Berlin Vol. III",
@@ -2259,23 +2276,6 @@
     "Ambient"
    ],
    "image": "https://images.ra.co/d73359c13063d52ccc74b1c358f417dd9e24f891.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2558650",
-   "day": "2026-10-15",
-   "title": "LAB NIGHTS – SESSION 010: DISKOHEXE",
-   "start": "2026-10-15T22:00:00.000",
-   "end": "2026-10-16T02:00:00.000",
-   "venue": "Zu Mir Oder Zu Dir",
-   "url": "https://ra.co/events/2558650",
-   "interested": 2,
-   "genres": [
-    "House"
-   ],
-   "image": "https://images.ra.co/51332a37ed0d395680bd3db4a7bdaeed5adf0608.png",
    "artistCount": 0,
    "allArtists": [],
    "top": []
@@ -5212,57 +5212,6 @@
    ]
   },
   {
-   "id": "2544908",
-   "day": "2026-10-16",
-   "title": "90mil presents: KULKU & MONOSUM",
-   "start": "2026-10-16T22:00:00.000",
-   "end": "2026-10-17T02:00:00.000",
-   "venue": "90mil",
-   "url": "https://ra.co/events/2544908",
-   "interested": 24,
-   "genres": [],
-   "image": "https://images.ra.co/19f12a704ecb1d4491b1b586a7b9958a71565146.png",
-   "artistCount": 2,
-   "allArtists": [
-    "MONOSUM",
-    "Miri Malek"
-   ],
-   "top": [
-    {
-     "name": "Miri Malek",
-     "ra_id": "116407",
-     "soundcloud": "https://soundcloud.com/mirimalek",
-     "sc_id": 13075058,
-     "followers": 470,
-     "set": {
-      "id": 2096129670,
-      "title": "Live at OHM for Awkwardly Social",
-      "url": "https://soundcloud.com/mirimalek/live-at-ohm-for-awkwardly-social",
-      "minutes": 112,
-      "plays": 512,
-      "uploader": "Miri Malek",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "MONOSUM",
-     "ra_id": "189136",
-     "soundcloud": "https://soundcloud.com/monosum",
-     "sc_id": 5061538,
-     "followers": 23,
-     "set": {
-      "id": 16336165,
-      "title": "Monosum Live at life Festival June 2007",
-      "url": "https://soundcloud.com/monosum/monosum-live-at-life-festival",
-      "minutes": 60,
-      "plays": 143,
-      "uploader": "Monosum",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2556833",
    "day": "2026-10-16",
    "title": "Klubnacht + Afterhour",
@@ -5330,6 +5279,57 @@
       "minutes": 78,
       "plays": 9410,
       "uploader": "Alessia Ceruti",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2544908",
+   "day": "2026-10-16",
+   "title": "90mil presents: KULKU & MONOSUM",
+   "start": "2026-10-16T22:00:00.000",
+   "end": "2026-10-17T02:00:00.000",
+   "venue": "90mil",
+   "url": "https://ra.co/events/2544908",
+   "interested": 24,
+   "genres": [],
+   "image": "https://images.ra.co/19f12a704ecb1d4491b1b586a7b9958a71565146.png",
+   "artistCount": 2,
+   "allArtists": [
+    "MONOSUM",
+    "Miri Malek"
+   ],
+   "top": [
+    {
+     "name": "Miri Malek",
+     "ra_id": "116407",
+     "soundcloud": "https://soundcloud.com/mirimalek",
+     "sc_id": 13075058,
+     "followers": 470,
+     "set": {
+      "id": 2096129670,
+      "title": "Live at OHM for Awkwardly Social",
+      "url": "https://soundcloud.com/mirimalek/live-at-ohm-for-awkwardly-social",
+      "minutes": 112,
+      "plays": 512,
+      "uploader": "Miri Malek",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "MONOSUM",
+     "ra_id": "189136",
+     "soundcloud": "https://soundcloud.com/monosum",
+     "sc_id": 5061538,
+     "followers": 23,
+     "set": {
+      "id": 16336165,
+      "title": "Monosum Live at life Festival June 2007",
+      "url": "https://soundcloud.com/monosum/monosum-live-at-life-festival",
+      "minutes": 60,
+      "plays": 143,
+      "uploader": "Monosum",
       "source": "profile"
      }
     }
@@ -6364,6 +6364,23 @@
    ]
   },
   {
+   "id": "2558593",
+   "day": "2026-10-16",
+   "title": "NTT Records X Rosie's Bar presents: Kantos (all night long)",
+   "start": "2026-10-16T20:00:00.000",
+   "end": "2026-10-17T02:00:00.000",
+   "venue": "Rosie's Bar",
+   "url": "https://ra.co/events/2558593",
+   "interested": 2,
+   "genres": [
+    "House"
+   ],
+   "image": "https://images.ra.co/a7c12a10479c2c76032c5ad9d8d568fb523b9c43.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2545164",
    "day": "2026-10-16",
    "title": "Urban Spree KLUBNACHT (Kim, Kyra)",
@@ -6415,23 +6432,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2558593",
-   "day": "2026-10-16",
-   "title": "NTT Records X Rosie's Bar presents: Kantos (all night long)",
-   "start": "2026-10-16T20:00:00.000",
-   "end": "2026-10-17T02:00:00.000",
-   "venue": "Rosie's Bar",
-   "url": "https://ra.co/events/2558593",
-   "interested": 2,
-   "genres": [
-    "House"
-   ],
-   "image": "https://images.ra.co/a7c12a10479c2c76032c5ad9d8d568fb523b9c43.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2555739",
@@ -6662,7 +6662,7 @@
    "end": "2026-10-19T08:00:00.000",
    "venue": "RSO.BERLIN",
    "url": "https://ra.co/events/2524777",
-   "interested": 1741,
+   "interested": 1745,
    "genres": [
     "Breakbeat",
     "Techno"
@@ -9600,162 +9600,6 @@
    "top": []
   },
   {
-   "id": "2540515",
-   "day": "2026-10-17",
-   "title": "Hip Hop culture day/Hip hop Kulturtag",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T06:00:00.000",
-   "venue": "Humboldthain Club",
-   "url": "https://ra.co/events/2540515",
-   "interested": 24,
-   "genres": [
-    "Hip-Hop",
-    "Afro House"
-   ],
-   "image": "https://images.ra.co/05154f91fbf58b278923364210e0fea51323c31d.png",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2548488",
-   "day": "2026-10-17",
-   "title": "NOXYS Späti Tour VOL. 1 with Späti 4 You - FREE RAVE",
-   "start": "2026-10-17T16:00:00.000",
-   "end": "2026-10-17T21:30:00.000",
-   "venue": "TBA - Späti 4 You - Kurfürstenstraße 28, Berlin",
-   "url": "https://ra.co/events/2548488",
-   "interested": 24,
-   "genres": [
-    "Trance",
-    "Techno"
-   ],
-   "image": "https://images.ra.co/6d379f3f75bdad49632f24ad617e56238198f6ea.png",
-   "artistCount": 7,
-   "allArtists": [
-    "Armaville",
-    "F O R E S I G H T",
-    "FAballert",
-    "Dr.Waumiau",
-    "MIMI404",
-    "DJ Sweedee",
-    "OnlyWithYou"
-   ],
-   "top": [
-    {
-     "name": "OnlyWithYou",
-     "ra_id": "128444",
-     "soundcloud": "https://soundcloud.com/djonlywithyou",
-     "sc_id": 186045931,
-     "followers": 20843,
-     "set": {
-      "id": 1705831629,
-      "title": "OnlyWithYou @ Beyond The Valley",
-      "url": "https://soundcloud.com/djonlywithyou/onlywithyou-beyond-the-valley-2024",
-      "minutes": 61,
-      "plays": 57788,
-      "uploader": "OnlyWithYou",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "MIMI404",
-     "ra_id": "165389",
-     "soundcloud": "https://soundcloud.com/mimi404dj",
-     "sc_id": 1202826289,
-     "followers": 2421,
-     "set": {
-      "id": 2041659976,
-      "title": "(hard) trance, dance & bounce (recorded in melbourne)",
-      "url": "https://soundcloud.com/mimi404dj/trance-trash-bounce",
-      "minutes": 99,
-      "plays": 2960,
-      "uploader": "☆MIMI404☆",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Armaville",
-     "ra_id": "145567",
-     "soundcloud": "https://soundcloud.com/armaville",
-     "sc_id": 77528092,
-     "followers": 539,
-     "set": null
-    }
-   ]
-  },
-  {
-   "id": "2556252",
-   "day": "2026-10-17",
-   "title": "FRACTAL — First Gathering",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T03:00:00.000",
-   "venue": "ciao ciao Bar",
-   "url": "https://ra.co/events/2556252",
-   "interested": 24,
-   "genres": [
-    "Broken Beat",
-    "Electronica"
-   ],
-   "image": "https://images.ra.co/18ad1df1ad1b10eb39cb8db3d529d5d1552d0f21.png",
-   "artistCount": 3,
-   "allArtists": [
-    "IDA",
-    "FoxMind",
-    "Esterne Moog"
-   ],
-   "top": [
-    {
-     "name": "FoxMind",
-     "ra_id": "124163",
-     "soundcloud": "https://soundcloud.com/foxmind",
-     "sc_id": 13657793,
-     "followers": 1623,
-     "set": {
-      "id": 335214103,
-      "title": "FoxMind on Radar Radio II",
-      "url": "https://soundcloud.com/foxmind/foxmind-on-radar-radio-ii",
-      "minutes": 61,
-      "plays": 1720,
-      "uploader": "FoxMind",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "IDA",
-     "ra_id": "66523",
-     "soundcloud": "https://soundcloud.com/idasavy",
-     "sc_id": 69170532,
-     "followers": 1141,
-     "set": {
-      "id": 438236190,
-      "title": "NTS Radio x Ectotherm 11.04.2018 - IDA",
-      "url": "https://soundcloud.com/idasavy/nts-radio-x-ectotherm-11042018-ida",
-      "minutes": 59,
-      "plays": 4453,
-      "uploader": "IDA",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Esterne Moog",
-     "ra_id": "116802",
-     "soundcloud": "https://soundcloud.com/esternemoog",
-     "sc_id": 111080248,
-     "followers": 114,
-     "set": {
-      "id": 1696029729,
-      "title": "INSANE FACES | 15 • 09 • 2023 | Esterne Moog [Vinyl Set] Sala Muv • Madrid, Spain",
-      "url": "https://soundcloud.com/esternemoog/insane-faces-15-o-09-o-2023",
-      "minutes": 88,
-      "plays": 414,
-      "uploader": "Esterne Moog",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2556833",
    "day": "2026-10-17",
    "title": "Klubnacht + Afterhour",
@@ -9823,6 +9667,95 @@
       "minutes": 78,
       "plays": 9410,
       "uploader": "Alessia Ceruti",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2540515",
+   "day": "2026-10-17",
+   "title": "Hip Hop culture day/Hip hop Kulturtag",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T06:00:00.000",
+   "venue": "Humboldthain Club",
+   "url": "https://ra.co/events/2540515",
+   "interested": 24,
+   "genres": [
+    "Hip-Hop",
+    "Afro House"
+   ],
+   "image": "https://images.ra.co/05154f91fbf58b278923364210e0fea51323c31d.png",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
+   "id": "2556252",
+   "day": "2026-10-17",
+   "title": "FRACTAL — First Gathering",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T03:00:00.000",
+   "venue": "ciao ciao Bar",
+   "url": "https://ra.co/events/2556252",
+   "interested": 24,
+   "genres": [
+    "Broken Beat",
+    "Electronica"
+   ],
+   "image": "https://images.ra.co/18ad1df1ad1b10eb39cb8db3d529d5d1552d0f21.png",
+   "artistCount": 3,
+   "allArtists": [
+    "IDA",
+    "FoxMind",
+    "Esterne Moog"
+   ],
+   "top": [
+    {
+     "name": "FoxMind",
+     "ra_id": "124163",
+     "soundcloud": "https://soundcloud.com/foxmind",
+     "sc_id": 13657793,
+     "followers": 1623,
+     "set": {
+      "id": 335214103,
+      "title": "FoxMind on Radar Radio II",
+      "url": "https://soundcloud.com/foxmind/foxmind-on-radar-radio-ii",
+      "minutes": 61,
+      "plays": 1720,
+      "uploader": "FoxMind",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "IDA",
+     "ra_id": "66523",
+     "soundcloud": "https://soundcloud.com/idasavy",
+     "sc_id": 69170532,
+     "followers": 1141,
+     "set": {
+      "id": 438236190,
+      "title": "NTS Radio x Ectotherm 11.04.2018 - IDA",
+      "url": "https://soundcloud.com/idasavy/nts-radio-x-ectotherm-11042018-ida",
+      "minutes": 59,
+      "plays": 4453,
+      "uploader": "IDA",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Esterne Moog",
+     "ra_id": "116802",
+     "soundcloud": "https://soundcloud.com/esternemoog",
+     "sc_id": 111080248,
+     "followers": 114,
+     "set": {
+      "id": 1696029729,
+      "title": "INSANE FACES | 15 • 09 • 2023 | Esterne Moog [Vinyl Set] Sala Muv • Madrid, Spain",
+      "url": "https://soundcloud.com/esternemoog/insane-faces-15-o-09-o-2023",
+      "minutes": 88,
+      "plays": 414,
+      "uploader": "Esterne Moog",
       "source": "profile"
      }
     }
@@ -11000,6 +10933,24 @@
    "top": []
   },
   {
+   "id": "2531846",
+   "day": "2026-10-17",
+   "title": "Electro & Techno Sounds Saturday",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T06:00:00.000",
+   "venue": "Soda Club",
+   "url": "https://ra.co/events/2531846",
+   "interested": 2,
+   "genres": [
+    "Techno",
+    "Electro"
+   ],
+   "image": "https://images.ra.co/af9bd3a5805476e1b685acec20af27e0269b8ae1.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2553307",
    "day": "2026-10-17",
    "title": "Saturday Session: Avec Plaisir (residency finale)",
@@ -11049,24 +11000,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2531846",
-   "day": "2026-10-17",
-   "title": "Electro & Techno Sounds Saturday",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T06:00:00.000",
-   "venue": "Soda Club",
-   "url": "https://ra.co/events/2531846",
-   "interested": 2,
-   "genres": [
-    "Techno",
-    "Electro"
-   ],
-   "image": "https://images.ra.co/af9bd3a5805476e1b685acec20af27e0269b8ae1.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2547258",
