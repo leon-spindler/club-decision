@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T05:38:28Z",
+ "generated": "2026-10-24T05:38:14Z",
  "events": [
   {
    "id": "2552572",
@@ -629,6 +629,21 @@
    "top": []
   },
   {
+   "id": "2554636",
+   "day": "2026-10-14",
+   "title": "Sound Quiz Night",
+   "start": "2026-10-14T19:30:00.000",
+   "end": "2026-10-14T22:30:00.000",
+   "venue": "Pastiche",
+   "url": "https://ra.co/events/2554636",
+   "interested": 1,
+   "genres": [],
+   "image": "https://images.ra.co/be30cfc323d0a41b749278b0e4cb60d619a84f0b.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2538776",
    "day": "2026-10-14",
    "title": "MissVergnügen presents FRAUKE 400 - live",
@@ -661,21 +676,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2554636",
-   "day": "2026-10-14",
-   "title": "Sound Quiz Night",
-   "start": "2026-10-14T19:30:00.000",
-   "end": "2026-10-14T22:30:00.000",
-   "venue": "Pastiche",
-   "url": "https://ra.co/events/2554636",
-   "interested": 1,
-   "genres": [],
-   "image": "https://images.ra.co/be30cfc323d0a41b749278b0e4cb60d619a84f0b.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2494300",
@@ -1532,8 +1532,8 @@
    "url": "https://ra.co/events/2552693",
    "interested": 20,
    "genres": [
-    "Dub",
-    "Afrobeat"
+    "Afrobeat",
+    "Dub"
    ],
    "image": "https://images.ra.co/0e835783eeb29ab59ff6abdca7b5e6b2945a45ec.jpg",
    "artistCount": 0,
@@ -1815,8 +1815,8 @@
    "url": "https://ra.co/events/2555628",
    "interested": 6,
    "genres": [
-    "Jazz",
-    "Afrobeat"
+    "Afrobeat",
+    "Jazz"
    ],
    "image": "https://images.ra.co/4276f5cf7f064db947de82bff9269efba46e82f8.png",
    "artistCount": 0,
@@ -2396,7 +2396,7 @@
    "end": "2026-10-19T08:00:00.000",
    "venue": "ZENNER",
    "url": "https://ra.co/events/2425900",
-   "interested": 1594,
+   "interested": 1595,
    "genres": [],
    "image": "https://images.ra.co/18d9ccb828dd4ecf33a49cd16e9911be34ea063d.png",
    "artistCount": 37,
@@ -6486,6 +6486,42 @@
    "top": []
   },
   {
+   "id": "2561648",
+   "day": "2026-10-16",
+   "title": "Sound Canteen with Eli Bot, charlotti_xoxo",
+   "start": "2026-10-16T20:00:00.000",
+   "end": "2026-10-17T01:00:00.000",
+   "venue": "Orangerie Neukölln",
+   "url": "https://ra.co/events/2561648",
+   "interested": 1,
+   "genres": [
+    "House"
+   ],
+   "image": null,
+   "artistCount": 1,
+   "allArtists": [
+    "Eli Bot"
+   ],
+   "top": [
+    {
+     "name": "Eli Bot",
+     "ra_id": "158441",
+     "soundcloud": "https://soundcloud.com/eli-bot",
+     "sc_id": 503434434,
+     "followers": 289,
+     "set": {
+      "id": 1888835169,
+      "title": "greetings from discoplaneta",
+      "url": "https://soundcloud.com/eli-bot/greetings-from-discoplaneta",
+      "minutes": 120,
+      "plays": 263,
+      "uploader": "Eli Bot",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2492865",
    "day": "2026-10-16",
    "title": "Stimmen in Aspik - Die Schlager-Party",
@@ -6619,42 +6655,6 @@
    "top": []
   },
   {
-   "id": "2561648",
-   "day": "2026-10-16",
-   "title": "Sound Canteen with Eli Bot, charlotti_xoxo",
-   "start": "2026-10-16T20:00:00.000",
-   "end": "2026-10-17T01:00:00.000",
-   "venue": "Orangerie Neukölln",
-   "url": "https://ra.co/events/2561648",
-   "interested": 1,
-   "genres": [
-    "House"
-   ],
-   "image": null,
-   "artistCount": 1,
-   "allArtists": [
-    "Eli Bot"
-   ],
-   "top": [
-    {
-     "name": "Eli Bot",
-     "ra_id": "158441",
-     "soundcloud": "https://soundcloud.com/eli-bot",
-     "sc_id": 503434434,
-     "followers": 289,
-     "set": {
-      "id": 1888835169,
-      "title": "greetings from discoplaneta",
-      "url": "https://soundcloud.com/eli-bot/greetings-from-discoplaneta",
-      "minutes": 120,
-      "plays": 263,
-      "uploader": "Eli Bot",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2524777",
    "day": "2026-10-17",
    "title": "XTRUDE x EUPHORIA SESSIONS w/ Chris Liebing, Truncate, Phil Berg live, Elli Acula, Angel D'lite",
@@ -6662,7 +6662,7 @@
    "end": "2026-10-19T08:00:00.000",
    "venue": "RSO.BERLIN",
    "url": "https://ra.co/events/2524777",
-   "interested": 1745,
+   "interested": 1746,
    "genres": [
     "Breakbeat",
     "Techno"
@@ -6742,7 +6742,7 @@
    "end": "2026-10-19T08:00:00.000",
    "venue": "ZENNER",
    "url": "https://ra.co/events/2425900",
-   "interested": 1594,
+   "interested": 1595,
    "genres": [],
    "image": "https://images.ra.co/18d9ccb828dd4ecf33a49cd16e9911be34ea063d.png",
    "artistCount": 37,
