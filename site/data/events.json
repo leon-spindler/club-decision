@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T05:38:14Z",
+ "generated": "2026-10-25T05:37:08Z",
  "events": [
   {
    "id": "2552572",
@@ -629,21 +629,6 @@
    "top": []
   },
   {
-   "id": "2554636",
-   "day": "2026-10-14",
-   "title": "Sound Quiz Night",
-   "start": "2026-10-14T19:30:00.000",
-   "end": "2026-10-14T22:30:00.000",
-   "venue": "Pastiche",
-   "url": "https://ra.co/events/2554636",
-   "interested": 1,
-   "genres": [],
-   "image": "https://images.ra.co/be30cfc323d0a41b749278b0e4cb60d619a84f0b.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2538776",
    "day": "2026-10-14",
    "title": "MissVergnügen presents FRAUKE 400 - live",
@@ -676,6 +661,21 @@
      }
     }
    ]
+  },
+  {
+   "id": "2554636",
+   "day": "2026-10-14",
+   "title": "Sound Quiz Night",
+   "start": "2026-10-14T19:30:00.000",
+   "end": "2026-10-14T22:30:00.000",
+   "venue": "Pastiche",
+   "url": "https://ra.co/events/2554636",
+   "interested": 1,
+   "genres": [],
+   "image": "https://images.ra.co/be30cfc323d0a41b749278b0e4cb60d619a84f0b.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2494300",
@@ -1532,8 +1532,8 @@
    "url": "https://ra.co/events/2552693",
    "interested": 20,
    "genres": [
-    "Afrobeat",
-    "Dub"
+    "Dub",
+    "Afrobeat"
    ],
    "image": "https://images.ra.co/0e835783eeb29ab59ff6abdca7b5e6b2945a45ec.jpg",
    "artistCount": 0,
@@ -1815,8 +1815,8 @@
    "url": "https://ra.co/events/2555628",
    "interested": 6,
    "genres": [
-    "Afrobeat",
-    "Jazz"
+    "Jazz",
+    "Afrobeat"
    ],
    "image": "https://images.ra.co/4276f5cf7f064db947de82bff9269efba46e82f8.png",
    "artistCount": 0,
@@ -2575,7 +2575,7 @@
    "end": "2026-10-19T07:00:00.000",
    "venue": "Renate",
    "url": "https://ra.co/events/2355667",
-   "interested": 1419,
+   "interested": 1420,
    "genres": [
     "Techno",
     "House"
@@ -6917,7 +6917,7 @@
    "end": "2026-10-19T07:00:00.000",
    "venue": "Renate",
    "url": "https://ra.co/events/2355667",
-   "interested": 1419,
+   "interested": 1420,
    "genres": [
     "Techno",
     "House"
@@ -7522,7 +7522,7 @@
    "end": "2026-10-18T10:00:00.000",
    "venue": "Kater",
    "url": "https://ra.co/events/2526998",
-   "interested": 255,
+   "interested": 256,
    "genres": [
     "House",
     "Electro"
