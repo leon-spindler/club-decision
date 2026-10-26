@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T05:37:08Z",
+ "generated": "2026-10-26T11:02:54Z",
  "events": [
   {
    "id": "2552572",
@@ -1532,8 +1532,8 @@
    "url": "https://ra.co/events/2552693",
    "interested": 20,
    "genres": [
-    "Dub",
-    "Afrobeat"
+    "Afrobeat",
+    "Dub"
    ],
    "image": "https://images.ra.co/0e835783eeb29ab59ff6abdca7b5e6b2945a45ec.jpg",
    "artistCount": 0,
@@ -1815,8 +1815,8 @@
    "url": "https://ra.co/events/2555628",
    "interested": 6,
    "genres": [
-    "Jazz",
-    "Afrobeat"
+    "Afrobeat",
+    "Jazz"
    ],
    "image": "https://images.ra.co/4276f5cf7f064db947de82bff9269efba46e82f8.png",
    "artistCount": 0,
@@ -1955,6 +1955,60 @@
    ]
   },
   {
+   "id": "2546532",
+   "day": "2026-10-15",
+   "title": "Naked Grapes with Sisi Savidge",
+   "start": "2026-10-15T20:00:00.000",
+   "end": "2026-10-16T00:00:00.000",
+   "venue": "Orangerie Neukölln",
+   "url": "https://ra.co/events/2546532",
+   "interested": 5,
+   "genres": [
+    "House",
+    "R&B"
+   ],
+   "image": "https://images.ra.co/a5646d6f9da5ffcdc154d46b09f10fbb3d1522f8.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
+   "id": "2557353",
+   "day": "2026-10-15",
+   "title": "HOUSE EDUCATION #08",
+   "start": "2026-10-15T18:00:00.000",
+   "end": "2026-10-15T23:59:00.000",
+   "venue": "Fitzroy",
+   "url": "https://ra.co/events/2557353",
+   "interested": 5,
+   "genres": [
+    "House"
+   ],
+   "image": "https://images.ra.co/1fe59ede89afec8f6663e1fc77b73509423bdde9.png",
+   "artistCount": 1,
+   "allArtists": [
+    "Chris Rey"
+   ],
+   "top": [
+    {
+     "name": "Chris Rey",
+     "ra_id": "180940",
+     "soundcloud": "https://soundcloud.com/chriselrey1999",
+     "sc_id": 522957249,
+     "followers": 178,
+     "set": {
+      "id": 2240782301,
+      "title": "Studio Fifty-More Sessions Vol. 1 (1 Hr. of Nu-Disco, Italo Disco, & Disco-House)",
+      "url": "https://soundcloud.com/chriselrey1999/studio-fifty-more-sessions-vol-1",
+      "minutes": 63,
+      "plays": 184,
+      "uploader": "Chris Rey",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2544094",
    "day": "2026-10-15",
    "title": "'SHADES OF HOUSE: Celebrate with Pyrame & You're Next Records!'",
@@ -2021,60 +2075,6 @@
       "plays": 216,
       "uploader": "tommils",
       "source": "search"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2546532",
-   "day": "2026-10-15",
-   "title": "Naked Grapes with Sisi Savidge",
-   "start": "2026-10-15T20:00:00.000",
-   "end": "2026-10-16T00:00:00.000",
-   "venue": "Orangerie Neukölln",
-   "url": "https://ra.co/events/2546532",
-   "interested": 5,
-   "genres": [
-    "House",
-    "R&B"
-   ],
-   "image": "https://images.ra.co/a5646d6f9da5ffcdc154d46b09f10fbb3d1522f8.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2557353",
-   "day": "2026-10-15",
-   "title": "HOUSE EDUCATION #08",
-   "start": "2026-10-15T18:00:00.000",
-   "end": "2026-10-15T23:59:00.000",
-   "venue": "Fitzroy",
-   "url": "https://ra.co/events/2557353",
-   "interested": 5,
-   "genres": [
-    "House"
-   ],
-   "image": "https://images.ra.co/1fe59ede89afec8f6663e1fc77b73509423bdde9.png",
-   "artistCount": 1,
-   "allArtists": [
-    "Chris Rey"
-   ],
-   "top": [
-    {
-     "name": "Chris Rey",
-     "ra_id": "180940",
-     "soundcloud": "https://soundcloud.com/chriselrey1999",
-     "sc_id": 522957249,
-     "followers": 178,
-     "set": {
-      "id": 2240782301,
-      "title": "Studio Fifty-More Sessions Vol. 1 (1 Hr. of Nu-Disco, Italo Disco, & Disco-House)",
-      "url": "https://soundcloud.com/chriselrey1999/studio-fifty-more-sessions-vol-1",
-      "minutes": 63,
-      "plays": 184,
-      "uploader": "Chris Rey",
-      "source": "profile"
      }
     }
    ]
@@ -5212,57 +5212,6 @@
    ]
   },
   {
-   "id": "2544908",
-   "day": "2026-10-16",
-   "title": "90mil presents: KULKU & MONOSUM",
-   "start": "2026-10-16T22:00:00.000",
-   "end": "2026-10-17T02:00:00.000",
-   "venue": "90mil",
-   "url": "https://ra.co/events/2544908",
-   "interested": 24,
-   "genres": [],
-   "image": "https://images.ra.co/19f12a704ecb1d4491b1b586a7b9958a71565146.png",
-   "artistCount": 2,
-   "allArtists": [
-    "MONOSUM",
-    "Miri Malek"
-   ],
-   "top": [
-    {
-     "name": "Miri Malek",
-     "ra_id": "116407",
-     "soundcloud": "https://soundcloud.com/mirimalek",
-     "sc_id": 13075058,
-     "followers": 470,
-     "set": {
-      "id": 2096129670,
-      "title": "Live at OHM for Awkwardly Social",
-      "url": "https://soundcloud.com/mirimalek/live-at-ohm-for-awkwardly-social",
-      "minutes": 112,
-      "plays": 512,
-      "uploader": "Miri Malek",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "MONOSUM",
-     "ra_id": "189136",
-     "soundcloud": "https://soundcloud.com/monosum",
-     "sc_id": 5061538,
-     "followers": 23,
-     "set": {
-      "id": 16336165,
-      "title": "Monosum Live at life Festival June 2007",
-      "url": "https://soundcloud.com/monosum/monosum-live-at-life-festival",
-      "minutes": 60,
-      "plays": 143,
-      "uploader": "Monosum",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2556833",
    "day": "2026-10-16",
    "title": "Klubnacht + Afterhour",
@@ -5330,6 +5279,57 @@
       "minutes": 78,
       "plays": 9410,
       "uploader": "Alessia Ceruti",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2544908",
+   "day": "2026-10-16",
+   "title": "90mil presents: KULKU & MONOSUM",
+   "start": "2026-10-16T22:00:00.000",
+   "end": "2026-10-17T02:00:00.000",
+   "venue": "90mil",
+   "url": "https://ra.co/events/2544908",
+   "interested": 24,
+   "genres": [],
+   "image": "https://images.ra.co/19f12a704ecb1d4491b1b586a7b9958a71565146.png",
+   "artistCount": 2,
+   "allArtists": [
+    "MONOSUM",
+    "Miri Malek"
+   ],
+   "top": [
+    {
+     "name": "Miri Malek",
+     "ra_id": "116407",
+     "soundcloud": "https://soundcloud.com/mirimalek",
+     "sc_id": 13075058,
+     "followers": 470,
+     "set": {
+      "id": 2096129670,
+      "title": "Live at OHM for Awkwardly Social",
+      "url": "https://soundcloud.com/mirimalek/live-at-ohm-for-awkwardly-social",
+      "minutes": 112,
+      "plays": 512,
+      "uploader": "Miri Malek",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "MONOSUM",
+     "ra_id": "189136",
+     "soundcloud": "https://soundcloud.com/monosum",
+     "sc_id": 5061538,
+     "followers": 23,
+     "set": {
+      "id": 16336165,
+      "title": "Monosum Live at life Festival June 2007",
+      "url": "https://soundcloud.com/monosum/monosum-live-at-life-festival",
+      "minutes": 60,
+      "plays": 143,
+      "uploader": "Monosum",
       "source": "profile"
      }
     }
