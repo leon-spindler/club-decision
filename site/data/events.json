@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T11:02:54Z",
+ "generated": "2026-10-27T10:30:37Z",
  "events": [
   {
    "id": "2552572",
@@ -1955,60 +1955,6 @@
    ]
   },
   {
-   "id": "2546532",
-   "day": "2026-10-15",
-   "title": "Naked Grapes with Sisi Savidge",
-   "start": "2026-10-15T20:00:00.000",
-   "end": "2026-10-16T00:00:00.000",
-   "venue": "Orangerie Neukölln",
-   "url": "https://ra.co/events/2546532",
-   "interested": 5,
-   "genres": [
-    "House",
-    "R&B"
-   ],
-   "image": "https://images.ra.co/a5646d6f9da5ffcdc154d46b09f10fbb3d1522f8.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2557353",
-   "day": "2026-10-15",
-   "title": "HOUSE EDUCATION #08",
-   "start": "2026-10-15T18:00:00.000",
-   "end": "2026-10-15T23:59:00.000",
-   "venue": "Fitzroy",
-   "url": "https://ra.co/events/2557353",
-   "interested": 5,
-   "genres": [
-    "House"
-   ],
-   "image": "https://images.ra.co/1fe59ede89afec8f6663e1fc77b73509423bdde9.png",
-   "artistCount": 1,
-   "allArtists": [
-    "Chris Rey"
-   ],
-   "top": [
-    {
-     "name": "Chris Rey",
-     "ra_id": "180940",
-     "soundcloud": "https://soundcloud.com/chriselrey1999",
-     "sc_id": 522957249,
-     "followers": 178,
-     "set": {
-      "id": 2240782301,
-      "title": "Studio Fifty-More Sessions Vol. 1 (1 Hr. of Nu-Disco, Italo Disco, & Disco-House)",
-      "url": "https://soundcloud.com/chriselrey1999/studio-fifty-more-sessions-vol-1",
-      "minutes": 63,
-      "plays": 184,
-      "uploader": "Chris Rey",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2544094",
    "day": "2026-10-15",
    "title": "'SHADES OF HOUSE: Celebrate with Pyrame & You're Next Records!'",
@@ -2075,6 +2021,60 @@
       "plays": 216,
       "uploader": "tommils",
       "source": "search"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2546532",
+   "day": "2026-10-15",
+   "title": "Naked Grapes with Sisi Savidge",
+   "start": "2026-10-15T20:00:00.000",
+   "end": "2026-10-16T00:00:00.000",
+   "venue": "Orangerie Neukölln",
+   "url": "https://ra.co/events/2546532",
+   "interested": 5,
+   "genres": [
+    "House",
+    "R&B"
+   ],
+   "image": "https://images.ra.co/a5646d6f9da5ffcdc154d46b09f10fbb3d1522f8.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
+   "id": "2557353",
+   "day": "2026-10-15",
+   "title": "HOUSE EDUCATION #08",
+   "start": "2026-10-15T18:00:00.000",
+   "end": "2026-10-15T23:59:00.000",
+   "venue": "Fitzroy",
+   "url": "https://ra.co/events/2557353",
+   "interested": 5,
+   "genres": [
+    "House"
+   ],
+   "image": "https://images.ra.co/1fe59ede89afec8f6663e1fc77b73509423bdde9.png",
+   "artistCount": 1,
+   "allArtists": [
+    "Chris Rey"
+   ],
+   "top": [
+    {
+     "name": "Chris Rey",
+     "ra_id": "180940",
+     "soundcloud": "https://soundcloud.com/chriselrey1999",
+     "sc_id": 522957249,
+     "followers": 178,
+     "set": {
+      "id": 2240782301,
+      "title": "Studio Fifty-More Sessions Vol. 1 (1 Hr. of Nu-Disco, Italo Disco, & Disco-House)",
+      "url": "https://soundcloud.com/chriselrey1999/studio-fifty-more-sessions-vol-1",
+      "minutes": 63,
+      "plays": 184,
+      "uploader": "Chris Rey",
+      "source": "profile"
      }
     }
    ]
@@ -5212,6 +5212,57 @@
    ]
   },
   {
+   "id": "2544908",
+   "day": "2026-10-16",
+   "title": "90mil presents: KULKU & MONOSUM",
+   "start": "2026-10-16T22:00:00.000",
+   "end": "2026-10-17T02:00:00.000",
+   "venue": "90mil",
+   "url": "https://ra.co/events/2544908",
+   "interested": 24,
+   "genres": [],
+   "image": "https://images.ra.co/19f12a704ecb1d4491b1b586a7b9958a71565146.png",
+   "artistCount": 2,
+   "allArtists": [
+    "MONOSUM",
+    "Miri Malek"
+   ],
+   "top": [
+    {
+     "name": "Miri Malek",
+     "ra_id": "116407",
+     "soundcloud": "https://soundcloud.com/mirimalek",
+     "sc_id": 13075058,
+     "followers": 470,
+     "set": {
+      "id": 2096129670,
+      "title": "Live at OHM for Awkwardly Social",
+      "url": "https://soundcloud.com/mirimalek/live-at-ohm-for-awkwardly-social",
+      "minutes": 112,
+      "plays": 512,
+      "uploader": "Miri Malek",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "MONOSUM",
+     "ra_id": "189136",
+     "soundcloud": "https://soundcloud.com/monosum",
+     "sc_id": 5061538,
+     "followers": 23,
+     "set": {
+      "id": 16336165,
+      "title": "Monosum Live at life Festival June 2007",
+      "url": "https://soundcloud.com/monosum/monosum-live-at-life-festival",
+      "minutes": 60,
+      "plays": 143,
+      "uploader": "Monosum",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2556833",
    "day": "2026-10-16",
    "title": "Klubnacht + Afterhour",
@@ -5279,57 +5330,6 @@
       "minutes": 78,
       "plays": 9410,
       "uploader": "Alessia Ceruti",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2544908",
-   "day": "2026-10-16",
-   "title": "90mil presents: KULKU & MONOSUM",
-   "start": "2026-10-16T22:00:00.000",
-   "end": "2026-10-17T02:00:00.000",
-   "venue": "90mil",
-   "url": "https://ra.co/events/2544908",
-   "interested": 24,
-   "genres": [],
-   "image": "https://images.ra.co/19f12a704ecb1d4491b1b586a7b9958a71565146.png",
-   "artistCount": 2,
-   "allArtists": [
-    "MONOSUM",
-    "Miri Malek"
-   ],
-   "top": [
-    {
-     "name": "Miri Malek",
-     "ra_id": "116407",
-     "soundcloud": "https://soundcloud.com/mirimalek",
-     "sc_id": 13075058,
-     "followers": 470,
-     "set": {
-      "id": 2096129670,
-      "title": "Live at OHM for Awkwardly Social",
-      "url": "https://soundcloud.com/mirimalek/live-at-ohm-for-awkwardly-social",
-      "minutes": 112,
-      "plays": 512,
-      "uploader": "Miri Malek",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "MONOSUM",
-     "ra_id": "189136",
-     "soundcloud": "https://soundcloud.com/monosum",
-     "sc_id": 5061538,
-     "followers": 23,
-     "set": {
-      "id": 16336165,
-      "title": "Monosum Live at life Festival June 2007",
-      "url": "https://soundcloud.com/monosum/monosum-live-at-life-festival",
-      "minutes": 60,
-      "plays": 143,
-      "uploader": "Monosum",
       "source": "profile"
      }
     }
@@ -6522,21 +6522,6 @@
    ]
   },
   {
-   "id": "2492865",
-   "day": "2026-10-16",
-   "title": "Stimmen in Aspik - Die Schlager-Party",
-   "start": "2026-10-16T21:00:00.000",
-   "end": "2026-10-17T05:00:00.000",
-   "venue": "Hafenbar Berlin",
-   "url": "https://ra.co/events/2492865",
-   "interested": 0,
-   "genres": [],
-   "image": "https://images.ra.co/ade12aae909d42ae2b6ea0e7a434205d51243440.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2531838",
    "day": "2026-10-16",
    "title": "Electro & Techno Sounds Friday",
@@ -6638,6 +6623,21 @@
      }
     }
    ]
+  },
+  {
+   "id": "2492865",
+   "day": "2026-10-16",
+   "title": "Stimmen in Aspik - Die Schlager-Party",
+   "start": "2026-10-16T21:00:00.000",
+   "end": "2026-10-17T05:00:00.000",
+   "venue": "Hafenbar Berlin",
+   "url": "https://ra.co/events/2492865",
+   "interested": 0,
+   "genres": [],
+   "image": "https://images.ra.co/ade12aae909d42ae2b6ea0e7a434205d51243440.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2560054",
@@ -7046,7 +7046,7 @@
     "Techno"
    ],
    "image": "https://images.ra.co/ddd0f477aed577aabe83a93bc3541df26a7760cd.jpg",
-   "artistCount": 14,
+   "artistCount": 15,
    "allArtists": [
     "DJ YARAK",
     "DJ Gysi",
@@ -7061,7 +7061,8 @@
     "4NOUK",
     "Softdrive",
     "jeanska",
-    "Rocko Garoni"
+    "Rocko Garoni",
+    "Hyghdrated"
    ],
    "top": [
     {
@@ -10985,21 +10986,6 @@
    ]
   },
   {
-   "id": "2492868",
-   "day": "2026-10-17",
-   "title": "Käptens Club Party - Disco pur",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T05:00:00.000",
-   "venue": "Hafenbar Berlin",
-   "url": "https://ra.co/events/2492868",
-   "interested": 2,
-   "genres": [],
-   "image": "https://images.ra.co/5c9cab34f62339c5605aecbd7313012a02b48ad6.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2531846",
    "day": "2026-10-17",
    "title": "Electro & Techno Sounds Saturday",
@@ -11067,6 +11053,21 @@
      }
     }
    ]
+  },
+  {
+   "id": "2492868",
+   "day": "2026-10-17",
+   "title": "Käptens Club Party - Disco pur",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T05:00:00.000",
+   "venue": "Hafenbar Berlin",
+   "url": "https://ra.co/events/2492868",
+   "interested": 2,
+   "genres": [],
+   "image": "https://images.ra.co/5c9cab34f62339c5605aecbd7313012a02b48ad6.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2547258",
