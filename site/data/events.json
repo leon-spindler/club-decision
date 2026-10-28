@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T10:30:37Z",
+ "generated": "2026-10-28T11:18:32Z",
  "events": [
   {
    "id": "2552572",
@@ -1467,7 +1467,7 @@
    "artistCount": 4,
    "allArtists": [
     "vanagas",
-    "Herma (LT)",
+    "Herma",
     "VILBØ",
     "aksendo"
    ],
@@ -1532,8 +1532,8 @@
    "url": "https://ra.co/events/2552693",
    "interested": 20,
    "genres": [
-    "Afrobeat",
-    "Dub"
+    "Dub",
+    "Afrobeat"
    ],
    "image": "https://images.ra.co/0e835783eeb29ab59ff6abdca7b5e6b2945a45ec.jpg",
    "artistCount": 0,
@@ -1815,8 +1815,8 @@
    "url": "https://ra.co/events/2555628",
    "interested": 6,
    "genres": [
-    "Afrobeat",
-    "Jazz"
+    "Jazz",
+    "Afrobeat"
    ],
    "image": "https://images.ra.co/4276f5cf7f064db947de82bff9269efba46e82f8.png",
    "artistCount": 0,
@@ -2396,7 +2396,7 @@
    "end": "2026-10-19T08:00:00.000",
    "venue": "ZENNER",
    "url": "https://ra.co/events/2425900",
-   "interested": 1595,
+   "interested": 1594,
    "genres": [],
    "image": "https://images.ra.co/18d9ccb828dd4ecf33a49cd16e9911be34ea063d.png",
    "artistCount": 37,
@@ -6522,6 +6522,21 @@
    ]
   },
   {
+   "id": "2492865",
+   "day": "2026-10-16",
+   "title": "Stimmen in Aspik - Die Schlager-Party",
+   "start": "2026-10-16T21:00:00.000",
+   "end": "2026-10-17T05:00:00.000",
+   "venue": "Hafenbar Berlin",
+   "url": "https://ra.co/events/2492865",
+   "interested": 0,
+   "genres": [],
+   "image": "https://images.ra.co/ade12aae909d42ae2b6ea0e7a434205d51243440.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2531838",
    "day": "2026-10-16",
    "title": "Electro & Techno Sounds Friday",
@@ -6625,21 +6640,6 @@
    ]
   },
   {
-   "id": "2492865",
-   "day": "2026-10-16",
-   "title": "Stimmen in Aspik - Die Schlager-Party",
-   "start": "2026-10-16T21:00:00.000",
-   "end": "2026-10-17T05:00:00.000",
-   "venue": "Hafenbar Berlin",
-   "url": "https://ra.co/events/2492865",
-   "interested": 0,
-   "genres": [],
-   "image": "https://images.ra.co/ade12aae909d42ae2b6ea0e7a434205d51243440.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2560054",
    "day": "2026-10-16",
    "title": "CLEO",
@@ -6662,7 +6662,7 @@
    "end": "2026-10-19T08:00:00.000",
    "venue": "RSO.BERLIN",
    "url": "https://ra.co/events/2524777",
-   "interested": 1746,
+   "interested": 1747,
    "genres": [
     "Breakbeat",
     "Techno"
@@ -6742,7 +6742,7 @@
    "end": "2026-10-19T08:00:00.000",
    "venue": "ZENNER",
    "url": "https://ra.co/events/2425900",
-   "interested": 1595,
+   "interested": 1594,
    "genres": [],
    "image": "https://images.ra.co/18d9ccb828dd4ecf33a49cd16e9911be34ea063d.png",
    "artistCount": 37,
@@ -7288,7 +7288,7 @@
    "end": "2026-10-19T06:00:00.000",
    "venue": "Berghain | Panorama Bar | Säule",
    "url": "https://ra.co/events/2524801",
-   "interested": 395,
+   "interested": 396,
    "genres": [],
    "image": "https://images.ra.co/c93bb76e78d3d3abeace9d4a64e64b085dce8395.png",
    "artistCount": 16,
@@ -10986,6 +10986,21 @@
    ]
   },
   {
+   "id": "2492868",
+   "day": "2026-10-17",
+   "title": "Käptens Club Party - Disco pur",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T05:00:00.000",
+   "venue": "Hafenbar Berlin",
+   "url": "https://ra.co/events/2492868",
+   "interested": 2,
+   "genres": [],
+   "image": "https://images.ra.co/5c9cab34f62339c5605aecbd7313012a02b48ad6.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2531846",
    "day": "2026-10-17",
    "title": "Electro & Techno Sounds Saturday",
@@ -11053,21 +11068,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2492868",
-   "day": "2026-10-17",
-   "title": "Käptens Club Party - Disco pur",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T05:00:00.000",
-   "venue": "Hafenbar Berlin",
-   "url": "https://ra.co/events/2492868",
-   "interested": 2,
-   "genres": [],
-   "image": "https://images.ra.co/5c9cab34f62339c5605aecbd7313012a02b48ad6.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2547258",
