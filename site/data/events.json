@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T11:18:32Z",
+ "generated": "2026-10-29T11:29:40Z",
  "events": [
   {
    "id": "2552572",
@@ -2779,7 +2779,7 @@
    "end": "2026-10-17T09:00:00.000",
    "venue": "ÆDEN",
    "url": "https://ra.co/events/2552575",
-   "interested": 666,
+   "interested": 665,
    "genres": [
     "Techno",
     "House"
@@ -2851,7 +2851,7 @@
    "end": "2026-10-17T08:00:00.000",
    "venue": "://about blank",
    "url": "https://ra.co/events/2526326",
-   "interested": 445,
+   "interested": 444,
    "genres": [
     "Techno"
    ],
@@ -3106,7 +3106,7 @@
    "end": "2026-10-17T08:00:00.000",
    "venue": "Sensorium",
    "url": "https://ra.co/events/2537113",
-   "interested": 318,
+   "interested": 317,
    "genres": [
     "Techno",
     "Tech House"
@@ -6662,7 +6662,7 @@
    "end": "2026-10-19T08:00:00.000",
    "venue": "RSO.BERLIN",
    "url": "https://ra.co/events/2524777",
-   "interested": 1747,
+   "interested": 1746,
    "genres": [
     "Breakbeat",
     "Techno"
@@ -7177,7 +7177,7 @@
    "end": "2026-10-18T11:30:00.000",
    "venue": "Hoppetosse",
    "url": "https://ra.co/events/2527434",
-   "interested": 515,
+   "interested": 514,
    "genres": [
     "Techno",
     "Tech House"
@@ -7288,7 +7288,7 @@
    "end": "2026-10-19T06:00:00.000",
    "venue": "Berghain | Panorama Bar | Säule",
    "url": "https://ra.co/events/2524801",
-   "interested": 396,
+   "interested": 395,
    "genres": [],
    "image": "https://images.ra.co/c93bb76e78d3d3abeace9d4a64e64b085dce8395.png",
    "artistCount": 16,
@@ -8486,7 +8486,7 @@
    "end": "2026-10-18T07:30:00.000",
    "venue": "M-BIA",
    "url": "https://ra.co/events/2545311",
-   "interested": 58,
+   "interested": 57,
    "genres": [
     "Techno",
     "Psytrance"
