@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T11:29:40Z",
+ "generated": "2026-10-30T11:22:55Z",
  "events": [
   {
    "id": "2552572",
@@ -629,6 +629,21 @@
    "top": []
   },
   {
+   "id": "2554636",
+   "day": "2026-10-14",
+   "title": "Sound Quiz Night",
+   "start": "2026-10-14T19:30:00.000",
+   "end": "2026-10-14T22:30:00.000",
+   "venue": "Pastiche",
+   "url": "https://ra.co/events/2554636",
+   "interested": 1,
+   "genres": [],
+   "image": "https://images.ra.co/be30cfc323d0a41b749278b0e4cb60d619a84f0b.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2538776",
    "day": "2026-10-14",
    "title": "MissVergnügen presents FRAUKE 400 - live",
@@ -661,21 +676,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2554636",
-   "day": "2026-10-14",
-   "title": "Sound Quiz Night",
-   "start": "2026-10-14T19:30:00.000",
-   "end": "2026-10-14T22:30:00.000",
-   "venue": "Pastiche",
-   "url": "https://ra.co/events/2554636",
-   "interested": 1,
-   "genres": [],
-   "image": "https://images.ra.co/be30cfc323d0a41b749278b0e4cb60d619a84f0b.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2494300",
@@ -1532,8 +1532,8 @@
    "url": "https://ra.co/events/2552693",
    "interested": 20,
    "genres": [
-    "Dub",
-    "Afrobeat"
+    "Afrobeat",
+    "Dub"
    ],
    "image": "https://images.ra.co/0e835783eeb29ab59ff6abdca7b5e6b2945a45ec.jpg",
    "artistCount": 0,
@@ -1753,6 +1753,24 @@
    ]
   },
   {
+   "id": "2555628",
+   "day": "2026-10-15",
+   "title": "The Berlin Afrobeat Company, Santrofi",
+   "start": "2026-10-15T19:00:00.000",
+   "end": "2026-10-15T22:00:00.000",
+   "venue": "Haus Der Kulturen Der Welt",
+   "url": "https://ra.co/events/2555628",
+   "interested": 6,
+   "genres": [
+    "Afrobeat",
+    "Jazz"
+   ],
+   "image": "https://images.ra.co/4276f5cf7f064db947de82bff9269efba46e82f8.png",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2541972",
    "day": "2026-10-15",
    "title": "Sssmile Afterhour",
@@ -1804,24 +1822,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2555628",
-   "day": "2026-10-15",
-   "title": "The Berlin Afrobeat Company, Santrofi",
-   "start": "2026-10-15T19:00:00.000",
-   "end": "2026-10-15T22:00:00.000",
-   "venue": "Haus Der Kulturen Der Welt",
-   "url": "https://ra.co/events/2555628",
-   "interested": 6,
-   "genres": [
-    "Jazz",
-    "Afrobeat"
-   ],
-   "image": "https://images.ra.co/4276f5cf7f064db947de82bff9269efba46e82f8.png",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2556828",
@@ -2186,6 +2186,23 @@
    "top": []
   },
   {
+   "id": "2554652",
+   "day": "2026-10-15",
+   "title": "C. Lavender Book Talk",
+   "start": "2026-10-15T20:00:00.000",
+   "end": "2026-10-15T22:00:00.000",
+   "venue": "Pastiche",
+   "url": "https://ra.co/events/2554652",
+   "interested": 2,
+   "genres": [
+    "Ambient"
+   ],
+   "image": "https://images.ra.co/d73359c13063d52ccc74b1c358f417dd9e24f891.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2548503",
    "day": "2026-10-15",
    "title": "Himmel unter Berlin Vol. III",
@@ -2245,23 +2262,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2554652",
-   "day": "2026-10-15",
-   "title": "C. Lavender Book Talk",
-   "start": "2026-10-15T20:00:00.000",
-   "end": "2026-10-15T22:00:00.000",
-   "venue": "Pastiche",
-   "url": "https://ra.co/events/2554652",
-   "interested": 2,
-   "genres": [
-    "Ambient"
-   ],
-   "image": "https://images.ra.co/d73359c13063d52ccc74b1c358f417dd9e24f891.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2558650",
@@ -6662,7 +6662,7 @@
    "end": "2026-10-19T08:00:00.000",
    "venue": "RSO.BERLIN",
    "url": "https://ra.co/events/2524777",
-   "interested": 1746,
+   "interested": 1747,
    "genres": [
     "Breakbeat",
     "Techno"
@@ -7288,7 +7288,7 @@
    "end": "2026-10-19T06:00:00.000",
    "venue": "Berghain | Panorama Bar | Säule",
    "url": "https://ra.co/events/2524801",
-   "interested": 395,
+   "interested": 396,
    "genres": [],
    "image": "https://images.ra.co/c93bb76e78d3d3abeace9d4a64e64b085dce8395.png",
    "artistCount": 16,
@@ -8555,7 +8555,7 @@
    "end": "2026-10-18T08:00:00.000",
    "venue": "ÆDEN",
    "url": "https://ra.co/events/2547039",
-   "interested": 52,
+   "interested": 53,
    "genres": [
     "Reggaeton",
     "Guaracha"
@@ -9130,9 +9130,10 @@
     "Techno"
    ],
    "image": "https://images.ra.co/ebf23c91a6a651c06c19c2a94a31bd6d7893ff09.jpg",
-   "artistCount": 3,
+   "artistCount": 4,
    "allArtists": [
     "SARIAN",
+    "Angelo Basham",
     "futurristic",
     "Edgar Os"
    ],
@@ -10077,6 +10078,24 @@
    ]
   },
   {
+   "id": "2554199",
+   "day": "2026-10-17",
+   "title": "MA BAKER PARTY ✪ Disco RnB House ✪ €5 Off After Midnight ✪",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T04:00:00.000",
+   "venue": "Silverwings Club",
+   "url": "https://ra.co/events/2554199",
+   "interested": 17,
+   "genres": [
+    "Disco",
+    "Club"
+   ],
+   "image": "https://images.ra.co/03519c1b122589d494628173443e7a3ce6efebfe.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2541256",
    "day": "2026-10-17",
    "title": "Upstairs Basement 5 Year Anniversary",
@@ -10129,24 +10148,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2554199",
-   "day": "2026-10-17",
-   "title": "MA BAKER PARTY ✪ Disco RnB House ✪ €5 Off After Midnight ✪",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T04:00:00.000",
-   "venue": "Silverwings Club",
-   "url": "https://ra.co/events/2554199",
-   "interested": 17,
-   "genres": [
-    "Disco",
-    "Club"
-   ],
-   "image": "https://images.ra.co/03519c1b122589d494628173443e7a3ce6efebfe.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2494740",
