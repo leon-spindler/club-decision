@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T11:22:55Z",
+ "generated": "2026-10-31T10:54:36Z",
  "events": [
   {
    "id": "2552572",
@@ -629,21 +629,6 @@
    "top": []
   },
   {
-   "id": "2554636",
-   "day": "2026-10-14",
-   "title": "Sound Quiz Night",
-   "start": "2026-10-14T19:30:00.000",
-   "end": "2026-10-14T22:30:00.000",
-   "venue": "Pastiche",
-   "url": "https://ra.co/events/2554636",
-   "interested": 1,
-   "genres": [],
-   "image": "https://images.ra.co/be30cfc323d0a41b749278b0e4cb60d619a84f0b.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2538776",
    "day": "2026-10-14",
    "title": "MissVergnügen presents FRAUKE 400 - live",
@@ -676,6 +661,21 @@
      }
     }
    ]
+  },
+  {
+   "id": "2554636",
+   "day": "2026-10-14",
+   "title": "Sound Quiz Night",
+   "start": "2026-10-14T19:30:00.000",
+   "end": "2026-10-14T22:30:00.000",
+   "venue": "Pastiche",
+   "url": "https://ra.co/events/2554636",
+   "interested": 1,
+   "genres": [],
+   "image": "https://images.ra.co/be30cfc323d0a41b749278b0e4cb60d619a84f0b.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2494300",
@@ -1753,24 +1753,6 @@
    ]
   },
   {
-   "id": "2555628",
-   "day": "2026-10-15",
-   "title": "The Berlin Afrobeat Company, Santrofi",
-   "start": "2026-10-15T19:00:00.000",
-   "end": "2026-10-15T22:00:00.000",
-   "venue": "Haus Der Kulturen Der Welt",
-   "url": "https://ra.co/events/2555628",
-   "interested": 6,
-   "genres": [
-    "Afrobeat",
-    "Jazz"
-   ],
-   "image": "https://images.ra.co/4276f5cf7f064db947de82bff9269efba46e82f8.png",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2541972",
    "day": "2026-10-15",
    "title": "Sssmile Afterhour",
@@ -1822,6 +1804,24 @@
      }
     }
    ]
+  },
+  {
+   "id": "2555628",
+   "day": "2026-10-15",
+   "title": "The Berlin Afrobeat Company, Santrofi",
+   "start": "2026-10-15T19:00:00.000",
+   "end": "2026-10-15T22:00:00.000",
+   "venue": "Haus Der Kulturen Der Welt",
+   "url": "https://ra.co/events/2555628",
+   "interested": 6,
+   "genres": [
+    "Afrobeat",
+    "Jazz"
+   ],
+   "image": "https://images.ra.co/4276f5cf7f064db947de82bff9269efba46e82f8.png",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2556828",
@@ -2186,23 +2186,6 @@
    "top": []
   },
   {
-   "id": "2554652",
-   "day": "2026-10-15",
-   "title": "C. Lavender Book Talk",
-   "start": "2026-10-15T20:00:00.000",
-   "end": "2026-10-15T22:00:00.000",
-   "venue": "Pastiche",
-   "url": "https://ra.co/events/2554652",
-   "interested": 2,
-   "genres": [
-    "Ambient"
-   ],
-   "image": "https://images.ra.co/d73359c13063d52ccc74b1c358f417dd9e24f891.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2548503",
    "day": "2026-10-15",
    "title": "Himmel unter Berlin Vol. III",
@@ -2264,6 +2247,23 @@
    ]
   },
   {
+   "id": "2554652",
+   "day": "2026-10-15",
+   "title": "C. Lavender Book Talk",
+   "start": "2026-10-15T20:00:00.000",
+   "end": "2026-10-15T22:00:00.000",
+   "venue": "Pastiche",
+   "url": "https://ra.co/events/2554652",
+   "interested": 2,
+   "genres": [
+    "Ambient"
+   ],
+   "image": "https://images.ra.co/d73359c13063d52ccc74b1c358f417dd9e24f891.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2558650",
    "day": "2026-10-15",
    "title": "LAB NIGHTS – SESSION 010: DISKOHEXE",
@@ -2279,43 +2279,6 @@
    "artistCount": 0,
    "allArtists": [],
    "top": []
-  },
-  {
-   "id": "2560051",
-   "day": "2026-10-15",
-   "title": "Club K by KIKO Milano Community Night",
-   "start": "2026-10-15T22:00:00.000",
-   "end": "2026-10-16T06:00:00.000",
-   "venue": "Georgia Bar",
-   "url": "https://ra.co/events/2560051",
-   "interested": 1,
-   "genres": [
-    "Techno",
-    "Tech House"
-   ],
-   "image": "https://images.ra.co/8f74ea9dc91dc57725e5e890d9cc3201ed4cbf36.jpg",
-   "artistCount": 1,
-   "allArtists": [
-    "André Galluzzi"
-   ],
-   "top": [
-    {
-     "name": "André Galluzzi",
-     "ra_id": "791",
-     "soundcloud": "https://soundcloud.com/andre-galluzzi",
-     "sc_id": 4574873,
-     "followers": 17111,
-     "set": {
-      "id": 135996946,
-      "title": "André Galluzzi - Berghain 01 - (Ostgut Ton) 2005",
-      "url": "https://soundcloud.com/andre-galluzzi/andr-galluzzi-berghain-01",
-      "minutes": 70,
-      "plays": 81632,
-      "uploader": "André Galluzzi",
-      "source": "profile"
-     }
-    }
-   ]
   },
   {
    "id": "2561453",
@@ -2365,6 +2328,43 @@
       "minutes": 46,
       "plays": 134,
       "uploader": "Lancer",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2560051",
+   "day": "2026-10-15",
+   "title": "Club K by KIKO Milano Community Night",
+   "start": "2026-10-15T22:00:00.000",
+   "end": "2026-10-16T06:00:00.000",
+   "venue": "Georgia Bar",
+   "url": "https://ra.co/events/2560051",
+   "interested": 1,
+   "genres": [
+    "Techno",
+    "Tech House"
+   ],
+   "image": "https://images.ra.co/8f74ea9dc91dc57725e5e890d9cc3201ed4cbf36.jpg",
+   "artistCount": 1,
+   "allArtists": [
+    "André Galluzzi"
+   ],
+   "top": [
+    {
+     "name": "André Galluzzi",
+     "ra_id": "791",
+     "soundcloud": "https://soundcloud.com/andre-galluzzi",
+     "sc_id": 4574873,
+     "followers": 17111,
+     "set": {
+      "id": 135996946,
+      "title": "André Galluzzi - Berghain 01 - (Ostgut Ton) 2005",
+      "url": "https://soundcloud.com/andre-galluzzi/andr-galluzzi-berghain-01",
+      "minutes": 70,
+      "plays": 81632,
+      "uploader": "André Galluzzi",
       "source": "profile"
      }
     }
@@ -10078,24 +10078,6 @@
    ]
   },
   {
-   "id": "2554199",
-   "day": "2026-10-17",
-   "title": "MA BAKER PARTY ✪ Disco RnB House ✪ €5 Off After Midnight ✪",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T04:00:00.000",
-   "venue": "Silverwings Club",
-   "url": "https://ra.co/events/2554199",
-   "interested": 17,
-   "genres": [
-    "Disco",
-    "Club"
-   ],
-   "image": "https://images.ra.co/03519c1b122589d494628173443e7a3ce6efebfe.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2541256",
    "day": "2026-10-17",
    "title": "Upstairs Basement 5 Year Anniversary",
@@ -10148,6 +10130,24 @@
      }
     }
    ]
+  },
+  {
+   "id": "2554199",
+   "day": "2026-10-17",
+   "title": "MA BAKER PARTY ✪ Disco RnB House ✪ €5 Off After Midnight ✪",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T04:00:00.000",
+   "venue": "Silverwings Club",
+   "url": "https://ra.co/events/2554199",
+   "interested": 17,
+   "genres": [
+    "Disco",
+    "Club"
+   ],
+   "image": "https://images.ra.co/03519c1b122589d494628173443e7a3ce6efebfe.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2494740",
@@ -10533,40 +10533,6 @@
    ]
   },
   {
-   "id": "2558922",
-   "day": "2026-10-17",
-   "title": "Coffee & Dubz",
-   "start": "2026-10-17T14:00:00.000",
-   "end": "2026-10-17T18:00:00.000",
-   "venue": "Passenger Coffee Reuterstr.",
-   "url": "https://ra.co/events/2558922",
-   "interested": 8,
-   "genres": [],
-   "image": "https://images.ra.co/525fd53784fde63aba16dfa040de3631dbe5f3d4.jpg",
-   "artistCount": 1,
-   "allArtists": [
-    "MXC"
-   ],
-   "top": [
-    {
-     "name": "MXC",
-     "ra_id": "126810",
-     "soundcloud": "https://soundcloud.com/mxc_mxc",
-     "sc_id": 41117222,
-     "followers": 336,
-     "set": {
-      "id": 1798305649,
-      "title": "MXC @ Jubeljahre Festival",
-      "url": "https://soundcloud.com/mxc_mxc/mxc-jubeljahre-festival",
-      "minutes": 120,
-      "plays": 49,
-      "uploader": "MXC",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2562154",
    "day": "2026-10-17",
    "title": "Irrenhouse: Festival Of Lights Clubnight",
@@ -10604,54 +10570,34 @@
    ]
   },
   {
-   "id": "2553521",
+   "id": "2558922",
    "day": "2026-10-17",
-   "title": "Paradise Traxx Label Launch Party",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T05:00:00.000",
-   "venue": "Marmorbar",
-   "url": "https://ra.co/events/2553521",
-   "interested": 7,
-   "genres": [
-    "House",
-    "Deep House"
-   ],
-   "image": "https://images.ra.co/f2cf08adfa55edc7d408777c72326c003cb74da0.png",
-   "artistCount": 2,
+   "title": "Coffee & Dubz",
+   "start": "2026-10-17T14:00:00.000",
+   "end": "2026-10-17T18:00:00.000",
+   "venue": "Passenger Coffee Reuterstr.",
+   "url": "https://ra.co/events/2558922",
+   "interested": 8,
+   "genres": [],
+   "image": "https://images.ra.co/525fd53784fde63aba16dfa040de3631dbe5f3d4.jpg",
+   "artistCount": 1,
    "allArtists": [
-    "Franziska Frizzante",
-    "Sam Paradise"
+    "MXC"
    ],
    "top": [
     {
-     "name": "Sam Paradise",
-     "ra_id": "108722",
-     "soundcloud": "https://soundcloud.com/sam_paradise",
-     "sc_id": 496118271,
-     "followers": 8368,
+     "name": "MXC",
+     "ra_id": "126810",
+     "soundcloud": "https://soundcloud.com/mxc_mxc",
+     "sc_id": 41117222,
+     "followers": 336,
      "set": {
-      "id": 1489956022,
-      "title": "90s Deep / Soulful / Garage House & Disco @ Sisyphos Wintergarten, 10.04.2023",
-      "url": "https://soundcloud.com/sam_paradise/sam-paradise-sisyphos-wintergarten",
-      "minutes": 243,
-      "plays": 4414,
-      "uploader": "Sam Paradise",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Franziska Frizzante",
-     "ra_id": "117813",
-     "soundcloud": "https://soundcloud.com/franziskafrizzante",
-     "sc_id": 98512569,
-     "followers": 553,
-     "set": {
-      "id": 1691154027,
-      "title": "HÖR Berlin - 12.23",
-      "url": "https://soundcloud.com/franziskafrizzante/franziska-frizzante-hor-berlin-131223",
-      "minutes": 55,
-      "plays": 1880,
-      "uploader": "Franziska Frizzante",
+      "id": 1798305649,
+      "title": "MXC @ Jubeljahre Festival",
+      "url": "https://soundcloud.com/mxc_mxc/mxc-jubeljahre-festival",
+      "minutes": 120,
+      "plays": 49,
+      "uploader": "MXC",
       "source": "profile"
      }
     }
@@ -10730,6 +10676,96 @@
    ]
   },
   {
+   "id": "2553521",
+   "day": "2026-10-17",
+   "title": "Paradise Traxx Label Launch Party",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T05:00:00.000",
+   "venue": "Marmorbar",
+   "url": "https://ra.co/events/2553521",
+   "interested": 7,
+   "genres": [
+    "House",
+    "Deep House"
+   ],
+   "image": "https://images.ra.co/f2cf08adfa55edc7d408777c72326c003cb74da0.png",
+   "artistCount": 2,
+   "allArtists": [
+    "Franziska Frizzante",
+    "Sam Paradise"
+   ],
+   "top": [
+    {
+     "name": "Sam Paradise",
+     "ra_id": "108722",
+     "soundcloud": "https://soundcloud.com/sam_paradise",
+     "sc_id": 496118271,
+     "followers": 8368,
+     "set": {
+      "id": 1489956022,
+      "title": "90s Deep / Soulful / Garage House & Disco @ Sisyphos Wintergarten, 10.04.2023",
+      "url": "https://soundcloud.com/sam_paradise/sam-paradise-sisyphos-wintergarten",
+      "minutes": 243,
+      "plays": 4414,
+      "uploader": "Sam Paradise",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Franziska Frizzante",
+     "ra_id": "117813",
+     "soundcloud": "https://soundcloud.com/franziskafrizzante",
+     "sc_id": 98512569,
+     "followers": 553,
+     "set": {
+      "id": 1691154027,
+      "title": "HÖR Berlin - 12.23",
+      "url": "https://soundcloud.com/franziskafrizzante/franziska-frizzante-hor-berlin-131223",
+      "minutes": 55,
+      "plays": 1880,
+      "uploader": "Franziska Frizzante",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2561757",
+   "day": "2026-10-17",
+   "title": "Underground Techno at Muse",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T02:00:00.000",
+   "venue": "Muse Café & Cocktail Bar",
+   "url": "https://ra.co/events/2561757",
+   "interested": 5,
+   "genres": [
+    "Techno"
+   ],
+   "image": "https://images.ra.co/d6c4d2eb85ef10097f158d923cd73292996c2be8.jpg",
+   "artistCount": 1,
+   "allArtists": [
+    "sapskt"
+   ],
+   "top": [
+    {
+     "name": "sapskt",
+     "ra_id": "187376",
+     "soundcloud": "https://soundcloud.com/sapskt",
+     "sc_id": 66285958,
+     "followers": 41,
+     "set": {
+      "id": 1210455100,
+      "title": "Short Mix",
+      "url": "https://soundcloud.com/sapskt/short-mix",
+      "minutes": 31,
+      "plays": 84,
+      "uploader": "sapskt",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2546533",
    "day": "2026-10-17",
    "title": "Nice Tries & Friends Vol. 6",
@@ -10783,60 +10819,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2561757",
-   "day": "2026-10-17",
-   "title": "Underground Techno at Muse",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T02:00:00.000",
-   "venue": "Muse Café & Cocktail Bar",
-   "url": "https://ra.co/events/2561757",
-   "interested": 5,
-   "genres": [
-    "Techno"
-   ],
-   "image": "https://images.ra.co/d6c4d2eb85ef10097f158d923cd73292996c2be8.jpg",
-   "artistCount": 1,
-   "allArtists": [
-    "sapskt"
-   ],
-   "top": [
-    {
-     "name": "sapskt",
-     "ra_id": "187376",
-     "soundcloud": "https://soundcloud.com/sapskt",
-     "sc_id": 66285958,
-     "followers": 41,
-     "set": {
-      "id": 1210455100,
-      "title": "Short Mix",
-      "url": "https://soundcloud.com/sapskt/short-mix",
-      "minutes": 31,
-      "plays": 84,
-      "uploader": "sapskt",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2547260",
-   "day": "2026-10-17",
-   "title": "Techno Classics Party",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T05:00:00.000",
-   "venue": "Silver Event Location",
-   "url": "https://ra.co/events/2547260",
-   "interested": 4,
-   "genres": [
-    "Techno",
-    "Electro"
-   ],
-   "image": "https://images.ra.co/46f72072b43db3708eb980e1673800fdd56dd9a6.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2561921",
@@ -10909,6 +10891,24 @@
      }
     }
    ]
+  },
+  {
+   "id": "2547260",
+   "day": "2026-10-17",
+   "title": "Techno Classics Party",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T05:00:00.000",
+   "venue": "Silver Event Location",
+   "url": "https://ra.co/events/2547260",
+   "interested": 4,
+   "genres": [
+    "Techno",
+    "Electro"
+   ],
+   "image": "https://images.ra.co/46f72072b43db3708eb980e1673800fdd56dd9a6.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2546770",
