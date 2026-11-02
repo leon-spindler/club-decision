@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T11:48:52Z",
+ "generated": "2026-11-02T13:27:19Z",
  "events": [
   {
    "id": "2552572",
@@ -6522,21 +6522,6 @@
    ]
   },
   {
-   "id": "2492865",
-   "day": "2026-10-16",
-   "title": "Stimmen in Aspik - Die Schlager-Party",
-   "start": "2026-10-16T21:00:00.000",
-   "end": "2026-10-17T05:00:00.000",
-   "venue": "Hafenbar Berlin",
-   "url": "https://ra.co/events/2492865",
-   "interested": 0,
-   "genres": [],
-   "image": "https://images.ra.co/ade12aae909d42ae2b6ea0e7a434205d51243440.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2531838",
    "day": "2026-10-16",
    "title": "Electro & Techno Sounds Friday",
@@ -6638,6 +6623,21 @@
      }
     }
    ]
+  },
+  {
+   "id": "2492865",
+   "day": "2026-10-16",
+   "title": "Stimmen in Aspik - Die Schlager-Party",
+   "start": "2026-10-16T21:00:00.000",
+   "end": "2026-10-17T05:00:00.000",
+   "venue": "Hafenbar Berlin",
+   "url": "https://ra.co/events/2492865",
+   "interested": 0,
+   "genres": [],
+   "image": "https://images.ra.co/ade12aae909d42ae2b6ea0e7a434205d51243440.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2560054",
@@ -10987,21 +10987,6 @@
    ]
   },
   {
-   "id": "2492868",
-   "day": "2026-10-17",
-   "title": "Käptens Club Party - Disco pur",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T05:00:00.000",
-   "venue": "Hafenbar Berlin",
-   "url": "https://ra.co/events/2492868",
-   "interested": 2,
-   "genres": [],
-   "image": "https://images.ra.co/5c9cab34f62339c5605aecbd7313012a02b48ad6.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2531846",
    "day": "2026-10-17",
    "title": "Electro & Techno Sounds Saturday",
@@ -11069,6 +11054,21 @@
      }
     }
    ]
+  },
+  {
+   "id": "2492868",
+   "day": "2026-10-17",
+   "title": "Käptens Club Party - Disco pur",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T05:00:00.000",
+   "venue": "Hafenbar Berlin",
+   "url": "https://ra.co/events/2492868",
+   "interested": 2,
+   "genres": [],
+   "image": "https://images.ra.co/5c9cab34f62339c5605aecbd7313012a02b48ad6.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2547258",
