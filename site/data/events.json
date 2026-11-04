@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T12:45:18Z",
+ "generated": "2026-11-04T12:57:43Z",
  "events": [
   {
    "id": "2552572",
@@ -1551,8 +1551,9 @@
    "interested": 19,
    "genres": [],
    "image": "https://images.ra.co/5e55b969adeb89e2bed9f27b2441c4a671305a90.jpg",
-   "artistCount": 1,
+   "artistCount": 2,
    "allArtists": [
+    "Fritzi",
     "Clarisafarie"
    ],
    "top": [
@@ -1570,6 +1571,22 @@
       "plays": 3616,
       "uploader": "Clarisafarie",
       "source": "profile"
+     }
+    },
+    {
+     "name": "Fritzi",
+     "ra_id": "189855",
+     "soundcloud": "https://soundcloud.com/user-117338414",
+     "sc_id": 219363134,
+     "followers": 27,
+     "set": {
+      "id": 944090290,
+      "title": "Fritzi Horstman: Step Inside the Circle (E52)",
+      "url": "https://soundcloud.com/charleseisenstein/fritizi-step-inside-the-circle-e52",
+      "minutes": 68,
+      "plays": 23309,
+      "uploader": "Charles Eisenstein",
+      "source": "search"
      }
     }
    ]
@@ -5212,57 +5229,6 @@
    ]
   },
   {
-   "id": "2544908",
-   "day": "2026-10-16",
-   "title": "90mil presents: KULKU & MONOSUM",
-   "start": "2026-10-16T22:00:00.000",
-   "end": "2026-10-17T02:00:00.000",
-   "venue": "90mil",
-   "url": "https://ra.co/events/2544908",
-   "interested": 24,
-   "genres": [],
-   "image": "https://images.ra.co/19f12a704ecb1d4491b1b586a7b9958a71565146.png",
-   "artistCount": 2,
-   "allArtists": [
-    "MONOSUM",
-    "Miri Malek"
-   ],
-   "top": [
-    {
-     "name": "Miri Malek",
-     "ra_id": "116407",
-     "soundcloud": "https://soundcloud.com/mirimalek",
-     "sc_id": 13075058,
-     "followers": 470,
-     "set": {
-      "id": 2096129670,
-      "title": "Live at OHM for Awkwardly Social",
-      "url": "https://soundcloud.com/mirimalek/live-at-ohm-for-awkwardly-social",
-      "minutes": 112,
-      "plays": 512,
-      "uploader": "Miri Malek",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "MONOSUM",
-     "ra_id": "189136",
-     "soundcloud": "https://soundcloud.com/monosum",
-     "sc_id": 5061538,
-     "followers": 23,
-     "set": {
-      "id": 16336165,
-      "title": "Monosum Live at life Festival June 2007",
-      "url": "https://soundcloud.com/monosum/monosum-live-at-life-festival",
-      "minutes": 60,
-      "plays": 143,
-      "uploader": "Monosum",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2556833",
    "day": "2026-10-16",
    "title": "Klubnacht + Afterhour",
@@ -5330,6 +5296,57 @@
       "minutes": 78,
       "plays": 9410,
       "uploader": "Alessia Ceruti",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2544908",
+   "day": "2026-10-16",
+   "title": "90mil presents: KULKU & MONOSUM",
+   "start": "2026-10-16T22:00:00.000",
+   "end": "2026-10-17T02:00:00.000",
+   "venue": "90mil",
+   "url": "https://ra.co/events/2544908",
+   "interested": 24,
+   "genres": [],
+   "image": "https://images.ra.co/19f12a704ecb1d4491b1b586a7b9958a71565146.png",
+   "artistCount": 2,
+   "allArtists": [
+    "MONOSUM",
+    "Miri Malek"
+   ],
+   "top": [
+    {
+     "name": "Miri Malek",
+     "ra_id": "116407",
+     "soundcloud": "https://soundcloud.com/mirimalek",
+     "sc_id": 13075058,
+     "followers": 470,
+     "set": {
+      "id": 2096129670,
+      "title": "Live at OHM for Awkwardly Social",
+      "url": "https://soundcloud.com/mirimalek/live-at-ohm-for-awkwardly-social",
+      "minutes": 112,
+      "plays": 512,
+      "uploader": "Miri Malek",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "MONOSUM",
+     "ra_id": "189136",
+     "soundcloud": "https://soundcloud.com/monosum",
+     "sc_id": 5061538,
+     "followers": 23,
+     "set": {
+      "id": 16336165,
+      "title": "Monosum Live at life Festival June 2007",
+      "url": "https://soundcloud.com/monosum/monosum-live-at-life-festival",
+      "minutes": 60,
+      "plays": 143,
+      "uploader": "Monosum",
       "source": "profile"
      }
     }
@@ -5688,43 +5705,6 @@
    ]
   },
   {
-   "id": "2561807",
-   "day": "2026-10-16",
-   "title": "Goutte x Bredouille",
-   "start": "2026-10-16T22:00:00.000",
-   "end": "2026-10-17T02:00:00.000",
-   "venue": "Bredouille",
-   "url": "https://ra.co/events/2561807",
-   "interested": 10,
-   "genres": [
-    "House",
-    "Tech House"
-   ],
-   "image": "https://images.ra.co/eca93a2ec544e80c21c94391fa44bfb606cafb2a.png",
-   "artistCount": 1,
-   "allArtists": [
-    "Goutte"
-   ],
-   "top": [
-    {
-     "name": "Goutte",
-     "ra_id": "190375",
-     "soundcloud": "https://soundcloud.com/user-780631837",
-     "sc_id": 1243657078,
-     "followers": 42,
-     "set": {
-      "id": 2231340767,
-      "title": "Podcast 002 - Groove and trance",
-      "url": "https://soundcloud.com/user-780631837/podcast-002-groove-and-trance",
-      "minutes": 60,
-      "plays": 36,
-      "uploader": "Goutte",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2534595",
    "day": "2026-10-16",
    "title": "Power Up",
@@ -5789,6 +5769,43 @@
       "minutes": 46,
       "plays": 134,
       "uploader": "Lancer",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2561807",
+   "day": "2026-10-16",
+   "title": "Goutte x Bredouille",
+   "start": "2026-10-16T22:00:00.000",
+   "end": "2026-10-17T02:00:00.000",
+   "venue": "Bredouille",
+   "url": "https://ra.co/events/2561807",
+   "interested": 10,
+   "genres": [
+    "House",
+    "Tech House"
+   ],
+   "image": "https://images.ra.co/eca93a2ec544e80c21c94391fa44bfb606cafb2a.png",
+   "artistCount": 1,
+   "allArtists": [
+    "Goutte"
+   ],
+   "top": [
+    {
+     "name": "Goutte",
+     "ra_id": "190375",
+     "soundcloud": "https://soundcloud.com/user-780631837",
+     "sc_id": 1243657078,
+     "followers": 42,
+     "set": {
+      "id": 2231340767,
+      "title": "Podcast 002 - Groove and trance",
+      "url": "https://soundcloud.com/user-780631837/podcast-002-groove-and-trance",
+      "minutes": 60,
+      "plays": 36,
+      "uploader": "Goutte",
       "source": "profile"
      }
     }
@@ -5919,6 +5936,69 @@
    ]
   },
   {
+   "id": "2514037",
+   "day": "2026-10-16",
+   "title": "WKND X OFFLINE",
+   "start": "2026-10-16T22:00:00.000",
+   "end": "2026-10-17T06:00:00.000",
+   "venue": "Weekend",
+   "url": "https://ra.co/events/2514037",
+   "interested": 6,
+   "genres": [
+    "Techno",
+    "House"
+   ],
+   "image": "https://images.ra.co/32618e7834c6f2be70d9b723ca140f72db3a85c9.png",
+   "artistCount": 3,
+   "allArtists": [
+    "DJ PayPaul",
+    "Tiefschwarz",
+    "Tube & Berger"
+   ],
+   "top": [
+    {
+     "name": "Tube & Berger",
+     "ra_id": "7283",
+     "soundcloud": "https://soundcloud.com/tubeandberger",
+     "sc_id": 302854,
+     "followers": 161462,
+     "set": {
+      "id": 156972475,
+      "title": "Tube & Berger's Deeper Sessions Jul 2014 @SiriusXm (radioshow)",
+      "url": "https://soundcloud.com/tubeandberger/tube-bergers-deeper-sessions-jul-2014-siriusxm-radioshow-1",
+      "minutes": 61,
+      "plays": 430765,
+      "uploader": "TUBE & BERGER",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Tiefschwarz",
+     "ra_id": "277",
+     "soundcloud": "https://soundcloud.com/tiefschwarz",
+     "sc_id": 9153949,
+     "followers": 53075,
+     "set": {
+      "id": 719195167,
+      "title": "Tiefschwarz presents \" A Souvenir from Anna Ullrich\" on Ibiza Global Radio",
+      "url": "https://soundcloud.com/tiefschwarz/igr-anna-ulrichtiefschwarz-presents-a-souvenir-from-anna-ulrich-on-ibiza-global-radio",
+      "minutes": 60,
+      "plays": 45131,
+      "uploader": "Tiefschwarz",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "DJ PayPaul",
+     "ra_id": "139983",
+     "soundcloud": null,
+     "sc_id": null,
+     "followers": null,
+     "set": null
+    }
+   ]
+  },
+  {
    "id": "2548506",
    "day": "2026-10-16",
    "title": "Himmel unter Berlin Vol. III",
@@ -5993,69 +6073,6 @@
    "artistCount": 0,
    "allArtists": [],
    "top": []
-  },
-  {
-   "id": "2514037",
-   "day": "2026-10-16",
-   "title": "WKND X OFFLINE",
-   "start": "2026-10-16T22:00:00.000",
-   "end": "2026-10-17T06:00:00.000",
-   "venue": "Weekend",
-   "url": "https://ra.co/events/2514037",
-   "interested": 6,
-   "genres": [
-    "Techno",
-    "House"
-   ],
-   "image": "https://images.ra.co/32618e7834c6f2be70d9b723ca140f72db3a85c9.png",
-   "artistCount": 3,
-   "allArtists": [
-    "DJ PayPaul",
-    "Tiefschwarz",
-    "Tube & Berger"
-   ],
-   "top": [
-    {
-     "name": "Tube & Berger",
-     "ra_id": "7283",
-     "soundcloud": "https://soundcloud.com/tubeandberger",
-     "sc_id": 302854,
-     "followers": 161462,
-     "set": {
-      "id": 156972475,
-      "title": "Tube & Berger's Deeper Sessions Jul 2014 @SiriusXm (radioshow)",
-      "url": "https://soundcloud.com/tubeandberger/tube-bergers-deeper-sessions-jul-2014-siriusxm-radioshow-1",
-      "minutes": 61,
-      "plays": 430765,
-      "uploader": "TUBE & BERGER",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Tiefschwarz",
-     "ra_id": "277",
-     "soundcloud": "https://soundcloud.com/tiefschwarz",
-     "sc_id": 9153949,
-     "followers": 53075,
-     "set": {
-      "id": 719195167,
-      "title": "Tiefschwarz presents \" A Souvenir from Anna Ullrich\" on Ibiza Global Radio",
-      "url": "https://soundcloud.com/tiefschwarz/igr-anna-ulrichtiefschwarz-presents-a-souvenir-from-anna-ulrich-on-ibiza-global-radio",
-      "minutes": 60,
-      "plays": 45131,
-      "uploader": "Tiefschwarz",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "DJ PayPaul",
-     "ra_id": "139983",
-     "soundcloud": null,
-     "sc_id": null,
-     "followers": null,
-     "set": null
-    }
-   ]
   },
   {
    "id": "2557959",
@@ -6522,6 +6539,24 @@
    ]
   },
   {
+   "id": "2531838",
+   "day": "2026-10-16",
+   "title": "Electro & Techno Sounds Friday",
+   "start": "2026-10-16T22:00:00.000",
+   "end": "2026-10-17T06:00:00.000",
+   "venue": "Soda Club",
+   "url": "https://ra.co/events/2531838",
+   "interested": 0,
+   "genres": [
+    "Techno",
+    "Electro"
+   ],
+   "image": "https://images.ra.co/170616e2945db1ba5193265ce91c337053653973.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2551407",
    "day": "2026-10-16",
    "title": "'IN THE ÄIR TONIGHT' Die 80er-Party by DJ WhamPee",
@@ -6632,24 +6667,6 @@
    "interested": 0,
    "genres": [],
    "image": "https://images.ra.co/ade12aae909d42ae2b6ea0e7a434205d51243440.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2531838",
-   "day": "2026-10-16",
-   "title": "Electro & Techno Sounds Friday",
-   "start": "2026-10-16T22:00:00.000",
-   "end": "2026-10-17T06:00:00.000",
-   "venue": "Soda Club",
-   "url": "https://ra.co/events/2531838",
-   "interested": 0,
-   "genres": [
-    "Techno",
-    "Electro"
-   ],
-   "image": "https://images.ra.co/170616e2945db1ba5193265ce91c337053653973.jpg",
    "artistCount": 0,
    "allArtists": [],
    "top": []
@@ -8780,6 +8797,21 @@
    ]
   },
   {
+   "id": "2533385",
+   "day": "2026-10-17",
+   "title": "FELUKAH · BINT ISHTAR · MOSAÏC BAND - SAWTUHUNNA - صوتهنّ - Berlin",
+   "start": "2026-10-17T19:00:00.000",
+   "end": "2026-10-18T01:00:00.000",
+   "venue": "Säälchen",
+   "url": "https://ra.co/events/2533385",
+   "interested": 43,
+   "genres": [],
+   "image": "https://images.ra.co/064cec5dfd2c9653bb0254227ec1b46beb782316.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2550375",
    "day": "2026-10-17",
    "title": "You Know Where You Are // Cursed invites Wobbla",
@@ -8851,21 +8883,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2533385",
-   "day": "2026-10-17",
-   "title": "FELUKAH · BINT ISHTAR · MOSAÏC BAND - SAWTUHUNNA - صوتهنّ - Berlin",
-   "start": "2026-10-17T19:00:00.000",
-   "end": "2026-10-18T01:00:00.000",
-   "venue": "Säälchen",
-   "url": "https://ra.co/events/2533385",
-   "interested": 43,
-   "genres": [],
-   "image": "https://images.ra.co/064cec5dfd2c9653bb0254227ec1b46beb782316.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2543211",
@@ -9243,6 +9260,96 @@
    ]
   },
   {
+   "id": "2536780",
+   "day": "2026-10-17",
+   "title": "DEEPER",
+   "start": "2026-10-17T23:00:00.000",
+   "end": "2026-10-18T05:00:00.000",
+   "venue": "Paloma",
+   "url": "https://ra.co/events/2536780",
+   "interested": 31,
+   "genres": [
+    "House",
+    "Disco"
+   ],
+   "image": "https://images.ra.co/3072521552f13000660f8594108633b0e19bccf1.jpg",
+   "artistCount": 2,
+   "allArtists": [
+    "Ludwig Mausberg",
+    "Marian Tone"
+   ],
+   "top": [
+    {
+     "name": "Marian Tone",
+     "ra_id": "73734",
+     "soundcloud": "https://soundcloud.com/marian-tone",
+     "sc_id": 16938024,
+     "followers": 1523,
+     "set": {
+      "id": 116063617,
+      "title": "Backyard Joints 1st Anniversary Mix",
+      "url": "https://soundcloud.com/marian-tone/backyard-joints-1st",
+      "minutes": 40,
+      "plays": 3446,
+      "uploader": "Marian Tone",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Ludwig Mausberg",
+     "ra_id": "165109",
+     "soundcloud": "https://soundcloud.com/ludwig_mausberg",
+     "sc_id": 5021790,
+     "followers": 1278,
+     "set": {
+      "id": 2301378824,
+      "title": "Little Deeper - [DJ Set]",
+      "url": "https://soundcloud.com/ludwig_mausberg/how-will-i-know-dj-set",
+      "minutes": 160,
+      "plays": 304,
+      "uploader": "Ludwig Mausberg",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2539598",
+   "day": "2026-10-17",
+   "title": "Festival of Lights in Concert",
+   "start": "2026-10-17T20:00:00.000",
+   "end": "2026-10-17T21:00:00.000",
+   "venue": "Berliner Dom",
+   "url": "https://ra.co/events/2539598",
+   "interested": 31,
+   "genres": [
+    "Electro"
+   ],
+   "image": "https://images.ra.co/6c261802b098518a89925d4c9186bc4043ba365d.png",
+   "artistCount": 1,
+   "allArtists": [
+    "Anja Schneider"
+   ],
+   "top": [
+    {
+     "name": "Anja Schneider",
+     "ra_id": "751",
+     "soundcloud": "https://soundcloud.com/anjaschneider",
+     "sc_id": 58432,
+     "followers": 80413,
+     "set": {
+      "id": 255730784,
+      "title": "Anja Schneider @ The Bow, Buenos Aires - 20.2.16",
+      "url": "https://soundcloud.com/anjaschneider/anja-schneider-the-bow-buenos-aires-20216",
+      "minutes": 146,
+      "plays": 186996,
+      "uploader": "Anja Schneider",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2551016",
    "day": "2026-10-17",
    "title": "VANTA",
@@ -9354,111 +9461,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2536780",
-   "day": "2026-10-17",
-   "title": "DEEPER",
-   "start": "2026-10-17T23:00:00.000",
-   "end": "2026-10-18T05:00:00.000",
-   "venue": "Paloma",
-   "url": "https://ra.co/events/2536780",
-   "interested": 31,
-   "genres": [
-    "House",
-    "Disco"
-   ],
-   "image": "https://images.ra.co/3072521552f13000660f8594108633b0e19bccf1.jpg",
-   "artistCount": 2,
-   "allArtists": [
-    "Ludwig Mausberg",
-    "Marian Tone"
-   ],
-   "top": [
-    {
-     "name": "Marian Tone",
-     "ra_id": "73734",
-     "soundcloud": "https://soundcloud.com/marian-tone",
-     "sc_id": 16938024,
-     "followers": 1523,
-     "set": {
-      "id": 116063617,
-      "title": "Backyard Joints 1st Anniversary Mix",
-      "url": "https://soundcloud.com/marian-tone/backyard-joints-1st",
-      "minutes": 40,
-      "plays": 3446,
-      "uploader": "Marian Tone",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Ludwig Mausberg",
-     "ra_id": "165109",
-     "soundcloud": "https://soundcloud.com/ludwig_mausberg",
-     "sc_id": 5021790,
-     "followers": 1278,
-     "set": {
-      "id": 2301378824,
-      "title": "Little Deeper - [DJ Set]",
-      "url": "https://soundcloud.com/ludwig_mausberg/how-will-i-know-dj-set",
-      "minutes": 160,
-      "plays": 304,
-      "uploader": "Ludwig Mausberg",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2539598",
-   "day": "2026-10-17",
-   "title": "Festival of Lights in Concert",
-   "start": "2026-10-17T20:00:00.000",
-   "end": "2026-10-17T21:00:00.000",
-   "venue": "Berliner Dom",
-   "url": "https://ra.co/events/2539598",
-   "interested": 31,
-   "genres": [
-    "Electro"
-   ],
-   "image": "https://images.ra.co/6c261802b098518a89925d4c9186bc4043ba365d.png",
-   "artistCount": 1,
-   "allArtists": [
-    "Anja Schneider"
-   ],
-   "top": [
-    {
-     "name": "Anja Schneider",
-     "ra_id": "751",
-     "soundcloud": "https://soundcloud.com/anjaschneider",
-     "sc_id": 58432,
-     "followers": 80413,
-     "set": {
-      "id": 255730784,
-      "title": "Anja Schneider @ The Bow, Buenos Aires - 20.2.16",
-      "url": "https://soundcloud.com/anjaschneider/anja-schneider-the-bow-buenos-aires-20216",
-      "minutes": 146,
-      "plays": 186996,
-      "uploader": "Anja Schneider",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2550631",
-   "day": "2026-10-17",
-   "title": "Klappnacht x Small Great Things",
-   "start": "2026-10-17T23:00:00.000",
-   "end": "2026-10-18T07:00:00.000",
-   "venue": "Zur Klappe",
-   "url": "https://ra.co/events/2550631",
-   "interested": 26,
-   "genres": [],
-   "image": "https://images.ra.co/192e74997f61524126db963759c830df1beb65b5.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2531287",
@@ -9600,6 +9602,39 @@
      }
     }
    ]
+  },
+  {
+   "id": "2550631",
+   "day": "2026-10-17",
+   "title": "Klappnacht x Small Great Things",
+   "start": "2026-10-17T23:00:00.000",
+   "end": "2026-10-18T07:00:00.000",
+   "venue": "Zur Klappe",
+   "url": "https://ra.co/events/2550631",
+   "interested": 26,
+   "genres": [],
+   "image": "https://images.ra.co/192e74997f61524126db963759c830df1beb65b5.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
+   "id": "2540515",
+   "day": "2026-10-17",
+   "title": "Hip Hop culture day/Hip hop Kulturtag",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T06:00:00.000",
+   "venue": "Humboldthain Club",
+   "url": "https://ra.co/events/2540515",
+   "interested": 24,
+   "genres": [
+    "Hip-Hop",
+    "Afro House"
+   ],
+   "image": "https://images.ra.co/05154f91fbf58b278923364210e0fea51323c31d.png",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2548488",
@@ -9811,24 +9846,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2540515",
-   "day": "2026-10-17",
-   "title": "Hip Hop culture day/Hip hop Kulturtag",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T06:00:00.000",
-   "venue": "Humboldthain Club",
-   "url": "https://ra.co/events/2540515",
-   "interested": 24,
-   "genres": [
-    "Hip-Hop",
-    "Afro House"
-   ],
-   "image": "https://images.ra.co/05154f91fbf58b278923364210e0fea51323c31d.png",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2550392",
@@ -10078,24 +10095,6 @@
    ]
   },
   {
-   "id": "2554199",
-   "day": "2026-10-17",
-   "title": "MA BAKER PARTY ✪ Disco RnB House ✪ €5 Off After Midnight ✪",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T04:00:00.000",
-   "venue": "Silverwings Club",
-   "url": "https://ra.co/events/2554199",
-   "interested": 17,
-   "genres": [
-    "Disco",
-    "Club"
-   ],
-   "image": "https://images.ra.co/03519c1b122589d494628173443e7a3ce6efebfe.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2541256",
    "day": "2026-10-17",
    "title": "Upstairs Basement 5 Year Anniversary",
@@ -10150,6 +10149,24 @@
    ]
   },
   {
+   "id": "2554199",
+   "day": "2026-10-17",
+   "title": "MA BAKER PARTY ✪ Disco RnB House ✪ €5 Off After Midnight ✪",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T04:00:00.000",
+   "venue": "Silverwings Club",
+   "url": "https://ra.co/events/2554199",
+   "interested": 17,
+   "genres": [
+    "Disco",
+    "Club"
+   ],
+   "image": "https://images.ra.co/03519c1b122589d494628173443e7a3ce6efebfe.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2494740",
    "day": "2026-10-17",
    "title": "friends.zone mit Jago K. & Freunde",
@@ -10178,24 +10195,6 @@
     "Afro Tech"
    ],
    "image": "https://images.ra.co/4a3b11d1010669bf28aa31e2ff1f316d5b102111.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2552617",
-   "day": "2026-10-17",
-   "title": "Halloween Swap Market (FREE)",
-   "start": "2026-10-17T14:00:00.000",
-   "end": "2026-10-17T16:00:00.000",
-   "venue": "Urbayn Berlin",
-   "url": "https://ra.co/events/2552617",
-   "interested": 10,
-   "genres": [
-    "Dub",
-    "Broken Beat"
-   ],
-   "image": "https://images.ra.co/3210891b557bf1343c587ed4a41129100a6490c3.png",
    "artistCount": 0,
    "allArtists": [],
    "top": []
@@ -10269,6 +10268,24 @@
      }
     }
    ]
+  },
+  {
+   "id": "2552617",
+   "day": "2026-10-17",
+   "title": "Halloween Swap Market (FREE)",
+   "start": "2026-10-17T14:00:00.000",
+   "end": "2026-10-17T16:00:00.000",
+   "venue": "Urbayn Berlin",
+   "url": "https://ra.co/events/2552617",
+   "interested": 10,
+   "genres": [
+    "Dub",
+    "Broken Beat"
+   ],
+   "image": "https://images.ra.co/3210891b557bf1343c587ed4a41129100a6490c3.png",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2546344",
@@ -10987,6 +11004,24 @@
    ]
   },
   {
+   "id": "2531846",
+   "day": "2026-10-17",
+   "title": "Electro & Techno Sounds Saturday",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T06:00:00.000",
+   "venue": "Soda Club",
+   "url": "https://ra.co/events/2531846",
+   "interested": 2,
+   "genres": [
+    "Techno",
+    "Electro"
+   ],
+   "image": "https://images.ra.co/af9bd3a5805476e1b685acec20af27e0269b8ae1.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2553307",
    "day": "2026-10-17",
    "title": "Saturday Session: Avec Plaisir (residency finale)",
@@ -11048,24 +11083,6 @@
    "interested": 2,
    "genres": [],
    "image": "https://images.ra.co/5c9cab34f62339c5605aecbd7313012a02b48ad6.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2531846",
-   "day": "2026-10-17",
-   "title": "Electro & Techno Sounds Saturday",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T06:00:00.000",
-   "venue": "Soda Club",
-   "url": "https://ra.co/events/2531846",
-   "interested": 2,
-   "genres": [
-    "Techno",
-    "Electro"
-   ],
-   "image": "https://images.ra.co/af9bd3a5805476e1b685acec20af27e0269b8ae1.jpg",
    "artistCount": 0,
    "allArtists": [],
    "top": []

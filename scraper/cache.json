@@ -8221,5 +8221,21 @@
   "soundcloud": "https://soundcloud.com/angelobasham",
   "sc_id": 146428498,
   "followers": 410
+ },
+ "189855": {
+  "name": "Fritzi",
+  "ra_id": "189855",
+  "soundcloud": "https://soundcloud.com/user-117338414",
+  "sc_id": 219363134,
+  "followers": 27
+ },
+ "set:189855": {
+  "id": 944090290,
+  "title": "Fritzi Horstman: Step Inside the Circle (E52)",
+  "url": "https://soundcloud.com/charleseisenstein/fritizi-step-inside-the-circle-e52",
+  "minutes": 68,
+  "plays": 23309,
+  "uploader": "Charles Eisenstein",
+  "source": "search"
  }
 }
