@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T12:54:54Z",
+ "generated": "2026-11-07T11:41:48Z",
  "events": [
   {
    "id": "2552572",
@@ -1532,8 +1532,8 @@
    "url": "https://ra.co/events/2552693",
    "interested": 20,
    "genres": [
-    "Afrobeat",
-    "Dub"
+    "Dub",
+    "Afrobeat"
    ],
    "image": "https://images.ra.co/0e835783eeb29ab59ff6abdca7b5e6b2945a45ec.jpg",
    "artistCount": 0,
@@ -1832,8 +1832,8 @@
    "url": "https://ra.co/events/2555628",
    "interested": 6,
    "genres": [
-    "Afrobeat",
-    "Jazz"
+    "Jazz",
+    "Afrobeat"
    ],
    "image": "https://images.ra.co/4276f5cf7f064db947de82bff9269efba46e82f8.png",
    "artistCount": 0,
@@ -2298,6 +2298,43 @@
    "top": []
   },
   {
+   "id": "2560051",
+   "day": "2026-10-15",
+   "title": "Club K by KIKO Milano Community Night",
+   "start": "2026-10-15T22:00:00.000",
+   "end": "2026-10-16T06:00:00.000",
+   "venue": "Georgia Bar",
+   "url": "https://ra.co/events/2560051",
+   "interested": 1,
+   "genres": [
+    "Techno",
+    "Tech House"
+   ],
+   "image": "https://images.ra.co/8f74ea9dc91dc57725e5e890d9cc3201ed4cbf36.jpg",
+   "artistCount": 1,
+   "allArtists": [
+    "André Galluzzi"
+   ],
+   "top": [
+    {
+     "name": "André Galluzzi",
+     "ra_id": "791",
+     "soundcloud": "https://soundcloud.com/andre-galluzzi",
+     "sc_id": 4574873,
+     "followers": 17111,
+     "set": {
+      "id": 135996946,
+      "title": "André Galluzzi - Berghain 01 - (Ostgut Ton) 2005",
+      "url": "https://soundcloud.com/andre-galluzzi/andr-galluzzi-berghain-01",
+      "minutes": 70,
+      "plays": 81632,
+      "uploader": "André Galluzzi",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2561453",
    "day": "2026-10-15",
    "title": "Wrong Era",
@@ -2345,43 +2382,6 @@
       "minutes": 46,
       "plays": 134,
       "uploader": "Lancer",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2560051",
-   "day": "2026-10-15",
-   "title": "Club K by KIKO Milano Community Night",
-   "start": "2026-10-15T22:00:00.000",
-   "end": "2026-10-16T06:00:00.000",
-   "venue": "Georgia Bar",
-   "url": "https://ra.co/events/2560051",
-   "interested": 1,
-   "genres": [
-    "Techno",
-    "Tech House"
-   ],
-   "image": "https://images.ra.co/8f74ea9dc91dc57725e5e890d9cc3201ed4cbf36.jpg",
-   "artistCount": 1,
-   "allArtists": [
-    "André Galluzzi"
-   ],
-   "top": [
-    {
-     "name": "André Galluzzi",
-     "ra_id": "791",
-     "soundcloud": "https://soundcloud.com/andre-galluzzi",
-     "sc_id": 4574873,
-     "followers": 17111,
-     "set": {
-      "id": 135996946,
-      "title": "André Galluzzi - Berghain 01 - (Ostgut Ton) 2005",
-      "url": "https://soundcloud.com/andre-galluzzi/andr-galluzzi-berghain-01",
-      "minutes": 70,
-      "plays": 81632,
-      "uploader": "André Galluzzi",
       "source": "profile"
      }
     }
@@ -5940,6 +5940,69 @@
    ]
   },
   {
+   "id": "2514037",
+   "day": "2026-10-16",
+   "title": "WKND X OFFLINE",
+   "start": "2026-10-16T22:00:00.000",
+   "end": "2026-10-17T06:00:00.000",
+   "venue": "Weekend",
+   "url": "https://ra.co/events/2514037",
+   "interested": 6,
+   "genres": [
+    "Techno",
+    "House"
+   ],
+   "image": "https://images.ra.co/32618e7834c6f2be70d9b723ca140f72db3a85c9.png",
+   "artistCount": 3,
+   "allArtists": [
+    "DJ PayPaul",
+    "Tiefschwarz",
+    "Tube & Berger"
+   ],
+   "top": [
+    {
+     "name": "Tube & Berger",
+     "ra_id": "7283",
+     "soundcloud": "https://soundcloud.com/tubeandberger",
+     "sc_id": 302854,
+     "followers": 161462,
+     "set": {
+      "id": 156972475,
+      "title": "Tube & Berger's Deeper Sessions Jul 2014 @SiriusXm (radioshow)",
+      "url": "https://soundcloud.com/tubeandberger/tube-bergers-deeper-sessions-jul-2014-siriusxm-radioshow-1",
+      "minutes": 61,
+      "plays": 430765,
+      "uploader": "TUBE & BERGER",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Tiefschwarz",
+     "ra_id": "277",
+     "soundcloud": "https://soundcloud.com/tiefschwarz",
+     "sc_id": 9153949,
+     "followers": 53075,
+     "set": {
+      "id": 719195167,
+      "title": "Tiefschwarz presents \" A Souvenir from Anna Ullrich\" on Ibiza Global Radio",
+      "url": "https://soundcloud.com/tiefschwarz/igr-anna-ulrichtiefschwarz-presents-a-souvenir-from-anna-ulrich-on-ibiza-global-radio",
+      "minutes": 60,
+      "plays": 45131,
+      "uploader": "Tiefschwarz",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "DJ PayPaul",
+     "ra_id": "139983",
+     "soundcloud": null,
+     "sc_id": null,
+     "followers": null,
+     "set": null
+    }
+   ]
+  },
+  {
    "id": "2548506",
    "day": "2026-10-16",
    "title": "Himmel unter Berlin Vol. III",
@@ -6014,69 +6077,6 @@
    "artistCount": 0,
    "allArtists": [],
    "top": []
-  },
-  {
-   "id": "2514037",
-   "day": "2026-10-16",
-   "title": "WKND X OFFLINE",
-   "start": "2026-10-16T22:00:00.000",
-   "end": "2026-10-17T06:00:00.000",
-   "venue": "Weekend",
-   "url": "https://ra.co/events/2514037",
-   "interested": 6,
-   "genres": [
-    "Techno",
-    "House"
-   ],
-   "image": "https://images.ra.co/32618e7834c6f2be70d9b723ca140f72db3a85c9.png",
-   "artistCount": 3,
-   "allArtists": [
-    "DJ PayPaul",
-    "Tiefschwarz",
-    "Tube & Berger"
-   ],
-   "top": [
-    {
-     "name": "Tube & Berger",
-     "ra_id": "7283",
-     "soundcloud": "https://soundcloud.com/tubeandberger",
-     "sc_id": 302854,
-     "followers": 161462,
-     "set": {
-      "id": 156972475,
-      "title": "Tube & Berger's Deeper Sessions Jul 2014 @SiriusXm (radioshow)",
-      "url": "https://soundcloud.com/tubeandberger/tube-bergers-deeper-sessions-jul-2014-siriusxm-radioshow-1",
-      "minutes": 61,
-      "plays": 430765,
-      "uploader": "TUBE & BERGER",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Tiefschwarz",
-     "ra_id": "277",
-     "soundcloud": "https://soundcloud.com/tiefschwarz",
-     "sc_id": 9153949,
-     "followers": 53075,
-     "set": {
-      "id": 719195167,
-      "title": "Tiefschwarz presents \" A Souvenir from Anna Ullrich\" on Ibiza Global Radio",
-      "url": "https://soundcloud.com/tiefschwarz/igr-anna-ulrichtiefschwarz-presents-a-souvenir-from-anna-ulrich-on-ibiza-global-radio",
-      "minutes": 60,
-      "plays": 45131,
-      "uploader": "Tiefschwarz",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "DJ PayPaul",
-     "ra_id": "139983",
-     "soundcloud": null,
-     "sc_id": null,
-     "followers": null,
-     "set": null
-    }
-   ]
   },
   {
    "id": "2557959",
@@ -6242,6 +6242,77 @@
    ]
   },
   {
+   "id": "2560024",
+   "day": "2026-10-16",
+   "title": "WE KÜYEN x VULVAA POWER w. AP Solis,Girl from the Future, Samer Odeh, Mia b2b Gerti, FENU",
+   "start": "2026-10-16T16:00:00.000",
+   "end": "2026-10-17T03:00:00.000",
+   "venue": "Klunkerkranich",
+   "url": "https://ra.co/events/2560024",
+   "interested": 3,
+   "genres": [
+    "House",
+    "Electronica"
+   ],
+   "image": "https://images.ra.co/3a1923f6109769505710ab52b23074185df53d33.jpg",
+   "artistCount": 3,
+   "allArtists": [
+    "Mia Kober",
+    "DirdyGerdi",
+    "MonoAbe"
+   ],
+   "top": [
+    {
+     "name": "Mia Kober",
+     "ra_id": "164410",
+     "soundcloud": "https://soundcloud.com/mia-kober",
+     "sc_id": 314011813,
+     "followers": 3270,
+     "set": {
+      "id": 2122243053,
+      "title": "Mia Kober | Fusion Festival 2025 | A Seebühne Afternoon",
+      "url": "https://soundcloud.com/mia-kober/mia-kober-fusion-festival-2025-an-afternoon-at-seebuhne",
+      "minutes": 122,
+      "plays": 40867,
+      "uploader": "Mia Kober",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "DirdyGerdi",
+     "ra_id": "160269",
+     "soundcloud": "https://soundcloud.com/dirdygerdi",
+     "sc_id": 8764389,
+     "followers": 1325,
+     "set": {
+      "id": 1462522081,
+      "title": "Splore 2023 | Studebaker Stage @ Lucky Star | Friday 930pm",
+      "url": "https://soundcloud.com/dirdygerdi/splore-2023-studebaker-stage-lucky-star-friday-930pm",
+      "minutes": 88,
+      "plays": 13146,
+      "uploader": "DirdyGerdi",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "MonoAbe",
+     "ra_id": "55191",
+     "soundcloud": "https://soundcloud.com/monoabe",
+     "sc_id": 46016359,
+     "followers": 873,
+     "set": {
+      "id": 2129648496,
+      "title": "Sonnendeck Opening MonoAbe @ Fusion 2025 (3000Grad)",
+      "url": "https://soundcloud.com/monoabe/sonnendeck-opening-monoabe",
+      "minutes": 141,
+      "plays": 2876,
+      "uploader": "MonoAbe",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2560417",
    "day": "2026-10-16",
    "title": "MAAYA meets FESTIVAL OF LIGHTS",
@@ -6308,77 +6379,6 @@
       "minutes": 57,
       "plays": 3000,
       "uploader": "UKAI NDAME",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2560024",
-   "day": "2026-10-16",
-   "title": "WE KÜYEN x VULVAA POWER w. AP Solis,Girl from the Future, Samer Odeh, Mia b2b Gerti, FENU",
-   "start": "2026-10-16T16:00:00.000",
-   "end": "2026-10-17T03:00:00.000",
-   "venue": "Klunkerkranich",
-   "url": "https://ra.co/events/2560024",
-   "interested": 3,
-   "genres": [
-    "House",
-    "Electronica"
-   ],
-   "image": "https://images.ra.co/3a1923f6109769505710ab52b23074185df53d33.jpg",
-   "artistCount": 3,
-   "allArtists": [
-    "Mia Kober",
-    "DirdyGerdi",
-    "MonoAbe"
-   ],
-   "top": [
-    {
-     "name": "Mia Kober",
-     "ra_id": "164410",
-     "soundcloud": "https://soundcloud.com/mia-kober",
-     "sc_id": 314011813,
-     "followers": 3270,
-     "set": {
-      "id": 2122243053,
-      "title": "Mia Kober | Fusion Festival 2025 | A Seebühne Afternoon",
-      "url": "https://soundcloud.com/mia-kober/mia-kober-fusion-festival-2025-an-afternoon-at-seebuhne",
-      "minutes": 122,
-      "plays": 40867,
-      "uploader": "Mia Kober",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "DirdyGerdi",
-     "ra_id": "160269",
-     "soundcloud": "https://soundcloud.com/dirdygerdi",
-     "sc_id": 8764389,
-     "followers": 1325,
-     "set": {
-      "id": 1462522081,
-      "title": "Splore 2023 | Studebaker Stage @ Lucky Star | Friday 930pm",
-      "url": "https://soundcloud.com/dirdygerdi/splore-2023-studebaker-stage-lucky-star-friday-930pm",
-      "minutes": 88,
-      "plays": 13146,
-      "uploader": "DirdyGerdi",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "MonoAbe",
-     "ra_id": "55191",
-     "soundcloud": "https://soundcloud.com/monoabe",
-     "sc_id": 46016359,
-     "followers": 873,
-     "set": {
-      "id": 2129648496,
-      "title": "Sonnendeck Opening MonoAbe @ Fusion 2025 (3000Grad)",
-      "url": "https://soundcloud.com/monoabe/sonnendeck-opening-monoabe",
-      "minutes": 141,
-      "plays": 2876,
-      "uploader": "MonoAbe",
       "source": "profile"
      }
     }
@@ -6489,6 +6489,24 @@
    ]
   },
   {
+   "id": "2559830",
+   "day": "2026-10-16",
+   "title": "The Alonetimes",
+   "start": "2026-10-16T20:00:00.000",
+   "end": "2026-10-16T22:00:00.000",
+   "venue": "Deutsche Oper Berlin",
+   "url": "https://ra.co/events/2559830",
+   "interested": 1,
+   "genres": [
+    "Experimental",
+    "Classical"
+   ],
+   "image": "https://images.ra.co/f47178e67411edac1d9f18cd0ee197052338cd48.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2561648",
    "day": "2026-10-16",
    "title": "Sound Canteen with Eli Bot, charlotti_xoxo",
@@ -6523,24 +6541,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2559830",
-   "day": "2026-10-16",
-   "title": "The Alonetimes",
-   "start": "2026-10-16T20:00:00.000",
-   "end": "2026-10-16T22:00:00.000",
-   "venue": "Deutsche Oper Berlin",
-   "url": "https://ra.co/events/2559830",
-   "interested": 1,
-   "genres": [
-    "Experimental",
-    "Classical"
-   ],
-   "image": "https://images.ra.co/f47178e67411edac1d9f18cd0ee197052338cd48.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2492865",
