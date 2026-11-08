@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T11:41:48Z",
+ "generated": "2026-11-08T11:54:21Z",
  "events": [
   {
    "id": "2552572",
@@ -1532,8 +1532,8 @@
    "url": "https://ra.co/events/2552693",
    "interested": 20,
    "genres": [
-    "Dub",
-    "Afrobeat"
+    "Afrobeat",
+    "Dub"
    ],
    "image": "https://images.ra.co/0e835783eeb29ab59ff6abdca7b5e6b2945a45ec.jpg",
    "artistCount": 0,
@@ -1832,8 +1832,8 @@
    "url": "https://ra.co/events/2555628",
    "interested": 6,
    "genres": [
-    "Jazz",
-    "Afrobeat"
+    "Afrobeat",
+    "Jazz"
    ],
    "image": "https://images.ra.co/4276f5cf7f064db947de82bff9269efba46e82f8.png",
    "artistCount": 0,
@@ -7309,7 +7309,7 @@
    "end": "2026-10-19T06:00:00.000",
    "venue": "Berghain | Panorama Bar | Säule",
    "url": "https://ra.co/events/2524801",
-   "interested": 396,
+   "interested": 397,
    "genres": [],
    "image": "https://images.ra.co/c93bb76e78d3d3abeace9d4a64e64b085dce8395.png",
    "artistCount": 16,
@@ -7390,7 +7390,7 @@
    "end": "2026-10-18T08:00:00.000",
    "venue": "OXI",
    "url": "https://ra.co/events/2528452",
-   "interested": 350,
+   "interested": 351,
    "genres": [
     "House",
     "Disco"
@@ -7931,7 +7931,7 @@
    "end": "2026-10-18T08:00:00.000",
    "venue": "OHM",
    "url": "https://ra.co/events/2522865",
-   "interested": 107,
+   "interested": 108,
    "genres": [
     "House",
     "Dub Techno"
@@ -8801,21 +8801,6 @@
    ]
   },
   {
-   "id": "2533385",
-   "day": "2026-10-17",
-   "title": "FELUKAH · BINT ISHTAR · MOSAÏC BAND - SAWTUHUNNA - صوتهنّ - Berlin",
-   "start": "2026-10-17T19:00:00.000",
-   "end": "2026-10-18T01:00:00.000",
-   "venue": "Säälchen",
-   "url": "https://ra.co/events/2533385",
-   "interested": 43,
-   "genres": [],
-   "image": "https://images.ra.co/064cec5dfd2c9653bb0254227ec1b46beb782316.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2550375",
    "day": "2026-10-17",
    "title": "You Know Where You Are // Cursed invites Wobbla",
@@ -8823,7 +8808,7 @@
    "end": "2026-10-18T05:30:00.000",
    "venue": "TBA",
    "url": "https://ra.co/events/2550375",
-   "interested": 43,
+   "interested": 44,
    "genres": [
     "Dubstep",
     "Experimental"
@@ -8887,6 +8872,21 @@
      }
     }
    ]
+  },
+  {
+   "id": "2533385",
+   "day": "2026-10-17",
+   "title": "FELUKAH · BINT ISHTAR · MOSAÏC BAND - SAWTUHUNNA - صوتهنّ - Berlin",
+   "start": "2026-10-17T19:00:00.000",
+   "end": "2026-10-18T01:00:00.000",
+   "venue": "Säälchen",
+   "url": "https://ra.co/events/2533385",
+   "interested": 43,
+   "genres": [],
+   "image": "https://images.ra.co/064cec5dfd2c9653bb0254227ec1b46beb782316.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2543211",
@@ -9138,6 +9138,60 @@
    ]
   },
   {
+   "id": "2530899",
+   "day": "2026-10-17",
+   "title": "Andriy K. & Tharim Cornelisse + mu tate pres. life of mu",
+   "start": "2026-10-17T20:00:00.000",
+   "end": "2026-10-17T22:00:00.000",
+   "venue": "Silent Green",
+   "url": "https://ra.co/events/2530899",
+   "interested": 33,
+   "genres": [
+    "Ambient",
+    "Experimental"
+   ],
+   "image": "https://images.ra.co/9ed4f4e40f7c2b84cf67657c32efb4f18fae6dce.jpg",
+   "artistCount": 2,
+   "allArtists": [
+    "Andriy K.",
+    "mu tate"
+   ],
+   "top": [
+    {
+     "name": "mu tate",
+     "ra_id": "105231",
+     "soundcloud": "https://soundcloud.com/mu_tate",
+     "sc_id": 7294025,
+     "followers": 4028,
+     "set": {
+      "id": 940208770,
+      "title": "some things last a long time",
+      "url": "https://soundcloud.com/mu_tate/some-things-last-a-long-time",
+      "minutes": 98,
+      "plays": 5038,
+      "uploader": "mu tate",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Andriy K.",
+     "ra_id": "131504",
+     "soundcloud": "https://soundcloud.com/andriy_k",
+     "sc_id": 312774695,
+     "followers": 1896,
+     "set": {
+      "id": 2106645057,
+      "title": "Andriy K. live rec. Silent Green (22.5.2025)",
+      "url": "https://soundcloud.com/andriy_k/andriy-k-live-rec-silent-green",
+      "minutes": 44,
+      "plays": 1563,
+      "uploader": "Andriy K. // cusoon dj",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2532518",
    "day": "2026-10-17",
    "title": "GO ØFF Vol. 1 - Berlin's first phoneless rave",
@@ -9204,60 +9258,6 @@
       "minutes": 118,
       "plays": 4218,
       "uploader": "futurristic",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2530899",
-   "day": "2026-10-17",
-   "title": "Andriy K. & Tharim Cornelisse + mu tate pres. life of mu",
-   "start": "2026-10-17T20:00:00.000",
-   "end": "2026-10-17T22:00:00.000",
-   "venue": "Silent Green",
-   "url": "https://ra.co/events/2530899",
-   "interested": 32,
-   "genres": [
-    "Ambient",
-    "Experimental"
-   ],
-   "image": "https://images.ra.co/9ed4f4e40f7c2b84cf67657c32efb4f18fae6dce.jpg",
-   "artistCount": 2,
-   "allArtists": [
-    "Andriy K.",
-    "mu tate"
-   ],
-   "top": [
-    {
-     "name": "mu tate",
-     "ra_id": "105231",
-     "soundcloud": "https://soundcloud.com/mu_tate",
-     "sc_id": 7294025,
-     "followers": 4028,
-     "set": {
-      "id": 940208770,
-      "title": "some things last a long time",
-      "url": "https://soundcloud.com/mu_tate/some-things-last-a-long-time",
-      "minutes": 98,
-      "plays": 5038,
-      "uploader": "mu tate",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Andriy K.",
-     "ra_id": "131504",
-     "soundcloud": "https://soundcloud.com/andriy_k",
-     "sc_id": 312774695,
-     "followers": 1896,
-     "set": {
-      "id": 2106645057,
-      "title": "Andriy K. live rec. Silent Green (22.5.2025)",
-      "url": "https://soundcloud.com/andriy_k/andriy-k-live-rec-silent-green",
-      "minutes": 44,
-      "plays": 1563,
-      "uploader": "Andriy K. // cusoon dj",
       "source": "profile"
      }
     }
