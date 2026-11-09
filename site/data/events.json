@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T11:54:21Z",
+ "generated": "2026-11-09T13:51:04Z",
  "events": [
   {
    "id": "2552572",
@@ -2413,7 +2413,7 @@
    "end": "2026-10-19T08:00:00.000",
    "venue": "ZENNER",
    "url": "https://ra.co/events/2425900",
-   "interested": 1595,
+   "interested": 1596,
    "genres": [],
    "image": "https://images.ra.co/18d9ccb828dd4ecf33a49cd16e9911be34ea063d.png",
    "artistCount": 37,
@@ -6763,7 +6763,7 @@
    "end": "2026-10-19T08:00:00.000",
    "venue": "ZENNER",
    "url": "https://ra.co/events/2425900",
-   "interested": 1595,
+   "interested": 1596,
    "genres": [],
    "image": "https://images.ra.co/18d9ccb828dd4ecf33a49cd16e9911be34ea063d.png",
    "artistCount": 37,
