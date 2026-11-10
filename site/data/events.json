@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T13:51:04Z",
+ "generated": "2026-11-10T13:26:35Z",
  "events": [
   {
    "id": "2552572",
@@ -5940,69 +5940,6 @@
    ]
   },
   {
-   "id": "2514037",
-   "day": "2026-10-16",
-   "title": "WKND X OFFLINE",
-   "start": "2026-10-16T22:00:00.000",
-   "end": "2026-10-17T06:00:00.000",
-   "venue": "Weekend",
-   "url": "https://ra.co/events/2514037",
-   "interested": 6,
-   "genres": [
-    "Techno",
-    "House"
-   ],
-   "image": "https://images.ra.co/32618e7834c6f2be70d9b723ca140f72db3a85c9.png",
-   "artistCount": 3,
-   "allArtists": [
-    "DJ PayPaul",
-    "Tiefschwarz",
-    "Tube & Berger"
-   ],
-   "top": [
-    {
-     "name": "Tube & Berger",
-     "ra_id": "7283",
-     "soundcloud": "https://soundcloud.com/tubeandberger",
-     "sc_id": 302854,
-     "followers": 161462,
-     "set": {
-      "id": 156972475,
-      "title": "Tube & Berger's Deeper Sessions Jul 2014 @SiriusXm (radioshow)",
-      "url": "https://soundcloud.com/tubeandberger/tube-bergers-deeper-sessions-jul-2014-siriusxm-radioshow-1",
-      "minutes": 61,
-      "plays": 430765,
-      "uploader": "TUBE & BERGER",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Tiefschwarz",
-     "ra_id": "277",
-     "soundcloud": "https://soundcloud.com/tiefschwarz",
-     "sc_id": 9153949,
-     "followers": 53075,
-     "set": {
-      "id": 719195167,
-      "title": "Tiefschwarz presents \" A Souvenir from Anna Ullrich\" on Ibiza Global Radio",
-      "url": "https://soundcloud.com/tiefschwarz/igr-anna-ulrichtiefschwarz-presents-a-souvenir-from-anna-ulrich-on-ibiza-global-radio",
-      "minutes": 60,
-      "plays": 45131,
-      "uploader": "Tiefschwarz",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "DJ PayPaul",
-     "ra_id": "139983",
-     "soundcloud": null,
-     "sc_id": null,
-     "followers": null,
-     "set": null
-    }
-   ]
-  },
-  {
    "id": "2548506",
    "day": "2026-10-16",
    "title": "Himmel unter Berlin Vol. III",
@@ -6077,6 +6014,69 @@
    "artistCount": 0,
    "allArtists": [],
    "top": []
+  },
+  {
+   "id": "2514037",
+   "day": "2026-10-16",
+   "title": "WKND X OFFLINE",
+   "start": "2026-10-16T22:00:00.000",
+   "end": "2026-10-17T06:00:00.000",
+   "venue": "Weekend",
+   "url": "https://ra.co/events/2514037",
+   "interested": 6,
+   "genres": [
+    "Techno",
+    "House"
+   ],
+   "image": "https://images.ra.co/32618e7834c6f2be70d9b723ca140f72db3a85c9.png",
+   "artistCount": 3,
+   "allArtists": [
+    "DJ PayPaul",
+    "Tiefschwarz",
+    "Tube & Berger"
+   ],
+   "top": [
+    {
+     "name": "Tube & Berger",
+     "ra_id": "7283",
+     "soundcloud": "https://soundcloud.com/tubeandberger",
+     "sc_id": 302854,
+     "followers": 161462,
+     "set": {
+      "id": 156972475,
+      "title": "Tube & Berger's Deeper Sessions Jul 2014 @SiriusXm (radioshow)",
+      "url": "https://soundcloud.com/tubeandberger/tube-bergers-deeper-sessions-jul-2014-siriusxm-radioshow-1",
+      "minutes": 61,
+      "plays": 430765,
+      "uploader": "TUBE & BERGER",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Tiefschwarz",
+     "ra_id": "277",
+     "soundcloud": "https://soundcloud.com/tiefschwarz",
+     "sc_id": 9153949,
+     "followers": 53075,
+     "set": {
+      "id": 719195167,
+      "title": "Tiefschwarz presents \" A Souvenir from Anna Ullrich\" on Ibiza Global Radio",
+      "url": "https://soundcloud.com/tiefschwarz/igr-anna-ulrichtiefschwarz-presents-a-souvenir-from-anna-ulrich-on-ibiza-global-radio",
+      "minutes": 60,
+      "plays": 45131,
+      "uploader": "Tiefschwarz",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "DJ PayPaul",
+     "ra_id": "139983",
+     "soundcloud": null,
+     "sc_id": null,
+     "followers": null,
+     "set": null
+    }
+   ]
   },
   {
    "id": "2557959",
@@ -7204,7 +7204,7 @@
     "Tech House"
    ],
    "image": "https://images.ra.co/766081697e333416ff02c517c5653910dd4a38f6.png",
-   "artistCount": 9,
+   "artistCount": 10,
    "allArtists": [
     "Berto (DE)",
     "Fab Massimo",
@@ -7213,6 +7213,7 @@
     "Roman Adam",
     "Rosa Kante",
     "Sarah Wild",
+    "Trilingo",
     "unDs",
     "Fast (DE)"
    ],
