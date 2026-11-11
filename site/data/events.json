@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T13:26:35Z",
+ "generated": "2026-11-11T12:41:53Z",
  "events": [
   {
    "id": "2552572",
@@ -86,7 +86,7 @@
     "Tech House"
    ],
    "image": "https://images.ra.co/c3aa09f42f63f14e77a90411a863b57150c0354a.jpg",
-   "artistCount": 10,
+   "artistCount": 11,
    "allArtists": [
     "Uninvited",
     "Blck-Swan",
@@ -95,6 +95,7 @@
     "EVYA",
     "Vantavision",
     "Thyrse",
+    "JORDVN PRINCE",
     "VEGANICECREAM",
     "Marcel (1)",
     "April the pink"
@@ -117,6 +118,22 @@
      }
     },
     {
+     "name": "JORDVN PRINCE",
+     "ra_id": "191677",
+     "soundcloud": "https://soundcloud.com/jordvnprince",
+     "sc_id": 61904072,
+     "followers": 1321,
+     "set": {
+      "id": 2373819920,
+      "title": "Best of Hard Techno Bounce Trance Psytrance Full Set / Mix by JORDVN PRINCE",
+      "url": "https://soundcloud.com/jordvnprince/best-of-hard-techno-bounce",
+      "minutes": 53,
+      "plays": 195,
+      "uploader": "JORDVN PRINCE",
+      "source": "profile"
+     }
+    },
+    {
      "name": "Blck-Swan",
      "ra_id": "144676",
      "soundcloud": "https://soundcloud.com/azhagen-appasamy",
@@ -129,22 +146,6 @@
       "minutes": 111,
       "plays": 748,
       "uploader": "Blck Swan",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "EVYA",
-     "ra_id": "175784",
-     "soundcloud": "https://soundcloud.com/evyapsytech",
-     "sc_id": 1090065205,
-     "followers": 125,
-     "set": {
-      "id": 2414087097,
-      "title": "EVYA - HardBounce Rave | LIVE @ BBTD // 03.10.2026",
-      "url": "https://soundcloud.com/evyapsytech/bbtd20261003",
-      "minutes": 71,
-      "plays": 771,
-      "uploader": "EVYA",
       "source": "profile"
      }
     }
@@ -1841,66 +1842,6 @@
    "top": []
   },
   {
-   "id": "2556828",
-   "day": "2026-10-15",
-   "title": "Donnerdogge",
-   "start": "2026-10-15T23:59:00.000",
-   "end": "2026-10-16T12:00:00.000",
-   "venue": "Golden Gate",
-   "url": "https://ra.co/events/2556828",
-   "interested": 6,
-   "genres": [],
-   "image": "https://images.ra.co/fee0928d0cbf9b63a1040ea24a13f5cc52fa7d5a.jpg",
-   "artistCount": 3,
-   "allArtists": [
-    "Jakob Seidensticker",
-    "MELINA (3)",
-    "A.B.U."
-   ],
-   "top": [
-    {
-     "name": "Jakob Seidensticker",
-     "ra_id": "4007",
-     "soundcloud": "https://soundcloud.com/jakobseidenstickermusic",
-     "sc_id": 395665110,
-     "followers": 763,
-     "set": {
-      "id": 399613296,
-      "title": "Jakob Seidensticker & Boronas playin' b2b vinyl only at Kater Kiosk, Feb 2018",
-      "url": "https://soundcloud.com/jakobseidenstickermusic/jakob-seidensticker-boronas-playin-b2b-vinyl-only-at-kater-kiosk-feb-2018",
-      "minutes": 105,
-      "plays": 6766,
-      "uploader": "Jakob Seidensticker",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "A.B.U.",
-     "ra_id": "163112",
-     "soundcloud": "https://soundcloud.com/aburesonanz",
-     "sc_id": 34911106,
-     "followers": 725,
-     "set": {
-      "id": 2401146603,
-      "title": "A.B.U. @Südpol  12.09.2026  ㋡",
-      "url": "https://soundcloud.com/aburesonanz/a-b-u-s-dpol-12-09-2026",
-      "minutes": 157,
-      "plays": 183,
-      "uploader": "A.B.U",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "MELINA (3)",
-     "ra_id": "135087",
-     "soundcloud": "https://soundcloud.com/melina-fleischmann-1",
-     "sc_id": 122418905,
-     "followers": 20,
-     "set": null
-    }
-   ]
-  },
-  {
    "id": "2561068",
    "day": "2026-10-15",
    "title": "❖ Cosmic Thursdays meets Mellowflex ❖",
@@ -1968,6 +1909,67 @@
       "uploader": "ANTYA",
       "source": "profile"
      }
+    }
+   ]
+  },
+  {
+   "id": "2556828",
+   "day": "2026-10-15",
+   "title": "Donnerdogge",
+   "start": "2026-10-15T23:59:00.000",
+   "end": "2026-10-16T12:00:00.000",
+   "venue": "Golden Gate",
+   "url": "https://ra.co/events/2556828",
+   "interested": 6,
+   "genres": [],
+   "image": "https://images.ra.co/fee0928d0cbf9b63a1040ea24a13f5cc52fa7d5a.jpg",
+   "artistCount": 4,
+   "allArtists": [
+    "Jakob Seidensticker",
+    "MELINA (3)",
+    "A.B.U.",
+    "stbr"
+   ],
+   "top": [
+    {
+     "name": "Jakob Seidensticker",
+     "ra_id": "4007",
+     "soundcloud": "https://soundcloud.com/jakobseidenstickermusic",
+     "sc_id": 395665110,
+     "followers": 763,
+     "set": {
+      "id": 399613296,
+      "title": "Jakob Seidensticker & Boronas playin' b2b vinyl only at Kater Kiosk, Feb 2018",
+      "url": "https://soundcloud.com/jakobseidenstickermusic/jakob-seidensticker-boronas-playin-b2b-vinyl-only-at-kater-kiosk-feb-2018",
+      "minutes": 105,
+      "plays": 6766,
+      "uploader": "Jakob Seidensticker",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "A.B.U.",
+     "ra_id": "163112",
+     "soundcloud": "https://soundcloud.com/aburesonanz",
+     "sc_id": 34911106,
+     "followers": 725,
+     "set": {
+      "id": 2401146603,
+      "title": "A.B.U. @Südpol  12.09.2026  ㋡",
+      "url": "https://soundcloud.com/aburesonanz/a-b-u-s-dpol-12-09-2026",
+      "minutes": 157,
+      "plays": 183,
+      "uploader": "A.B.U",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "MELINA (3)",
+     "ra_id": "135087",
+     "soundcloud": "https://soundcloud.com/melina-fleischmann-1",
+     "sc_id": 122418905,
+     "followers": 20,
+     "set": null
     }
    ]
   },
@@ -2598,7 +2600,7 @@
     "House"
    ],
    "image": "https://images.ra.co/e73b026a5c4aadb004a2b1f800a7c719b15699e2.jpg",
-   "artistCount": 55,
+   "artistCount": 56,
    "allArtists": [
     "Adri Tüde",
     "The Bille",
@@ -2606,6 +2608,7 @@
     "Apolonia",
     "Borella",
     "Boskopp",
+    "Chioma",
     "Ciao 3lla",
     "Corios",
     "Daniel Neuland",
@@ -3673,7 +3676,7 @@
     "Techno"
    ],
    "image": "https://images.ra.co/63914ae67fb87b92a9f0961d0e5ce423882b2bfb.jpg",
-   "artistCount": 9,
+   "artistCount": 10,
    "allArtists": [
     "Millie Forsberg",
     "SKKIN VELVET",
@@ -3682,6 +3685,7 @@
     "Hanne B",
     "Simon Stiglmeier",
     "Asem Shama",
+    "Vannood",
     "peak2soon",
     "LIRICA"
    ],
@@ -5940,6 +5944,69 @@
    ]
   },
   {
+   "id": "2514037",
+   "day": "2026-10-16",
+   "title": "WKND X OFFLINE",
+   "start": "2026-10-16T22:00:00.000",
+   "end": "2026-10-17T06:00:00.000",
+   "venue": "Weekend",
+   "url": "https://ra.co/events/2514037",
+   "interested": 6,
+   "genres": [
+    "Techno",
+    "House"
+   ],
+   "image": "https://images.ra.co/32618e7834c6f2be70d9b723ca140f72db3a85c9.png",
+   "artistCount": 3,
+   "allArtists": [
+    "DJ PayPaul",
+    "Tiefschwarz",
+    "Tube & Berger"
+   ],
+   "top": [
+    {
+     "name": "Tube & Berger",
+     "ra_id": "7283",
+     "soundcloud": "https://soundcloud.com/tubeandberger",
+     "sc_id": 302854,
+     "followers": 161462,
+     "set": {
+      "id": 156972475,
+      "title": "Tube & Berger's Deeper Sessions Jul 2014 @SiriusXm (radioshow)",
+      "url": "https://soundcloud.com/tubeandberger/tube-bergers-deeper-sessions-jul-2014-siriusxm-radioshow-1",
+      "minutes": 61,
+      "plays": 430765,
+      "uploader": "TUBE & BERGER",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Tiefschwarz",
+     "ra_id": "277",
+     "soundcloud": "https://soundcloud.com/tiefschwarz",
+     "sc_id": 9153949,
+     "followers": 53075,
+     "set": {
+      "id": 719195167,
+      "title": "Tiefschwarz presents \" A Souvenir from Anna Ullrich\" on Ibiza Global Radio",
+      "url": "https://soundcloud.com/tiefschwarz/igr-anna-ulrichtiefschwarz-presents-a-souvenir-from-anna-ulrich-on-ibiza-global-radio",
+      "minutes": 60,
+      "plays": 45131,
+      "uploader": "Tiefschwarz",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "DJ PayPaul",
+     "ra_id": "139983",
+     "soundcloud": null,
+     "sc_id": null,
+     "followers": null,
+     "set": null
+    }
+   ]
+  },
+  {
    "id": "2548506",
    "day": "2026-10-16",
    "title": "Himmel unter Berlin Vol. III",
@@ -6014,69 +6081,6 @@
    "artistCount": 0,
    "allArtists": [],
    "top": []
-  },
-  {
-   "id": "2514037",
-   "day": "2026-10-16",
-   "title": "WKND X OFFLINE",
-   "start": "2026-10-16T22:00:00.000",
-   "end": "2026-10-17T06:00:00.000",
-   "venue": "Weekend",
-   "url": "https://ra.co/events/2514037",
-   "interested": 6,
-   "genres": [
-    "Techno",
-    "House"
-   ],
-   "image": "https://images.ra.co/32618e7834c6f2be70d9b723ca140f72db3a85c9.png",
-   "artistCount": 3,
-   "allArtists": [
-    "DJ PayPaul",
-    "Tiefschwarz",
-    "Tube & Berger"
-   ],
-   "top": [
-    {
-     "name": "Tube & Berger",
-     "ra_id": "7283",
-     "soundcloud": "https://soundcloud.com/tubeandberger",
-     "sc_id": 302854,
-     "followers": 161462,
-     "set": {
-      "id": 156972475,
-      "title": "Tube & Berger's Deeper Sessions Jul 2014 @SiriusXm (radioshow)",
-      "url": "https://soundcloud.com/tubeandberger/tube-bergers-deeper-sessions-jul-2014-siriusxm-radioshow-1",
-      "minutes": 61,
-      "plays": 430765,
-      "uploader": "TUBE & BERGER",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Tiefschwarz",
-     "ra_id": "277",
-     "soundcloud": "https://soundcloud.com/tiefschwarz",
-     "sc_id": 9153949,
-     "followers": 53075,
-     "set": {
-      "id": 719195167,
-      "title": "Tiefschwarz presents \" A Souvenir from Anna Ullrich\" on Ibiza Global Radio",
-      "url": "https://soundcloud.com/tiefschwarz/igr-anna-ulrichtiefschwarz-presents-a-souvenir-from-anna-ulrich-on-ibiza-global-radio",
-      "minutes": 60,
-      "plays": 45131,
-      "uploader": "Tiefschwarz",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "DJ PayPaul",
-     "ra_id": "139983",
-     "soundcloud": null,
-     "sc_id": null,
-     "followers": null,
-     "set": null
-    }
-   ]
   },
   {
    "id": "2557959",
@@ -6944,7 +6948,7 @@
     "House"
    ],
    "image": "https://images.ra.co/e73b026a5c4aadb004a2b1f800a7c719b15699e2.jpg",
-   "artistCount": 55,
+   "artistCount": 56,
    "allArtists": [
     "Adri Tüde",
     "The Bille",
@@ -6952,6 +6956,7 @@
     "Apolonia",
     "Borella",
     "Boskopp",
+    "Chioma",
     "Ciao 3lla",
     "Corios",
     "Daniel Neuland",
@@ -10293,77 +10298,6 @@
    "top": []
   },
   {
-   "id": "2546344",
-   "day": "2026-10-17",
-   "title": "Haus of House",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T04:00:00.000",
-   "venue": "Promenaden Eck",
-   "url": "https://ra.co/events/2546344",
-   "interested": 9,
-   "genres": [
-    "House",
-    "Tech House"
-   ],
-   "image": "https://images.ra.co/72aac5287b49723a8938f6318d222202b198367a.jpg",
-   "artistCount": 3,
-   "allArtists": [
-    "Clarence (2)",
-    "Guido Iacovitti",
-    "Gabriele Congedo"
-   ],
-   "top": [
-    {
-     "name": "Gabriele Congedo",
-     "ra_id": "142277",
-     "soundcloud": "https://soundcloud.com/iamgabrielecongedo",
-     "sc_id": 708229393,
-     "followers": 869,
-     "set": {
-      "id": 1151809921,
-      "title": "Music Book Page #60 Guest Mix - Gabriele Congedo",
-      "url": "https://soundcloud.com/iamgabrielecongedo/music-book-page-60-guest-mix-gabriele-congedo",
-      "minutes": 60,
-      "plays": 406,
-      "uploader": "Gabriele Congedo",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Clarence (2)",
-     "ra_id": "158214",
-     "soundcloud": "https://soundcloud.com/clarence",
-     "sc_id": 597461,
-     "followers": 821,
-     "set": {
-      "id": 2309441834,
-      "title": "Clarence @ Bulbul 2026-04-23 (Vinyl only)",
-      "url": "https://soundcloud.com/clarence/clarence-bulbul-2026-04-23",
-      "minutes": 69,
-      "plays": 193,
-      "uploader": "Clarence",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Guido Iacovitti",
-     "ra_id": "148406",
-     "soundcloud": "https://soundcloud.com/breakthemusic",
-     "sc_id": 98111350,
-     "followers": 22,
-     "set": {
-      "id": 1818833562,
-      "title": "Guido Iacovitti M01 Berlin",
-      "url": "https://soundcloud.com/breakthemusic/guido-iacovitti-m01-berlin",
-      "minutes": 64,
-      "plays": 77,
-      "uploader": "Guido Iacovitti",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2546354",
    "day": "2026-10-17",
    "title": "Electric Baile (Italo Disco - Euro Disco - Hi NRG) at Eschschloraque",
@@ -10549,6 +10483,78 @@
       "minutes": 65,
       "plays": 277,
       "uploader": "Karolanne",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2546344",
+   "day": "2026-10-17",
+   "title": "Haus of House",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T04:00:00.000",
+   "venue": "Promenaden Eck",
+   "url": "https://ra.co/events/2546344",
+   "interested": 9,
+   "genres": [
+    "House",
+    "Tech House"
+   ],
+   "image": "https://images.ra.co/72aac5287b49723a8938f6318d222202b198367a.jpg",
+   "artistCount": 4,
+   "allArtists": [
+    "Clarence (2)",
+    "Guido Iacovitti",
+    "Gabriele Congedo",
+    "Leniwave"
+   ],
+   "top": [
+    {
+     "name": "Gabriele Congedo",
+     "ra_id": "142277",
+     "soundcloud": "https://soundcloud.com/iamgabrielecongedo",
+     "sc_id": 708229393,
+     "followers": 869,
+     "set": {
+      "id": 1151809921,
+      "title": "Music Book Page #60 Guest Mix - Gabriele Congedo",
+      "url": "https://soundcloud.com/iamgabrielecongedo/music-book-page-60-guest-mix-gabriele-congedo",
+      "minutes": 60,
+      "plays": 406,
+      "uploader": "Gabriele Congedo",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Clarence (2)",
+     "ra_id": "158214",
+     "soundcloud": "https://soundcloud.com/clarence",
+     "sc_id": 597461,
+     "followers": 821,
+     "set": {
+      "id": 2309441834,
+      "title": "Clarence @ Bulbul 2026-04-23 (Vinyl only)",
+      "url": "https://soundcloud.com/clarence/clarence-bulbul-2026-04-23",
+      "minutes": 69,
+      "plays": 193,
+      "uploader": "Clarence",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Leniwave",
+     "ra_id": "189433",
+     "soundcloud": "https://soundcloud.com/djleniwave",
+     "sc_id": 1397687145,
+     "followers": 187,
+     "set": {
+      "id": 2248842659,
+      "title": "LeniWave – Live Festival Set",
+      "url": "https://soundcloud.com/djleniwave/leniwave-heaven-hill-dj",
+      "minutes": 32,
+      "plays": 161,
+      "uploader": "LeniWave",
       "source": "profile"
      }
     }

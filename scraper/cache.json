@@ -8281,5 +8281,58 @@
   "soundcloud": "https://soundcloud.com/trilingo",
   "sc_id": 5212265,
   "followers": 5843
+ },
+ "191677": {
+  "name": "JORDVN PRINCE",
+  "ra_id": "191677",
+  "soundcloud": "https://soundcloud.com/jordvnprince",
+  "sc_id": 61904072,
+  "followers": 1321
+ },
+ "set:191677": {
+  "id": 2373819920,
+  "title": "Best of Hard Techno Bounce Trance Psytrance Full Set / Mix by JORDVN PRINCE",
+  "url": "https://soundcloud.com/jordvnprince/best-of-hard-techno-bounce",
+  "minutes": 53,
+  "plays": 195,
+  "uploader": "JORDVN PRINCE",
+  "source": "profile"
+ },
+ "189116": {
+  "name": "stbr",
+  "ra_id": "189116",
+  "soundcloud": "https://soundcloud.com/adrian-aburto-gomez-692000901",
+  "sc_id": 1434537440,
+  "followers": 0
+ },
+ "175362": {
+  "name": "Chioma",
+  "ra_id": "175362",
+  "soundcloud": "https://soundcloud.com/chiomasound",
+  "sc_id": 677621147,
+  "followers": 399
+ },
+ "189195": {
+  "name": "Vannood",
+  "ra_id": "189195",
+  "soundcloud": "https://soundcloud.com/vannood",
+  "sc_id": 27512098,
+  "followers": 1372
+ },
+ "189433": {
+  "name": "Leniwave",
+  "ra_id": "189433",
+  "soundcloud": "https://soundcloud.com/djleniwave",
+  "sc_id": 1397687145,
+  "followers": 187
+ },
+ "set:189433": {
+  "id": 2248842659,
+  "title": "LeniWave \u2013 Live Festival Set",
+  "url": "https://soundcloud.com/djleniwave/leniwave-heaven-hill-dj",
+  "minutes": 32,
+  "plays": 161,
+  "uploader": "LeniWave",
+  "source": "profile"
  }
 }
