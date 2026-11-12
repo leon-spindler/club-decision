@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T12:41:53Z",
+ "generated": "2026-11-12T13:44:03Z",
  "events": [
   {
    "id": "2552572",
@@ -1533,8 +1533,8 @@
    "url": "https://ra.co/events/2552693",
    "interested": 20,
    "genres": [
-    "Afrobeat",
-    "Dub"
+    "Dub",
+    "Afrobeat"
    ],
    "image": "https://images.ra.co/0e835783eeb29ab59ff6abdca7b5e6b2945a45ec.jpg",
    "artistCount": 0,
@@ -1833,13 +1833,74 @@
    "url": "https://ra.co/events/2555628",
    "interested": 6,
    "genres": [
-    "Afrobeat",
-    "Jazz"
+    "Jazz",
+    "Afrobeat"
    ],
    "image": "https://images.ra.co/4276f5cf7f064db947de82bff9269efba46e82f8.png",
    "artistCount": 0,
    "allArtists": [],
    "top": []
+  },
+  {
+   "id": "2556828",
+   "day": "2026-10-15",
+   "title": "Donnerdogge",
+   "start": "2026-10-15T23:59:00.000",
+   "end": "2026-10-16T12:00:00.000",
+   "venue": "Golden Gate",
+   "url": "https://ra.co/events/2556828",
+   "interested": 6,
+   "genres": [],
+   "image": "https://images.ra.co/fee0928d0cbf9b63a1040ea24a13f5cc52fa7d5a.jpg",
+   "artistCount": 4,
+   "allArtists": [
+    "Jakob Seidensticker",
+    "MELINA (3)",
+    "A.B.U.",
+    "stbr"
+   ],
+   "top": [
+    {
+     "name": "Jakob Seidensticker",
+     "ra_id": "4007",
+     "soundcloud": "https://soundcloud.com/jakobseidenstickermusic",
+     "sc_id": 395665110,
+     "followers": 763,
+     "set": {
+      "id": 399613296,
+      "title": "Jakob Seidensticker & Boronas playin' b2b vinyl only at Kater Kiosk, Feb 2018",
+      "url": "https://soundcloud.com/jakobseidenstickermusic/jakob-seidensticker-boronas-playin-b2b-vinyl-only-at-kater-kiosk-feb-2018",
+      "minutes": 105,
+      "plays": 6766,
+      "uploader": "Jakob Seidensticker",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "A.B.U.",
+     "ra_id": "163112",
+     "soundcloud": "https://soundcloud.com/aburesonanz",
+     "sc_id": 34911106,
+     "followers": 725,
+     "set": {
+      "id": 2401146603,
+      "title": "A.B.U. @Südpol  12.09.2026  ㋡",
+      "url": "https://soundcloud.com/aburesonanz/a-b-u-s-dpol-12-09-2026",
+      "minutes": 157,
+      "plays": 183,
+      "uploader": "A.B.U",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "MELINA (3)",
+     "ra_id": "135087",
+     "soundcloud": "https://soundcloud.com/melina-fleischmann-1",
+     "sc_id": 122418905,
+     "followers": 20,
+     "set": null
+    }
+   ]
   },
   {
    "id": "2561068",
@@ -1909,67 +1970,6 @@
       "uploader": "ANTYA",
       "source": "profile"
      }
-    }
-   ]
-  },
-  {
-   "id": "2556828",
-   "day": "2026-10-15",
-   "title": "Donnerdogge",
-   "start": "2026-10-15T23:59:00.000",
-   "end": "2026-10-16T12:00:00.000",
-   "venue": "Golden Gate",
-   "url": "https://ra.co/events/2556828",
-   "interested": 6,
-   "genres": [],
-   "image": "https://images.ra.co/fee0928d0cbf9b63a1040ea24a13f5cc52fa7d5a.jpg",
-   "artistCount": 4,
-   "allArtists": [
-    "Jakob Seidensticker",
-    "MELINA (3)",
-    "A.B.U.",
-    "stbr"
-   ],
-   "top": [
-    {
-     "name": "Jakob Seidensticker",
-     "ra_id": "4007",
-     "soundcloud": "https://soundcloud.com/jakobseidenstickermusic",
-     "sc_id": 395665110,
-     "followers": 763,
-     "set": {
-      "id": 399613296,
-      "title": "Jakob Seidensticker & Boronas playin' b2b vinyl only at Kater Kiosk, Feb 2018",
-      "url": "https://soundcloud.com/jakobseidenstickermusic/jakob-seidensticker-boronas-playin-b2b-vinyl-only-at-kater-kiosk-feb-2018",
-      "minutes": 105,
-      "plays": 6766,
-      "uploader": "Jakob Seidensticker",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "A.B.U.",
-     "ra_id": "163112",
-     "soundcloud": "https://soundcloud.com/aburesonanz",
-     "sc_id": 34911106,
-     "followers": 725,
-     "set": {
-      "id": 2401146603,
-      "title": "A.B.U. @Südpol  12.09.2026  ㋡",
-      "url": "https://soundcloud.com/aburesonanz/a-b-u-s-dpol-12-09-2026",
-      "minutes": 157,
-      "plays": 183,
-      "uploader": "A.B.U",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "MELINA (3)",
-     "ra_id": "135087",
-     "soundcloud": "https://soundcloud.com/melina-fleischmann-1",
-     "sc_id": 122418905,
-     "followers": 20,
-     "set": null
     }
    ]
   },
@@ -10298,6 +10298,78 @@
    "top": []
   },
   {
+   "id": "2546344",
+   "day": "2026-10-17",
+   "title": "Haus of House",
+   "start": "2026-10-17T22:00:00.000",
+   "end": "2026-10-18T04:00:00.000",
+   "venue": "Promenaden Eck",
+   "url": "https://ra.co/events/2546344",
+   "interested": 9,
+   "genres": [
+    "House",
+    "Tech House"
+   ],
+   "image": "https://images.ra.co/72aac5287b49723a8938f6318d222202b198367a.jpg",
+   "artistCount": 4,
+   "allArtists": [
+    "Clarence (2)",
+    "Guido Iacovitti",
+    "Gabriele Congedo",
+    "Leniwave"
+   ],
+   "top": [
+    {
+     "name": "Gabriele Congedo",
+     "ra_id": "142277",
+     "soundcloud": "https://soundcloud.com/iamgabrielecongedo",
+     "sc_id": 708229393,
+     "followers": 869,
+     "set": {
+      "id": 1151809921,
+      "title": "Music Book Page #60 Guest Mix - Gabriele Congedo",
+      "url": "https://soundcloud.com/iamgabrielecongedo/music-book-page-60-guest-mix-gabriele-congedo",
+      "minutes": 60,
+      "plays": 406,
+      "uploader": "Gabriele Congedo",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Clarence (2)",
+     "ra_id": "158214",
+     "soundcloud": "https://soundcloud.com/clarence",
+     "sc_id": 597461,
+     "followers": 821,
+     "set": {
+      "id": 2309441834,
+      "title": "Clarence @ Bulbul 2026-04-23 (Vinyl only)",
+      "url": "https://soundcloud.com/clarence/clarence-bulbul-2026-04-23",
+      "minutes": 69,
+      "plays": 193,
+      "uploader": "Clarence",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Leniwave",
+     "ra_id": "189433",
+     "soundcloud": "https://soundcloud.com/djleniwave",
+     "sc_id": 1397687145,
+     "followers": 187,
+     "set": {
+      "id": 2248842659,
+      "title": "LeniWave – Live Festival Set",
+      "url": "https://soundcloud.com/djleniwave/leniwave-heaven-hill-dj",
+      "minutes": 32,
+      "plays": 161,
+      "uploader": "LeniWave",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2546354",
    "day": "2026-10-17",
    "title": "Electric Baile (Italo Disco - Euro Disco - Hi NRG) at Eschschloraque",
@@ -10483,78 +10555,6 @@
       "minutes": 65,
       "plays": 277,
       "uploader": "Karolanne",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2546344",
-   "day": "2026-10-17",
-   "title": "Haus of House",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T04:00:00.000",
-   "venue": "Promenaden Eck",
-   "url": "https://ra.co/events/2546344",
-   "interested": 9,
-   "genres": [
-    "House",
-    "Tech House"
-   ],
-   "image": "https://images.ra.co/72aac5287b49723a8938f6318d222202b198367a.jpg",
-   "artistCount": 4,
-   "allArtists": [
-    "Clarence (2)",
-    "Guido Iacovitti",
-    "Gabriele Congedo",
-    "Leniwave"
-   ],
-   "top": [
-    {
-     "name": "Gabriele Congedo",
-     "ra_id": "142277",
-     "soundcloud": "https://soundcloud.com/iamgabrielecongedo",
-     "sc_id": 708229393,
-     "followers": 869,
-     "set": {
-      "id": 1151809921,
-      "title": "Music Book Page #60 Guest Mix - Gabriele Congedo",
-      "url": "https://soundcloud.com/iamgabrielecongedo/music-book-page-60-guest-mix-gabriele-congedo",
-      "minutes": 60,
-      "plays": 406,
-      "uploader": "Gabriele Congedo",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Clarence (2)",
-     "ra_id": "158214",
-     "soundcloud": "https://soundcloud.com/clarence",
-     "sc_id": 597461,
-     "followers": 821,
-     "set": {
-      "id": 2309441834,
-      "title": "Clarence @ Bulbul 2026-04-23 (Vinyl only)",
-      "url": "https://soundcloud.com/clarence/clarence-bulbul-2026-04-23",
-      "minutes": 69,
-      "plays": 193,
-      "uploader": "Clarence",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Leniwave",
-     "ra_id": "189433",
-     "soundcloud": "https://soundcloud.com/djleniwave",
-     "sc_id": 1397687145,
-     "followers": 187,
-     "set": {
-      "id": 2248842659,
-      "title": "LeniWave – Live Festival Set",
-      "url": "https://soundcloud.com/djleniwave/leniwave-heaven-hill-dj",
-      "minutes": 32,
-      "plays": 161,
-      "uploader": "LeniWave",
       "source": "profile"
      }
     }
