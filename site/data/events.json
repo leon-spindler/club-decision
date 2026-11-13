@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T13:44:03Z",
+ "generated": "2026-11-13T13:03:40Z",
  "events": [
   {
    "id": "2552572",
@@ -994,13 +994,14 @@
     "Experimental"
    ],
    "image": "https://images.ra.co/4fe98ee82ec68569a8b50ba8a1ba1181429c02f4.png",
-   "artistCount": 6,
+   "artistCount": 7,
    "allArtists": [
     "re:ni",
     "Vorraum",
     "Harba",
     "Delta Division",
     "Brootworth",
+    "rogine",
     "Rompa"
    ],
    "top": [
@@ -1533,8 +1534,8 @@
    "url": "https://ra.co/events/2552693",
    "interested": 20,
    "genres": [
-    "Dub",
-    "Afrobeat"
+    "Afrobeat",
+    "Dub"
    ],
    "image": "https://images.ra.co/0e835783eeb29ab59ff6abdca7b5e6b2945a45ec.jpg",
    "artistCount": 0,
@@ -1833,8 +1834,8 @@
    "url": "https://ra.co/events/2555628",
    "interested": 6,
    "genres": [
-    "Jazz",
-    "Afrobeat"
+    "Afrobeat",
+    "Jazz"
    ],
    "image": "https://images.ra.co/4276f5cf7f064db947de82bff9269efba46e82f8.png",
    "artistCount": 0,
@@ -1974,6 +1975,42 @@
    ]
   },
   {
+   "id": "2557353",
+   "day": "2026-10-15",
+   "title": "HOUSE EDUCATION #08",
+   "start": "2026-10-15T18:00:00.000",
+   "end": "2026-10-15T23:59:00.000",
+   "venue": "Fitzroy",
+   "url": "https://ra.co/events/2557353",
+   "interested": 5,
+   "genres": [
+    "House"
+   ],
+   "image": "https://images.ra.co/1fe59ede89afec8f6663e1fc77b73509423bdde9.png",
+   "artistCount": 1,
+   "allArtists": [
+    "Chris Rey"
+   ],
+   "top": [
+    {
+     "name": "Chris Rey",
+     "ra_id": "180940",
+     "soundcloud": "https://soundcloud.com/chriselrey1999",
+     "sc_id": 522957249,
+     "followers": 178,
+     "set": {
+      "id": 2240782301,
+      "title": "Studio Fifty-More Sessions Vol. 1 (1 Hr. of Nu-Disco, Italo Disco, & Disco-House)",
+      "url": "https://soundcloud.com/chriselrey1999/studio-fifty-more-sessions-vol-1",
+      "minutes": 63,
+      "plays": 184,
+      "uploader": "Chris Rey",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2544094",
    "day": "2026-10-15",
    "title": "'SHADES OF HOUSE: Celebrate with Pyrame & You're Next Records!'",
@@ -2061,42 +2098,6 @@
    "artistCount": 0,
    "allArtists": [],
    "top": []
-  },
-  {
-   "id": "2557353",
-   "day": "2026-10-15",
-   "title": "HOUSE EDUCATION #08",
-   "start": "2026-10-15T18:00:00.000",
-   "end": "2026-10-15T23:59:00.000",
-   "venue": "Fitzroy",
-   "url": "https://ra.co/events/2557353",
-   "interested": 5,
-   "genres": [
-    "House"
-   ],
-   "image": "https://images.ra.co/1fe59ede89afec8f6663e1fc77b73509423bdde9.png",
-   "artistCount": 1,
-   "allArtists": [
-    "Chris Rey"
-   ],
-   "top": [
-    {
-     "name": "Chris Rey",
-     "ra_id": "180940",
-     "soundcloud": "https://soundcloud.com/chriselrey1999",
-     "sc_id": 522957249,
-     "followers": 178,
-     "set": {
-      "id": 2240782301,
-      "title": "Studio Fifty-More Sessions Vol. 1 (1 Hr. of Nu-Disco, Italo Disco, & Disco-House)",
-      "url": "https://soundcloud.com/chriselrey1999/studio-fifty-more-sessions-vol-1",
-      "minutes": 63,
-      "plays": 184,
-      "uploader": "Chris Rey",
-      "source": "profile"
-     }
-    }
-   ]
   },
   {
    "id": "2554540",
@@ -2205,6 +2206,23 @@
    "top": []
   },
   {
+   "id": "2558650",
+   "day": "2026-10-15",
+   "title": "LAB NIGHTS – SESSION 010: DISKOHEXE",
+   "start": "2026-10-15T22:00:00.000",
+   "end": "2026-10-16T02:00:00.000",
+   "venue": "Zu Mir Oder Zu Dir",
+   "url": "https://ra.co/events/2558650",
+   "interested": 2,
+   "genres": [
+    "House"
+   ],
+   "image": "https://images.ra.co/51332a37ed0d395680bd3db4a7bdaeed5adf0608.png",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2548503",
    "day": "2026-10-15",
    "title": "Himmel unter Berlin Vol. III",
@@ -2278,23 +2296,6 @@
     "Ambient"
    ],
    "image": "https://images.ra.co/d73359c13063d52ccc74b1c358f417dd9e24f891.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2558650",
-   "day": "2026-10-15",
-   "title": "LAB NIGHTS – SESSION 010: DISKOHEXE",
-   "start": "2026-10-15T22:00:00.000",
-   "end": "2026-10-16T02:00:00.000",
-   "venue": "Zu Mir Oder Zu Dir",
-   "url": "https://ra.co/events/2558650",
-   "interested": 2,
-   "genres": [
-    "House"
-   ],
-   "image": "https://images.ra.co/51332a37ed0d395680bd3db4a7bdaeed5adf0608.png",
    "artistCount": 0,
    "allArtists": [],
    "top": []
@@ -6389,6 +6390,23 @@
    ]
   },
   {
+   "id": "2558593",
+   "day": "2026-10-16",
+   "title": "NTT Records X Rosie's Bar presents: Kantos (all night long)",
+   "start": "2026-10-16T20:00:00.000",
+   "end": "2026-10-17T02:00:00.000",
+   "venue": "Rosie's Bar",
+   "url": "https://ra.co/events/2558593",
+   "interested": 2,
+   "genres": [
+    "House"
+   ],
+   "image": "https://images.ra.co/a7c12a10479c2c76032c5ad9d8d568fb523b9c43.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2545164",
    "day": "2026-10-16",
    "title": "Urban Spree KLUBNACHT (Kim, Kyra)",
@@ -6440,23 +6458,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2558593",
-   "day": "2026-10-16",
-   "title": "NTT Records X Rosie's Bar presents: Kantos (all night long)",
-   "start": "2026-10-16T20:00:00.000",
-   "end": "2026-10-17T02:00:00.000",
-   "venue": "Rosie's Bar",
-   "url": "https://ra.co/events/2558593",
-   "interested": 2,
-   "genres": [
-    "House"
-   ],
-   "image": "https://images.ra.co/a7c12a10479c2c76032c5ad9d8d568fb523b9c43.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2555739",
@@ -7796,7 +7797,7 @@
     "Club"
    ],
    "image": "https://images.ra.co/374e6cbbef1c47163718152f9a01fced828c2847.png",
-   "artistCount": 8,
+   "artistCount": 9,
    "allArtists": [
     "Acid Souljah",
     "bod [包家巷]",
@@ -7805,7 +7806,8 @@
     "Anthracene",
     "auto_timer",
     "Locre",
-    "Laguna (3)"
+    "Laguna (3)",
+    "vangustura"
    ],
    "top": [
     {
@@ -8158,14 +8160,31 @@
    "interested": 92,
    "genres": [],
    "image": "https://images.ra.co/de58efb9e31ac93fef631806ee10deed66d28e31.jpg",
-   "artistCount": 4,
+   "artistCount": 5,
    "allArtists": [
     "Kaytseng",
     "Korl",
     "Qi (ARM)",
-    "TOMO (2)"
+    "TOMO (2)",
+    "Korus"
    ],
    "top": [
+    {
+     "name": "Korus",
+     "ra_id": "190320",
+     "soundcloud": "https://soundcloud.com/noe-prwk",
+     "sc_id": 320993505,
+     "followers": 4115,
+     "set": {
+      "id": 301585271,
+      "title": "VibeUP - Yin Yoga w/ Chelsey Korus & DJ Taz Rashid",
+      "url": "https://soundcloud.com/djtazrashid/vibeup-yin-yoga-w-chelsey-korus-dj-taz-rashid",
+      "minutes": 48,
+      "plays": 21246,
+      "uploader": "DJ Taz Rashid",
+      "source": "search"
+     }
+    },
     {
      "name": "Kaytseng",
      "ra_id": "119437",
@@ -8196,22 +8215,6 @@
       "plays": 2775,
       "uploader": "Korl",
       "source": "profile"
-     }
-    },
-    {
-     "name": "TOMO (2)",
-     "ra_id": "108328",
-     "soundcloud": "https://soundcloud.com/tomo_sound",
-     "sc_id": 228480448,
-     "followers": 1121,
-     "set": {
-      "id": 685676647,
-      "title": "LA HISTORIA DEL TANAJ POR RAB ELIAHU ELJHARAR TOMO 2",
-      "url": "https://soundcloud.com/salomon-michan/la-historia-del-tanaj-por-rab-eliahu-eljharar-tomo-2",
-      "minutes": 69,
-      "plays": 5,
-      "uploader": "Salomon Michan M.",
-      "source": "search"
      }
     }
    ]
@@ -9372,13 +9375,14 @@
     "Techno"
    ],
    "image": "https://images.ra.co/495f2f30e735ba3f9f6c4c525a32f04cb500b291.jpg",
-   "artistCount": 9,
+   "artistCount": 10,
    "allArtists": [
     "Balkhausen",
     "Dshanna",
     "Gray Contrast",
     "Gretchen B",
     "Hendrik Nitsche",
+    "HOLYHANNAH",
     "Jan Ritter",
     "Julez (live)",
     "Kaltgepresst",
@@ -9727,10 +9731,11 @@
     "Electronica"
    ],
    "image": "https://images.ra.co/18ad1df1ad1b10eb39cb8db3d529d5d1552d0f21.png",
-   "artistCount": 3,
+   "artistCount": 4,
    "allArtists": [
     "IDA",
     "FoxMind",
+    "Ecktic",
     "Esterne Moog"
    ],
    "top": [
@@ -10503,10 +10508,11 @@
    "interested": 9,
    "genres": [],
    "image": "https://images.ra.co/4ff7ffdb587b85cff1a3c5369b9681dd07818668.jpg",
-   "artistCount": 3,
+   "artistCount": 4,
    "allArtists": [
     "VEGANICECREAM",
     "NOS-talgia",
+    "KIVII",
     "Karolanne"
    ],
    "top": [
@@ -10825,8 +10831,9 @@
     "Techno"
    ],
    "image": "https://images.ra.co/d6c4d2eb85ef10097f158d923cd73292996c2be8.jpg",
-   "artistCount": 1,
+   "artistCount": 2,
    "allArtists": [
+    "babypangi",
     "sapskt"
    ],
    "top": [
@@ -10845,6 +10852,14 @@
       "uploader": "sapskt",
       "source": "profile"
      }
+    },
+    {
+     "name": "babypangi",
+     "ra_id": "190451",
+     "soundcloud": null,
+     "sc_id": null,
+     "followers": null,
+     "set": null
     }
    ]
   },
@@ -11099,53 +11114,6 @@
    ]
   },
   {
-   "id": "2547258",
-   "day": "2026-10-17",
-   "title": "Zeus plays at migas",
-   "start": "2026-10-17T20:00:00.000",
-   "end": "2026-10-17T23:00:00.000",
-   "venue": "migas, a listening bar",
-   "url": "https://ra.co/events/2547258",
-   "interested": 1,
-   "genres": [],
-   "image": null,
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2551410",
-   "day": "2026-10-17",
-   "title": "INDEPENDENT TANZMUSIK by DJ Spy",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T04:30:00.000",
-   "venue": "Dunckerclub",
-   "url": "https://ra.co/events/2551410",
-   "interested": 1,
-   "genres": [],
-   "image": "https://images.ra.co/82c159f555d2f89e1369535d424a61dee543e1b0.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2556599",
-   "day": "2026-10-17",
-   "title": "Funk You Label Night with PLASTIK FUNK",
-   "start": "2026-10-17T23:00:00.000",
-   "end": "2026-10-18T06:00:00.000",
-   "venue": "The Door Club",
-   "url": "https://ra.co/events/2556599",
-   "interested": 1,
-   "genres": [
-    "Tech House"
-   ],
-   "image": "https://images.ra.co/74917339cceccd177ef7105a84954e84d6df5e45.png",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2558155",
    "day": "2026-10-17",
    "title": "House House House",
@@ -11198,6 +11166,53 @@
      }
     }
    ]
+  },
+  {
+   "id": "2547258",
+   "day": "2026-10-17",
+   "title": "Zeus plays at migas",
+   "start": "2026-10-17T20:00:00.000",
+   "end": "2026-10-17T23:00:00.000",
+   "venue": "migas, a listening bar",
+   "url": "https://ra.co/events/2547258",
+   "interested": 1,
+   "genres": [],
+   "image": null,
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
+   "id": "2551410",
+   "day": "2026-10-17",
+   "title": "INDEPENDENT TANZMUSIK by DJ Spy",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T04:30:00.000",
+   "venue": "Dunckerclub",
+   "url": "https://ra.co/events/2551410",
+   "interested": 1,
+   "genres": [],
+   "image": "https://images.ra.co/82c159f555d2f89e1369535d424a61dee543e1b0.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
+   "id": "2556599",
+   "day": "2026-10-17",
+   "title": "Funk You Label Night with PLASTIK FUNK",
+   "start": "2026-10-17T23:00:00.000",
+   "end": "2026-10-18T06:00:00.000",
+   "venue": "The Door Club",
+   "url": "https://ra.co/events/2556599",
+   "interested": 1,
+   "genres": [
+    "Tech House"
+   ],
+   "image": "https://images.ra.co/74917339cceccd177ef7105a84954e84d6df5e45.png",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2559551",
