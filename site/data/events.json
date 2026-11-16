@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T12:42:31Z",
+ "generated": "2026-11-16T13:35:55Z",
  "events": [
   {
    "id": "2552572",
@@ -10303,6 +10303,76 @@
    "top": []
   },
   {
+   "id": "2563552",
+   "day": "2026-10-17",
+   "title": "BBTD Special Event Round 4: Warschauer Brücke Takeover",
+   "start": "2026-10-17T17:30:00.000",
+   "end": "2026-10-18T01:30:00.000",
+   "venue": "TBA - Warschauer Brücke",
+   "url": "https://ra.co/events/2563552",
+   "interested": 9,
+   "genres": [],
+   "image": "https://images.ra.co/4ff7ffdb587b85cff1a3c5369b9681dd07818668.jpg",
+   "artistCount": 5,
+   "allArtists": [
+    "VEGANICECREAM",
+    "NOS-talgia",
+    "Marcel Bortoni",
+    "KIVII",
+    "Karolanne"
+   ],
+   "top": [
+    {
+     "name": "NOS-talgia",
+     "ra_id": "171340",
+     "soundcloud": "https://soundcloud.com/stillnostalgic",
+     "sc_id": 125134436,
+     "followers": 713,
+     "set": {
+      "id": 1093692772,
+      "title": "Dark Karma",
+      "url": "https://soundcloud.com/stillnostalgic/dark-karma",
+      "minutes": 84,
+      "plays": 4678,
+      "uploader": "NOS-talgia",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "VEGANICECREAM",
+     "ra_id": "118322",
+     "soundcloud": "https://soundcloud.com/veganicecream",
+     "sc_id": 150285273,
+     "followers": 90,
+     "set": {
+      "id": 2408772243,
+      "title": "GROUNDED IN SPACE @ BBTD Special Event | 27.09.26",
+      "url": "https://soundcloud.com/veganicecream/grounded-in-space-bbtd-special",
+      "minutes": 62,
+      "plays": 52,
+      "uploader": "VEGANICECREAM",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Marcel Bortoni",
+     "ra_id": "191510",
+     "soundcloud": "https://soundcloud.com/user-996728825",
+     "sc_id": 331285010,
+     "followers": 60,
+     "set": {
+      "id": 2034641748,
+      "title": "003: COLORES",
+      "url": "https://soundcloud.com/user-996728825/005-colores",
+      "minutes": 82,
+      "plays": 114,
+      "uploader": "Marcel Bortoni",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2546344",
    "day": "2026-10-17",
    "title": "Haus of House",
@@ -10492,75 +10562,6 @@
       "minutes": 98,
       "plays": 483,
       "uploader": "✦ 𝐋𝐮𝐬𝐡 𝐋𝐚𝐛 ✦",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2563552",
-   "day": "2026-10-17",
-   "title": "BBTD Special Event Round 4: Warschauer Brücke Takeover",
-   "start": "2026-10-17T17:30:00.000",
-   "end": "2026-10-18T01:30:00.000",
-   "venue": "TBA - Warschauer Brücke",
-   "url": "https://ra.co/events/2563552",
-   "interested": 9,
-   "genres": [],
-   "image": "https://images.ra.co/4ff7ffdb587b85cff1a3c5369b9681dd07818668.jpg",
-   "artistCount": 4,
-   "allArtists": [
-    "VEGANICECREAM",
-    "NOS-talgia",
-    "KIVII",
-    "Karolanne"
-   ],
-   "top": [
-    {
-     "name": "NOS-talgia",
-     "ra_id": "171340",
-     "soundcloud": "https://soundcloud.com/stillnostalgic",
-     "sc_id": 125134436,
-     "followers": 713,
-     "set": {
-      "id": 1093692772,
-      "title": "Dark Karma",
-      "url": "https://soundcloud.com/stillnostalgic/dark-karma",
-      "minutes": 84,
-      "plays": 4678,
-      "uploader": "NOS-talgia",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "VEGANICECREAM",
-     "ra_id": "118322",
-     "soundcloud": "https://soundcloud.com/veganicecream",
-     "sc_id": 150285273,
-     "followers": 90,
-     "set": {
-      "id": 2408772243,
-      "title": "GROUNDED IN SPACE @ BBTD Special Event | 27.09.26",
-      "url": "https://soundcloud.com/veganicecream/grounded-in-space-bbtd-special",
-      "minutes": 62,
-      "plays": 52,
-      "uploader": "VEGANICECREAM",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Karolanne",
-     "ra_id": "185652",
-     "soundcloud": "https://soundcloud.com/karolanne-774766008",
-     "sc_id": 1548273009,
-     "followers": 57,
-     "set": {
-      "id": 2289173786,
-      "title": "SINE RATIONE",
-      "url": "https://soundcloud.com/karolanne-774766008/unknown",
-      "minutes": 65,
-      "plays": 277,
-      "uploader": "Karolanne",
       "source": "profile"
      }
     }
