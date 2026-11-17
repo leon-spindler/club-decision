@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T13:35:55Z",
+ "generated": "2026-11-17T14:20:24Z",
  "events": [
   {
    "id": "2552572",
@@ -484,6 +484,40 @@
    "top": []
   },
   {
+   "id": "2538524",
+   "day": "2026-10-14",
+   "title": "[CANCELLED] Festival of Lights Afterpary with Hila, selo, Lisa de Lune",
+   "start": "2026-10-14T21:00:00.000",
+   "end": "2026-10-15T04:00:00.000",
+   "venue": "PKH Warehouse",
+   "url": "https://ra.co/events/2538524",
+   "interested": 6,
+   "genres": [],
+   "image": null,
+   "artistCount": 1,
+   "allArtists": [
+    "selo"
+   ],
+   "top": [
+    {
+     "name": "selo",
+     "ra_id": "123634",
+     "soundcloud": "https://soundcloud.com/selo030",
+     "sc_id": 927537094,
+     "followers": 308,
+     "set": {
+      "id": 2083759644,
+      "title": "selo at 4040 (Coco Boule Berlin, 18.04.25)",
+      "url": "https://soundcloud.com/selo030/selo-at-4040-coco-boule",
+      "minutes": 109,
+      "plays": 544,
+      "uploader": "selo",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2507099",
    "day": "2026-10-14",
    "title": "Alpha Maid + Dylan Kerr & Madeline Stepien",
@@ -514,40 +548,6 @@
       "minutes": 95,
       "plays": 1380,
       "uploader": "Dylan__kerr",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
-   "id": "2538524",
-   "day": "2026-10-14",
-   "title": "[CANCELLED] Festival of Lights Afterpary with Hila, selo, Lisa de Lune",
-   "start": "2026-10-14T21:00:00.000",
-   "end": "2026-10-15T04:00:00.000",
-   "venue": "PKH Warehouse",
-   "url": "https://ra.co/events/2538524",
-   "interested": 6,
-   "genres": [],
-   "image": null,
-   "artistCount": 1,
-   "allArtists": [
-    "selo"
-   ],
-   "top": [
-    {
-     "name": "selo",
-     "ra_id": "123634",
-     "soundcloud": "https://soundcloud.com/selo030",
-     "sc_id": 927537094,
-     "followers": 308,
-     "set": {
-      "id": 2083759644,
-      "title": "selo at 4040 (Coco Boule Berlin, 18.04.25)",
-      "url": "https://soundcloud.com/selo030/selo-at-4040-coco-boule",
-      "minutes": 109,
-      "plays": 544,
-      "uploader": "selo",
       "source": "profile"
      }
     }
@@ -1772,59 +1772,6 @@
    ]
   },
   {
-   "id": "2541972",
-   "day": "2026-10-15",
-   "title": "Sssmile Afterhour",
-   "start": "2026-10-15T06:00:00.000",
-   "end": "2026-10-15T13:00:00.000",
-   "venue": "Prisma",
-   "url": "https://ra.co/events/2541972",
-   "interested": 6,
-   "genres": [
-    "Techno"
-   ],
-   "image": "https://images.ra.co/d33204a7a97db6478a58918235fb3f8fc56cc34f.png",
-   "artistCount": 2,
-   "allArtists": [
-    "maniaclina",
-    "Agustin Mendez"
-   ],
-   "top": [
-    {
-     "name": "maniaclina",
-     "ra_id": "116717",
-     "soundcloud": "https://soundcloud.com/maniaclina",
-     "sc_id": 1174670833,
-     "followers": 1320,
-     "set": {
-      "id": 2095112112,
-      "title": "Symbiotikka - KitKat Berlin- DJ maniaclina - May 2025",
-      "url": "https://soundcloud.com/maniaclina/symbiotikka-kitkat-dj-maniaclina-mai-2025",
-      "minutes": 148,
-      "plays": 4423,
-      "uploader": "maniaclina",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Agustin Mendez",
-     "ra_id": "181077",
-     "soundcloud": "https://soundcloud.com/agustin-mendez-14",
-     "sc_id": 116167170,
-     "followers": 18,
-     "set": {
-      "id": 2362639904,
-      "title": "Techno Vol 1.",
-      "url": "https://soundcloud.com/agustin-mendez-14/techno",
-      "minutes": 60,
-      "plays": 86,
-      "uploader": "Agustin Mendez",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2555628",
    "day": "2026-10-15",
    "title": "The Berlin Afrobeat Company, Santrofi",
@@ -1975,6 +1922,95 @@
    ]
   },
   {
+   "id": "2541972",
+   "day": "2026-10-15",
+   "title": "Sssmile Afterhour",
+   "start": "2026-10-15T06:00:00.000",
+   "end": "2026-10-15T13:00:00.000",
+   "venue": "Prisma",
+   "url": "https://ra.co/events/2541972",
+   "interested": 6,
+   "genres": [
+    "Techno"
+   ],
+   "image": "https://images.ra.co/d33204a7a97db6478a58918235fb3f8fc56cc34f.png",
+   "artistCount": 2,
+   "allArtists": [
+    "maniaclina",
+    "Agustin Mendez"
+   ],
+   "top": [
+    {
+     "name": "maniaclina",
+     "ra_id": "116717",
+     "soundcloud": "https://soundcloud.com/maniaclina",
+     "sc_id": 1174670833,
+     "followers": 1320,
+     "set": {
+      "id": 2095112112,
+      "title": "Symbiotikka - KitKat Berlin- DJ maniaclina - May 2025",
+      "url": "https://soundcloud.com/maniaclina/symbiotikka-kitkat-dj-maniaclina-mai-2025",
+      "minutes": 148,
+      "plays": 4423,
+      "uploader": "maniaclina",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Agustin Mendez",
+     "ra_id": "181077",
+     "soundcloud": "https://soundcloud.com/agustin-mendez-14",
+     "sc_id": 116167170,
+     "followers": 18,
+     "set": {
+      "id": 2362639904,
+      "title": "Techno Vol 1.",
+      "url": "https://soundcloud.com/agustin-mendez-14/techno",
+      "minutes": 60,
+      "plays": 86,
+      "uploader": "Agustin Mendez",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2557353",
+   "day": "2026-10-15",
+   "title": "HOUSE EDUCATION #08",
+   "start": "2026-10-15T18:00:00.000",
+   "end": "2026-10-15T23:59:00.000",
+   "venue": "Fitzroy",
+   "url": "https://ra.co/events/2557353",
+   "interested": 5,
+   "genres": [
+    "House"
+   ],
+   "image": "https://images.ra.co/1fe59ede89afec8f6663e1fc77b73509423bdde9.png",
+   "artistCount": 1,
+   "allArtists": [
+    "Chris Rey"
+   ],
+   "top": [
+    {
+     "name": "Chris Rey",
+     "ra_id": "180940",
+     "soundcloud": "https://soundcloud.com/chriselrey1999",
+     "sc_id": 522957249,
+     "followers": 178,
+     "set": {
+      "id": 2240782301,
+      "title": "Studio Fifty-More Sessions Vol. 1 (1 Hr. of Nu-Disco, Italo Disco, & Disco-House)",
+      "url": "https://soundcloud.com/chriselrey1999/studio-fifty-more-sessions-vol-1",
+      "minutes": 63,
+      "plays": 184,
+      "uploader": "Chris Rey",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2544094",
    "day": "2026-10-15",
    "title": "'SHADES OF HOUSE: Celebrate with Pyrame & You're Next Records!'",
@@ -2062,42 +2098,6 @@
    "artistCount": 0,
    "allArtists": [],
    "top": []
-  },
-  {
-   "id": "2557353",
-   "day": "2026-10-15",
-   "title": "HOUSE EDUCATION #08",
-   "start": "2026-10-15T18:00:00.000",
-   "end": "2026-10-15T23:59:00.000",
-   "venue": "Fitzroy",
-   "url": "https://ra.co/events/2557353",
-   "interested": 5,
-   "genres": [
-    "House"
-   ],
-   "image": "https://images.ra.co/1fe59ede89afec8f6663e1fc77b73509423bdde9.png",
-   "artistCount": 1,
-   "allArtists": [
-    "Chris Rey"
-   ],
-   "top": [
-    {
-     "name": "Chris Rey",
-     "ra_id": "180940",
-     "soundcloud": "https://soundcloud.com/chriselrey1999",
-     "sc_id": 522957249,
-     "followers": 178,
-     "set": {
-      "id": 2240782301,
-      "title": "Studio Fifty-More Sessions Vol. 1 (1 Hr. of Nu-Disco, Italo Disco, & Disco-House)",
-      "url": "https://soundcloud.com/chriselrey1999/studio-fifty-more-sessions-vol-1",
-      "minutes": 63,
-      "plays": 184,
-      "uploader": "Chris Rey",
-      "source": "profile"
-     }
-    }
-   ]
   },
   {
    "id": "2554540",
@@ -2206,6 +2206,40 @@
    "top": []
   },
   {
+   "id": "2554652",
+   "day": "2026-10-15",
+   "title": "C. Lavender Book Talk",
+   "start": "2026-10-15T20:00:00.000",
+   "end": "2026-10-15T22:00:00.000",
+   "venue": "Pastiche",
+   "url": "https://ra.co/events/2554652",
+   "interested": 2,
+   "genres": [
+    "Ambient"
+   ],
+   "image": "https://images.ra.co/d73359c13063d52ccc74b1c358f417dd9e24f891.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
+   "id": "2558650",
+   "day": "2026-10-15",
+   "title": "LAB NIGHTS – SESSION 010: DISKOHEXE",
+   "start": "2026-10-15T22:00:00.000",
+   "end": "2026-10-16T02:00:00.000",
+   "venue": "Zu Mir Oder Zu Dir",
+   "url": "https://ra.co/events/2558650",
+   "interested": 2,
+   "genres": [
+    "House"
+   ],
+   "image": "https://images.ra.co/51332a37ed0d395680bd3db4a7bdaeed5adf0608.png",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2548503",
    "day": "2026-10-15",
    "title": "Himmel unter Berlin Vol. III",
@@ -2265,40 +2299,6 @@
      }
     }
    ]
-  },
-  {
-   "id": "2554652",
-   "day": "2026-10-15",
-   "title": "C. Lavender Book Talk",
-   "start": "2026-10-15T20:00:00.000",
-   "end": "2026-10-15T22:00:00.000",
-   "venue": "Pastiche",
-   "url": "https://ra.co/events/2554652",
-   "interested": 2,
-   "genres": [
-    "Ambient"
-   ],
-   "image": "https://images.ra.co/d73359c13063d52ccc74b1c358f417dd9e24f891.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2558650",
-   "day": "2026-10-15",
-   "title": "LAB NIGHTS – SESSION 010: DISKOHEXE",
-   "start": "2026-10-15T22:00:00.000",
-   "end": "2026-10-16T02:00:00.000",
-   "venue": "Zu Mir Oder Zu Dir",
-   "url": "https://ra.co/events/2558650",
-   "interested": 2,
-   "genres": [
-    "House"
-   ],
-   "image": "https://images.ra.co/51332a37ed0d395680bd3db4a7bdaeed5adf0608.png",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
   },
   {
    "id": "2560051",
@@ -2601,7 +2601,7 @@
     "House"
    ],
    "image": "https://images.ra.co/e73b026a5c4aadb004a2b1f800a7c719b15699e2.jpg",
-   "artistCount": 56,
+   "artistCount": 57,
    "allArtists": [
     "Adri Tüde",
     "The Bille",
@@ -2648,6 +2648,7 @@
     "Powel",
     "Sabura",
     "Rad.Lez",
+    "SACODE",
     "Sahra Bass",
     "Sandrino",
     "Sarah Wild",
@@ -5238,57 +5239,6 @@
    ]
   },
   {
-   "id": "2544908",
-   "day": "2026-10-16",
-   "title": "90mil presents: KULKU & MONOSUM",
-   "start": "2026-10-16T22:00:00.000",
-   "end": "2026-10-17T02:00:00.000",
-   "venue": "90mil",
-   "url": "https://ra.co/events/2544908",
-   "interested": 24,
-   "genres": [],
-   "image": "https://images.ra.co/19f12a704ecb1d4491b1b586a7b9958a71565146.png",
-   "artistCount": 2,
-   "allArtists": [
-    "MONOSUM",
-    "Miri Malek"
-   ],
-   "top": [
-    {
-     "name": "Miri Malek",
-     "ra_id": "116407",
-     "soundcloud": "https://soundcloud.com/mirimalek",
-     "sc_id": 13075058,
-     "followers": 470,
-     "set": {
-      "id": 2096129670,
-      "title": "Live at OHM for Awkwardly Social",
-      "url": "https://soundcloud.com/mirimalek/live-at-ohm-for-awkwardly-social",
-      "minutes": 112,
-      "plays": 512,
-      "uploader": "Miri Malek",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "MONOSUM",
-     "ra_id": "189136",
-     "soundcloud": "https://soundcloud.com/monosum",
-     "sc_id": 5061538,
-     "followers": 23,
-     "set": {
-      "id": 16336165,
-      "title": "Monosum Live at life Festival June 2007",
-      "url": "https://soundcloud.com/monosum/monosum-live-at-life-festival",
-      "minutes": 60,
-      "plays": 143,
-      "uploader": "Monosum",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2556833",
    "day": "2026-10-16",
    "title": "Klubnacht + Afterhour",
@@ -5356,6 +5306,57 @@
       "minutes": 78,
       "plays": 9410,
       "uploader": "Alessia Ceruti",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2544908",
+   "day": "2026-10-16",
+   "title": "90mil presents: KULKU & MONOSUM",
+   "start": "2026-10-16T22:00:00.000",
+   "end": "2026-10-17T02:00:00.000",
+   "venue": "90mil",
+   "url": "https://ra.co/events/2544908",
+   "interested": 24,
+   "genres": [],
+   "image": "https://images.ra.co/19f12a704ecb1d4491b1b586a7b9958a71565146.png",
+   "artistCount": 2,
+   "allArtists": [
+    "MONOSUM",
+    "Miri Malek"
+   ],
+   "top": [
+    {
+     "name": "Miri Malek",
+     "ra_id": "116407",
+     "soundcloud": "https://soundcloud.com/mirimalek",
+     "sc_id": 13075058,
+     "followers": 470,
+     "set": {
+      "id": 2096129670,
+      "title": "Live at OHM for Awkwardly Social",
+      "url": "https://soundcloud.com/mirimalek/live-at-ohm-for-awkwardly-social",
+      "minutes": 112,
+      "plays": 512,
+      "uploader": "Miri Malek",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "MONOSUM",
+     "ra_id": "189136",
+     "soundcloud": "https://soundcloud.com/monosum",
+     "sc_id": 5061538,
+     "followers": 23,
+     "set": {
+      "id": 16336165,
+      "title": "Monosum Live at life Festival June 2007",
+      "url": "https://soundcloud.com/monosum/monosum-live-at-life-festival",
+      "minutes": 60,
+      "plays": 143,
+      "uploader": "Monosum",
       "source": "profile"
      }
     }
@@ -5945,6 +5946,67 @@
    ]
   },
   {
+   "id": "2548506",
+   "day": "2026-10-16",
+   "title": "Himmel unter Berlin Vol. III",
+   "start": "2026-10-16T15:00:00.000",
+   "end": "2026-10-16T20:00:00.000",
+   "venue": "TBA - Secret Location",
+   "url": "https://ra.co/events/2548506",
+   "interested": 6,
+   "genres": [],
+   "image": "https://images.ra.co/12f7aefbd8a93ba945bd4d5a2bec285ad5731f9f.jpg",
+   "artistCount": 4,
+   "allArtists": [
+    "media.tribe",
+    "Martin Messier",
+    "Kon (FR)",
+    "Andreas Lutz"
+   ],
+   "top": [
+    {
+     "name": "Martin Messier",
+     "ra_id": "150027",
+     "soundcloud": "https://soundcloud.com/martinmessier",
+     "sc_id": 49904260,
+     "followers": 43,
+     "set": {
+      "id": 1974146511,
+      "title": "Martin Messier - Placing the Body Front & Centre",
+      "url": "https://soundcloud.com/crypticglasgow/martin-messier-placing-the",
+      "minutes": 61,
+      "plays": 5,
+      "uploader": "crypticglasgow",
+      "source": "search"
+     }
+    },
+    {
+     "name": "media.tribe",
+     "ra_id": "130219",
+     "soundcloud": "https://soundcloud.com/mediatribe",
+     "sc_id": 336393332,
+     "followers": 4,
+     "set": null
+    },
+    {
+     "name": "Andreas Lutz",
+     "ra_id": "75897",
+     "soundcloud": "https://soundcloud.com/andreas-lutz-662573944",
+     "sc_id": 170357336,
+     "followers": 1,
+     "set": {
+      "id": 2081995596,
+      "title": "Extended #48 ANDREAS LUTZ | LIVE A/V",
+      "url": "https://soundcloud.com/sonicterritories/extended48",
+      "minutes": 43,
+      "plays": 15,
+      "uploader": "SONIC TERRITORIES Festival",
+      "source": "search"
+     }
+    }
+   ]
+  },
+  {
    "id": "2514037",
    "day": "2026-10-16",
    "title": "WKND X OFFLINE",
@@ -6008,67 +6070,6 @@
    ]
   },
   {
-   "id": "2548506",
-   "day": "2026-10-16",
-   "title": "Himmel unter Berlin Vol. III",
-   "start": "2026-10-16T15:00:00.000",
-   "end": "2026-10-16T20:00:00.000",
-   "venue": "TBA - Secret Location",
-   "url": "https://ra.co/events/2548506",
-   "interested": 6,
-   "genres": [],
-   "image": "https://images.ra.co/12f7aefbd8a93ba945bd4d5a2bec285ad5731f9f.jpg",
-   "artistCount": 4,
-   "allArtists": [
-    "media.tribe",
-    "Martin Messier",
-    "Kon (FR)",
-    "Andreas Lutz"
-   ],
-   "top": [
-    {
-     "name": "Martin Messier",
-     "ra_id": "150027",
-     "soundcloud": "https://soundcloud.com/martinmessier",
-     "sc_id": 49904260,
-     "followers": 43,
-     "set": {
-      "id": 1974146511,
-      "title": "Martin Messier - Placing the Body Front & Centre",
-      "url": "https://soundcloud.com/crypticglasgow/martin-messier-placing-the",
-      "minutes": 61,
-      "plays": 5,
-      "uploader": "crypticglasgow",
-      "source": "search"
-     }
-    },
-    {
-     "name": "media.tribe",
-     "ra_id": "130219",
-     "soundcloud": "https://soundcloud.com/mediatribe",
-     "sc_id": 336393332,
-     "followers": 4,
-     "set": null
-    },
-    {
-     "name": "Andreas Lutz",
-     "ra_id": "75897",
-     "soundcloud": "https://soundcloud.com/andreas-lutz-662573944",
-     "sc_id": 170357336,
-     "followers": 1,
-     "set": {
-      "id": 2081995596,
-      "title": "Extended #48 ANDREAS LUTZ | LIVE A/V",
-      "url": "https://soundcloud.com/sonicterritories/extended48",
-      "minutes": 43,
-      "plays": 15,
-      "uploader": "SONIC TERRITORIES Festival",
-      "source": "search"
-     }
-    }
-   ]
-  },
-  {
    "id": "2553184",
    "day": "2026-10-16",
    "title": "FLINTA* Workshop - Music Production with Ableton Move",
@@ -6097,10 +6098,11 @@
     "Disco"
    ],
    "image": "https://images.ra.co/e5e059a628f57452872dd34cfcd5567bc148393e.png",
-   "artistCount": 2,
+   "artistCount": 3,
    "allArtists": [
     "ULY99",
-    "LINNÉA"
+    "LINNÉA",
+    "SACODE"
    ],
    "top": [
     {
@@ -6116,6 +6118,22 @@
       "minutes": 31,
       "plays": 3348,
       "uploader": "LINNÉA",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "SACODE",
+     "ra_id": "191318",
+     "soundcloud": "https://soundcloud.com/sacodecollective",
+     "sc_id": 1226612671,
+     "followers": 116,
+     "set": {
+      "id": 2386968798,
+      "title": "CAJOUX @ Bucht der Träumer* 2026 | SACODE x Zirkus Mond | Turmbühnchen",
+      "url": "https://soundcloud.com/sacodecollective/cajoux-bucht-der-tra-umer",
+      "minutes": 63,
+      "plays": 405,
+      "uploader": "SACODE",
       "source": "profile"
      }
     },
@@ -6548,21 +6566,6 @@
    ]
   },
   {
-   "id": "2492865",
-   "day": "2026-10-16",
-   "title": "Stimmen in Aspik - Die Schlager-Party",
-   "start": "2026-10-16T21:00:00.000",
-   "end": "2026-10-17T05:00:00.000",
-   "venue": "Hafenbar Berlin",
-   "url": "https://ra.co/events/2492865",
-   "interested": 0,
-   "genres": [],
-   "image": "https://images.ra.co/ade12aae909d42ae2b6ea0e7a434205d51243440.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2531838",
    "day": "2026-10-16",
    "title": "Electro & Techno Sounds Friday",
@@ -6664,6 +6667,21 @@
      }
     }
    ]
+  },
+  {
+   "id": "2492865",
+   "day": "2026-10-16",
+   "title": "Stimmen in Aspik - Die Schlager-Party",
+   "start": "2026-10-16T21:00:00.000",
+   "end": "2026-10-17T05:00:00.000",
+   "venue": "Hafenbar Berlin",
+   "url": "https://ra.co/events/2492865",
+   "interested": 0,
+   "genres": [],
+   "image": "https://images.ra.co/ade12aae909d42ae2b6ea0e7a434205d51243440.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
   },
   {
    "id": "2560054",
@@ -6949,7 +6967,7 @@
     "House"
    ],
    "image": "https://images.ra.co/e73b026a5c4aadb004a2b1f800a7c719b15699e2.jpg",
-   "artistCount": 56,
+   "artistCount": 57,
    "allArtists": [
     "Adri Tüde",
     "The Bille",
@@ -6996,6 +7014,7 @@
     "Powel",
     "Sabura",
     "Rad.Lez",
+    "SACODE",
     "Sahra Bass",
     "Sandrino",
     "Sarah Wild",
@@ -9273,6 +9292,43 @@
    ]
   },
   {
+   "id": "2552838",
+   "day": "2026-10-17",
+   "title": "Tausend House: Shir Khan",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T03:00:00.000",
+   "venue": "Tausend",
+   "url": "https://ra.co/events/2552838",
+   "interested": 31,
+   "genres": [
+    "House",
+    "Electro"
+   ],
+   "image": "https://images.ra.co/98d4f3e0c06aa0a68433654b50383c65b4c133f4.jpg",
+   "artistCount": 1,
+   "allArtists": [
+    "Shir Khan"
+   ],
+   "top": [
+    {
+     "name": "Shir Khan",
+     "ra_id": "1026",
+     "soundcloud": "https://soundcloud.com/shirkhan",
+     "sc_id": 334,
+     "followers": 21207,
+     "set": {
+      "id": 132233074,
+      "title": "SHIR KHAN @ WATERGATE, BERLIN (24/01/2014)",
+      "url": "https://soundcloud.com/shirkhan/shir-khan-watergate-berlin-24",
+      "minutes": 179,
+      "plays": 18783,
+      "uploader": "SHIR KHAN",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
    "id": "2536780",
    "day": "2026-10-17",
    "title": "DEEPER",
@@ -9440,43 +9496,6 @@
    ]
   },
   {
-   "id": "2552838",
-   "day": "2026-10-17",
-   "title": "Tausend House: Shir Khan",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T03:00:00.000",
-   "venue": "Tausend",
-   "url": "https://ra.co/events/2552838",
-   "interested": 31,
-   "genres": [
-    "House",
-    "Electro"
-   ],
-   "image": "https://images.ra.co/98d4f3e0c06aa0a68433654b50383c65b4c133f4.jpg",
-   "artistCount": 1,
-   "allArtists": [
-    "Shir Khan"
-   ],
-   "top": [
-    {
-     "name": "Shir Khan",
-     "ra_id": "1026",
-     "soundcloud": "https://soundcloud.com/shirkhan",
-     "sc_id": 334,
-     "followers": 21207,
-     "set": {
-      "id": 132233074,
-      "title": "SHIR KHAN @ WATERGATE, BERLIN (24/01/2014)",
-      "url": "https://soundcloud.com/shirkhan/shir-khan-watergate-berlin-24",
-      "minutes": 179,
-      "plays": 18783,
-      "uploader": "SHIR KHAN",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2531287",
    "day": "2026-10-17",
    "title": "Partyservice presents BASSSSERVICE",
@@ -9631,91 +9650,6 @@
    "artistCount": 0,
    "allArtists": [],
    "top": []
-  },
-  {
-   "id": "2540515",
-   "day": "2026-10-17",
-   "title": "Hip Hop culture day/Hip hop Kulturtag",
-   "start": "2026-10-17T22:00:00.000",
-   "end": "2026-10-18T06:00:00.000",
-   "venue": "Humboldthain Club",
-   "url": "https://ra.co/events/2540515",
-   "interested": 24,
-   "genres": [
-    "Hip-Hop",
-    "Afro House"
-   ],
-   "image": "https://images.ra.co/05154f91fbf58b278923364210e0fea51323c31d.png",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2548488",
-   "day": "2026-10-17",
-   "title": "NOXYS Späti Tour VOL. 1 with Späti 4 You - FREE RAVE",
-   "start": "2026-10-17T16:00:00.000",
-   "end": "2026-10-17T21:30:00.000",
-   "venue": "TBA - Späti 4 You - Kurfürstenstraße 28, Berlin",
-   "url": "https://ra.co/events/2548488",
-   "interested": 24,
-   "genres": [
-    "Trance",
-    "Techno"
-   ],
-   "image": "https://images.ra.co/6d379f3f75bdad49632f24ad617e56238198f6ea.png",
-   "artistCount": 7,
-   "allArtists": [
-    "Armaville",
-    "F O R E S I G H T",
-    "FAballert",
-    "Dr.Waumiau",
-    "MIMI404",
-    "DJ Sweedee",
-    "OnlyWithYou"
-   ],
-   "top": [
-    {
-     "name": "OnlyWithYou",
-     "ra_id": "128444",
-     "soundcloud": "https://soundcloud.com/djonlywithyou",
-     "sc_id": 186045931,
-     "followers": 20843,
-     "set": {
-      "id": 1705831629,
-      "title": "OnlyWithYou @ Beyond The Valley",
-      "url": "https://soundcloud.com/djonlywithyou/onlywithyou-beyond-the-valley-2024",
-      "minutes": 61,
-      "plays": 57788,
-      "uploader": "OnlyWithYou",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "MIMI404",
-     "ra_id": "165389",
-     "soundcloud": "https://soundcloud.com/mimi404dj",
-     "sc_id": 1202826289,
-     "followers": 2421,
-     "set": {
-      "id": 2041659976,
-      "title": "(hard) trance, dance & bounce (recorded in melbourne)",
-      "url": "https://soundcloud.com/mimi404dj/trance-trash-bounce",
-      "minutes": 99,
-      "plays": 2960,
-      "uploader": "☆MIMI404☆",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Armaville",
-     "ra_id": "145567",
-     "soundcloud": "https://soundcloud.com/armaville",
-     "sc_id": 77528092,
-     "followers": 539,
-     "set": null
-    }
-   ]
   },
   {
    "id": "2556252",
@@ -10303,76 +10237,6 @@
    "top": []
   },
   {
-   "id": "2563552",
-   "day": "2026-10-17",
-   "title": "BBTD Special Event Round 4: Warschauer Brücke Takeover",
-   "start": "2026-10-17T17:30:00.000",
-   "end": "2026-10-18T01:30:00.000",
-   "venue": "TBA - Warschauer Brücke",
-   "url": "https://ra.co/events/2563552",
-   "interested": 9,
-   "genres": [],
-   "image": "https://images.ra.co/4ff7ffdb587b85cff1a3c5369b9681dd07818668.jpg",
-   "artistCount": 5,
-   "allArtists": [
-    "VEGANICECREAM",
-    "NOS-talgia",
-    "Marcel Bortoni",
-    "KIVII",
-    "Karolanne"
-   ],
-   "top": [
-    {
-     "name": "NOS-talgia",
-     "ra_id": "171340",
-     "soundcloud": "https://soundcloud.com/stillnostalgic",
-     "sc_id": 125134436,
-     "followers": 713,
-     "set": {
-      "id": 1093692772,
-      "title": "Dark Karma",
-      "url": "https://soundcloud.com/stillnostalgic/dark-karma",
-      "minutes": 84,
-      "plays": 4678,
-      "uploader": "NOS-talgia",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "VEGANICECREAM",
-     "ra_id": "118322",
-     "soundcloud": "https://soundcloud.com/veganicecream",
-     "sc_id": 150285273,
-     "followers": 90,
-     "set": {
-      "id": 2408772243,
-      "title": "GROUNDED IN SPACE @ BBTD Special Event | 27.09.26",
-      "url": "https://soundcloud.com/veganicecream/grounded-in-space-bbtd-special",
-      "minutes": 62,
-      "plays": 52,
-      "uploader": "VEGANICECREAM",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Marcel Bortoni",
-     "ra_id": "191510",
-     "soundcloud": "https://soundcloud.com/user-996728825",
-     "sc_id": 331285010,
-     "followers": 60,
-     "set": {
-      "id": 2034641748,
-      "title": "003: COLORES",
-      "url": "https://soundcloud.com/user-996728825/005-colores",
-      "minutes": 82,
-      "plays": 114,
-      "uploader": "Marcel Bortoni",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2546344",
    "day": "2026-10-17",
    "title": "Haus of House",
@@ -10562,6 +10426,76 @@
       "minutes": 98,
       "plays": 483,
       "uploader": "✦ 𝐋𝐮𝐬𝐡 𝐋𝐚𝐛 ✦",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2563552",
+   "day": "2026-10-17",
+   "title": "BBTD Special Event Round 4: Warschauer Brücke Takeover",
+   "start": "2026-10-17T17:30:00.000",
+   "end": "2026-10-18T01:30:00.000",
+   "venue": "TBA - Warschauer Brücke",
+   "url": "https://ra.co/events/2563552",
+   "interested": 9,
+   "genres": [],
+   "image": "https://images.ra.co/4ff7ffdb587b85cff1a3c5369b9681dd07818668.jpg",
+   "artistCount": 5,
+   "allArtists": [
+    "VEGANICECREAM",
+    "NOS-talgia",
+    "Marcel Bortoni",
+    "KIVII",
+    "Karolanne"
+   ],
+   "top": [
+    {
+     "name": "NOS-talgia",
+     "ra_id": "171340",
+     "soundcloud": "https://soundcloud.com/stillnostalgic",
+     "sc_id": 125134436,
+     "followers": 713,
+     "set": {
+      "id": 1093692772,
+      "title": "Dark Karma",
+      "url": "https://soundcloud.com/stillnostalgic/dark-karma",
+      "minutes": 84,
+      "plays": 4678,
+      "uploader": "NOS-talgia",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "VEGANICECREAM",
+     "ra_id": "118322",
+     "soundcloud": "https://soundcloud.com/veganicecream",
+     "sc_id": 150285273,
+     "followers": 90,
+     "set": {
+      "id": 2408772243,
+      "title": "GROUNDED IN SPACE @ BBTD Special Event | 27.09.26",
+      "url": "https://soundcloud.com/veganicecream/grounded-in-space-bbtd-special",
+      "minutes": 62,
+      "plays": 52,
+      "uploader": "VEGANICECREAM",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Marcel Bortoni",
+     "ra_id": "191510",
+     "soundcloud": "https://soundcloud.com/user-996728825",
+     "sc_id": 331285010,
+     "followers": 60,
+     "set": {
+      "id": 2034641748,
+      "title": "003: COLORES",
+      "url": "https://soundcloud.com/user-996728825/005-colores",
+      "minutes": 82,
+      "plays": 114,
+      "uploader": "Marcel Bortoni",
       "source": "profile"
      }
     }
@@ -11031,21 +10965,6 @@
    ]
   },
   {
-   "id": "2492868",
-   "day": "2026-10-17",
-   "title": "Käptens Club Party - Disco pur",
-   "start": "2026-10-17T21:00:00.000",
-   "end": "2026-10-18T05:00:00.000",
-   "venue": "Hafenbar Berlin",
-   "url": "https://ra.co/events/2492868",
-   "interested": 2,
-   "genres": [],
-   "image": "https://images.ra.co/5c9cab34f62339c5605aecbd7313012a02b48ad6.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2531846",
    "day": "2026-10-17",
    "title": "Electro & Techno Sounds Saturday",
@@ -11059,6 +10978,21 @@
     "Electro"
    ],
    "image": "https://images.ra.co/af9bd3a5805476e1b685acec20af27e0269b8ae1.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
+   "id": "2492868",
+   "day": "2026-10-17",
+   "title": "Käptens Club Party - Disco pur",
+   "start": "2026-10-17T21:00:00.000",
+   "end": "2026-10-18T05:00:00.000",
+   "venue": "Hafenbar Berlin",
+   "url": "https://ra.co/events/2492868",
+   "interested": 2,
+   "genres": [],
+   "image": "https://images.ra.co/5c9cab34f62339c5605aecbd7313012a02b48ad6.jpg",
    "artistCount": 0,
    "allArtists": [],
    "top": []
