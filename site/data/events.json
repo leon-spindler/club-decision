@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T13:18:05Z",
+ "generated": "2026-11-23T15:55:10Z",
  "events": [
   {
    "id": "2552572",
@@ -1534,8 +1534,8 @@
    "url": "https://ra.co/events/2552693",
    "interested": 20,
    "genres": [
-    "Afrobeat",
-    "Dub"
+    "Dub",
+    "Afrobeat"
    ],
    "image": "https://images.ra.co/0e835783eeb29ab59ff6abdca7b5e6b2945a45ec.jpg",
    "artistCount": 0,
@@ -1834,8 +1834,8 @@
    "url": "https://ra.co/events/2555628",
    "interested": 6,
    "genres": [
-    "Afrobeat",
-    "Jazz"
+    "Jazz",
+    "Afrobeat"
    ],
    "image": "https://images.ra.co/4276f5cf7f064db947de82bff9269efba46e82f8.png",
    "artistCount": 0,
@@ -3207,10 +3207,11 @@
     "Techno"
    ],
    "image": "https://images.ra.co/1bb3d492b1071977a91161f9d11ae94e6e129c48.jpg",
-   "artistCount": 4,
+   "artistCount": 5,
    "allArtists": [
     "Vero_",
     "Gaya Carmeli",
+    "eZaY",
     "TANZBAER",
     "DJ Hotcue"
    ],
