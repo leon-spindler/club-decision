@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T15:33:02Z",
+ "generated": "2026-11-26T15:07:58Z",
  "events": [
   {
    "id": "2552572",
@@ -17,9 +17,9 @@
    "image": "https://images.ra.co/ff11811af4069969708d16263bae053bb567f128.jpg",
    "artistCount": 3,
    "allArtists": [
-    "LNZ.",
     "Ayham",
-    "Niklas Delhey"
+    "Niklas Delhey",
+    "Lenz."
    ],
    "top": [
     {
@@ -484,40 +484,6 @@
    "top": []
   },
   {
-   "id": "2538524",
-   "day": "2026-10-14",
-   "title": "[CANCELLED] Festival of Lights Afterpary with Hila, selo, Lisa de Lune",
-   "start": "2026-10-14T21:00:00.000",
-   "end": "2026-10-15T04:00:00.000",
-   "venue": "PKH Warehouse",
-   "url": "https://ra.co/events/2538524",
-   "interested": 6,
-   "genres": [],
-   "image": null,
-   "artistCount": 1,
-   "allArtists": [
-    "selo"
-   ],
-   "top": [
-    {
-     "name": "selo",
-     "ra_id": "123634",
-     "soundcloud": "https://soundcloud.com/selo030",
-     "sc_id": 927537094,
-     "followers": 308,
-     "set": {
-      "id": 2083759644,
-      "title": "selo at 4040 (Coco Boule Berlin, 18.04.25)",
-      "url": "https://soundcloud.com/selo030/selo-at-4040-coco-boule",
-      "minutes": 109,
-      "plays": 544,
-      "uploader": "selo",
-      "source": "profile"
-     }
-    }
-   ]
-  },
-  {
    "id": "2507099",
    "day": "2026-10-14",
    "title": "Alpha Maid + Dylan Kerr & Madeline Stepien",
@@ -548,6 +514,40 @@
       "minutes": 95,
       "plays": 1380,
       "uploader": "Dylan__kerr",
+      "source": "profile"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2538524",
+   "day": "2026-10-14",
+   "title": "[CANCELLED] Festival of Lights Afterpary with Hila, selo, Lisa de Lune",
+   "start": "2026-10-14T21:00:00.000",
+   "end": "2026-10-15T04:00:00.000",
+   "venue": "PKH Warehouse",
+   "url": "https://ra.co/events/2538524",
+   "interested": 6,
+   "genres": [],
+   "image": null,
+   "artistCount": 1,
+   "allArtists": [
+    "selo"
+   ],
+   "top": [
+    {
+     "name": "selo",
+     "ra_id": "123634",
+     "soundcloud": "https://soundcloud.com/selo030",
+     "sc_id": 927537094,
+     "followers": 308,
+     "set": {
+      "id": 2083759644,
+      "title": "selo at 4040 (Coco Boule Berlin, 18.04.25)",
+      "url": "https://soundcloud.com/selo030/selo-at-4040-coco-boule",
+      "minutes": 109,
+      "plays": 544,
+      "uploader": "selo",
       "source": "profile"
      }
     }
@@ -679,6 +679,24 @@
    "top": []
   },
   {
+   "id": "2494300",
+   "day": "2026-10-14",
+   "title": "Music Lounge mit Moe Jaksch Duo",
+   "start": "2026-10-14T19:00:00.000",
+   "end": "2026-10-14T22:00:00.000",
+   "venue": "Spielbank Berlin am Potsdamer Platz",
+   "url": "https://ra.co/events/2494300",
+   "interested": 0,
+   "genres": [
+    "Jazz",
+    "Pop"
+   ],
+   "image": "https://images.ra.co/2c3313646f4b97b80a8d830c33493af4d7ea8a32.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
    "id": "2559828",
    "day": "2026-10-14",
    "title": "The Alonetimes - Premiere, Guest performance",
@@ -710,24 +728,6 @@
     "Downtempo"
    ],
    "image": "https://images.ra.co/aab9188dc0db8120a3b8cb2bf78d8e250f404cdd.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
-   "id": "2494300",
-   "day": "2026-10-14",
-   "title": "Music Lounge mit Moe Jaksch Duo",
-   "start": "2026-10-14T19:00:00.000",
-   "end": "2026-10-14T22:00:00.000",
-   "venue": "Spielbank Berlin am Potsdamer Platz",
-   "url": "https://ra.co/events/2494300",
-   "interested": 0,
-   "genres": [
-    "Jazz",
-    "Pop"
-   ],
-   "image": "https://images.ra.co/2c3313646f4b97b80a8d830c33493af4d7ea8a32.jpg",
    "artistCount": 0,
    "allArtists": [],
    "top": []
@@ -1534,8 +1534,8 @@
    "url": "https://ra.co/events/2552693",
    "interested": 20,
    "genres": [
-    "Dub",
-    "Afrobeat"
+    "Afrobeat",
+    "Dub"
    ],
    "image": "https://images.ra.co/0e835783eeb29ab59ff6abdca7b5e6b2945a45ec.jpg",
    "artistCount": 0,
@@ -1834,8 +1834,8 @@
    "url": "https://ra.co/events/2555628",
    "interested": 6,
    "genres": [
-    "Jazz",
-    "Afrobeat"
+    "Afrobeat",
+    "Jazz"
    ],
    "image": "https://images.ra.co/4276f5cf7f064db947de82bff9269efba46e82f8.png",
    "artistCount": 0,
@@ -5948,6 +5948,69 @@
    ]
   },
   {
+   "id": "2514037",
+   "day": "2026-10-16",
+   "title": "WKND X OFFLINE",
+   "start": "2026-10-16T22:00:00.000",
+   "end": "2026-10-17T06:00:00.000",
+   "venue": "Weekend",
+   "url": "https://ra.co/events/2514037",
+   "interested": 6,
+   "genres": [
+    "Techno",
+    "House"
+   ],
+   "image": "https://images.ra.co/32618e7834c6f2be70d9b723ca140f72db3a85c9.png",
+   "artistCount": 3,
+   "allArtists": [
+    "DJ PayPaul",
+    "Tiefschwarz",
+    "Tube & Berger"
+   ],
+   "top": [
+    {
+     "name": "Tube & Berger",
+     "ra_id": "7283",
+     "soundcloud": "https://soundcloud.com/tubeandberger",
+     "sc_id": 302854,
+     "followers": 161462,
+     "set": {
+      "id": 156972475,
+      "title": "Tube & Berger's Deeper Sessions Jul 2014 @SiriusXm (radioshow)",
+      "url": "https://soundcloud.com/tubeandberger/tube-bergers-deeper-sessions-jul-2014-siriusxm-radioshow-1",
+      "minutes": 61,
+      "plays": 430765,
+      "uploader": "TUBE & BERGER",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "Tiefschwarz",
+     "ra_id": "277",
+     "soundcloud": "https://soundcloud.com/tiefschwarz",
+     "sc_id": 9153949,
+     "followers": 53075,
+     "set": {
+      "id": 719195167,
+      "title": "Tiefschwarz presents \" A Souvenir from Anna Ullrich\" on Ibiza Global Radio",
+      "url": "https://soundcloud.com/tiefschwarz/igr-anna-ulrichtiefschwarz-presents-a-souvenir-from-anna-ulrich-on-ibiza-global-radio",
+      "minutes": 60,
+      "plays": 45131,
+      "uploader": "Tiefschwarz",
+      "source": "profile"
+     }
+    },
+    {
+     "name": "DJ PayPaul",
+     "ra_id": "139983",
+     "soundcloud": null,
+     "sc_id": null,
+     "followers": null,
+     "set": null
+    }
+   ]
+  },
+  {
    "id": "2548506",
    "day": "2026-10-16",
    "title": "Himmel unter Berlin Vol. III",
@@ -6022,69 +6085,6 @@
    "artistCount": 0,
    "allArtists": [],
    "top": []
-  },
-  {
-   "id": "2514037",
-   "day": "2026-10-16",
-   "title": "WKND X OFFLINE",
-   "start": "2026-10-16T22:00:00.000",
-   "end": "2026-10-17T06:00:00.000",
-   "venue": "Weekend",
-   "url": "https://ra.co/events/2514037",
-   "interested": 6,
-   "genres": [
-    "Techno",
-    "House"
-   ],
-   "image": "https://images.ra.co/32618e7834c6f2be70d9b723ca140f72db3a85c9.png",
-   "artistCount": 3,
-   "allArtists": [
-    "DJ PayPaul",
-    "Tiefschwarz",
-    "Tube & Berger"
-   ],
-   "top": [
-    {
-     "name": "Tube & Berger",
-     "ra_id": "7283",
-     "soundcloud": "https://soundcloud.com/tubeandberger",
-     "sc_id": 302854,
-     "followers": 161462,
-     "set": {
-      "id": 156972475,
-      "title": "Tube & Berger's Deeper Sessions Jul 2014 @SiriusXm (radioshow)",
-      "url": "https://soundcloud.com/tubeandberger/tube-bergers-deeper-sessions-jul-2014-siriusxm-radioshow-1",
-      "minutes": 61,
-      "plays": 430765,
-      "uploader": "TUBE & BERGER",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "Tiefschwarz",
-     "ra_id": "277",
-     "soundcloud": "https://soundcloud.com/tiefschwarz",
-     "sc_id": 9153949,
-     "followers": 53075,
-     "set": {
-      "id": 719195167,
-      "title": "Tiefschwarz presents \" A Souvenir from Anna Ullrich\" on Ibiza Global Radio",
-      "url": "https://soundcloud.com/tiefschwarz/igr-anna-ulrichtiefschwarz-presents-a-souvenir-from-anna-ulrich-on-ibiza-global-radio",
-      "minutes": 60,
-      "plays": 45131,
-      "uploader": "Tiefschwarz",
-      "source": "profile"
-     }
-    },
-    {
-     "name": "DJ PayPaul",
-     "ra_id": "139983",
-     "soundcloud": null,
-     "sc_id": null,
-     "followers": null,
-     "set": null
-    }
-   ]
   },
   {
    "id": "2557959",
@@ -6671,21 +6671,6 @@
    ]
   },
   {
-   "id": "2560054",
-   "day": "2026-10-16",
-   "title": "CLEO",
-   "start": "2026-10-16T22:00:00.000",
-   "end": "2026-10-17T06:00:00.000",
-   "venue": "Georgia Bar",
-   "url": "https://ra.co/events/2560054",
-   "interested": 0,
-   "genres": [],
-   "image": "https://images.ra.co/f5c6ea7ea9b478c5b5b36630b560ed3517936cb0.jpg",
-   "artistCount": 0,
-   "allArtists": [],
-   "top": []
-  },
-  {
    "id": "2492865",
    "day": "2026-10-16",
    "title": "Stimmen in Aspik - Die Schlager-Party",
@@ -6696,6 +6681,21 @@
    "interested": 0,
    "genres": [],
    "image": "https://images.ra.co/ade12aae909d42ae2b6ea0e7a434205d51243440.jpg",
+   "artistCount": 0,
+   "allArtists": [],
+   "top": []
+  },
+  {
+   "id": "2560054",
+   "day": "2026-10-16",
+   "title": "CLEO",
+   "start": "2026-10-16T22:00:00.000",
+   "end": "2026-10-17T06:00:00.000",
+   "venue": "Georgia Bar",
+   "url": "https://ra.co/events/2560054",
+   "interested": 0,
+   "genres": [],
+   "image": "https://images.ra.co/f5c6ea7ea9b478c5b5b36630b560ed3517936cb0.jpg",
    "artistCount": 0,
    "allArtists": [],
    "top": []
